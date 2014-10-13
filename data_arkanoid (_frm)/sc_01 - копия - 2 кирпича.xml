@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<SCENE id="SC_01" title="Общая сцена">
+  <PICTURE id="PIC_SC01_BGR" title="1024x768" x="0" y="0" z="1000" flags="1" />
+  <PICTURE id="PIC_SC01_BALL" title="Ball" x="487" y="657" z="0" flags="1" />
+
+  <PICTURE id="PIC_SC01_BALL2" title="Ball2" x="-100" y="-100" z="0" flags="1" />
+  <PICTURE id="PIC_SC01_BALL3" title="Ball3" x="-105" y="-105" z="0" flags="1" />
+  <PICTURE id="PIC_SC01_BALL4" title="Ball4" x="-110" y="-110" z="0" flags="1" />
+  <PICTURE id="PIC_SC01_BALL5" title="Ball5" x="-120" y="-120" z="0" flags="1" />
+
+  <PICTURE id="PIC_SC01_PADDLE" title="Paddle" x="412" y="708" z="0" flags="1" />
+  <ANI id="ANI_SC01_BRICK" title="Brick" flags="3" x="59" y="140">
+    <STATICS id="ST_SC01_BRICK_BEGIN" />
+    <STATICS id="ST_SC01_BRICK_END" />
+    <MOVEMENT id="MV_SC01_BRICK" title="Brick explosion" nIdPrev="ST_SC01_BRICK_BEGIN" nIdNext="ST_SC01_BRICK_END" dwLoopDelay="42" bUseAuto="0" dwNumPhases="4" nPrevStepX="0" nPrevStepY="0" nNextStepX="0" nNextStepY="0">
+      <PHASE />
+      <PHASE />
+      <PHASE />
+      <PHASE />
+    </MOVEMENT>
+  </ANI>
+<ANI id="ANI_SC01_BRICK0" title="Brick0" flags="3" x="210" y="140">
+    <STATICS id="ST_SC01_BRICK_BEGIN" />
+    <STATICS id="ST_SC01_BRICK_END" />
+    <MOVEMENT id="MV_SC01_BRICK" title="Brick explosion" nIdPrev="ST_SC01_BRICK_BEGIN" nIdNext="ST_SC01_BRICK_END" dwLoopDelay="42" bUseAuto="0" dwNumPhases="4" nPrevStepX="0" nPrevStepY="0" nNextStepX="0" nNextStepY="0">
+      <PHASE />
+      <PHASE />
+      <PHASE />
+      <PHASE />
+    </MOVEMENT>
+  </ANI>
+
+
+
+</SCENE>

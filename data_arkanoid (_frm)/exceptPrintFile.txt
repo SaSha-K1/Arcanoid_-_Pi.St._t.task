@@ -1,0 +1,5044 @@
+Tue Aug 12 18:32:16 2014
+   Exception invoked: "7.In isHit()  vHP.size()==2 but values combination is unexpected."
+Tue Aug 12 18:32:16 2014
+   Exception invoked: "7.In isHit()  vHP.size()==2 but values combination is unexpected."
+Tue Aug 12 18:32:16 2014
+   Exception invoked: "7.In isHit()  vHP.size()==2 but values combination is unexpected."
+Tue Aug 12 18:32:16 2014
+   Exception invoked: "7.In isHit()  vHP.size()==2 but values combination is unexpected."
+Tue Aug 12 18:32:16 2014
+   Exception invoked: "7.In isHit()  vHP.size()==2 but values combination is unexpected."
+Tue Aug 12 18:32:16 2014
+   Exception invoked: "7.In isHit()  vHP.size()==2 but values combination is unexpected."
+Tue Aug 12 18:32:16 2014
+   Exception invoked: "7.In isHit()  vHP.size()==2 but values combination is unexpected."
+Tue Aug 12 18:32:16 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:32:16 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:32:17 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:32:17 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:32:17 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:32:17 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:32:17 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:32:17 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:32:17 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:32:17 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:32:17 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:33:38 2014
+   Exception invoked: "7.In isHit()  vHP.size()==2 but values combination is unexpected."
+Tue Aug 12 18:33:38 2014
+   Exception invoked: "7.In isHit()  vHP.size()==2 but values combination is unexpected."
+Tue Aug 12 18:33:38 2014
+   Exception invoked: "7.In isHit()  vHP.size()==2 but values combination is unexpected."
+Tue Aug 12 18:33:38 2014
+   Exception invoked: "7.In isHit()  vHP.size()==2 but values combination is unexpected."
+Tue Aug 12 18:33:38 2014
+   Exception invoked: "7.In isHit()  vHP.size()==2 but values combination is unexpected."
+Tue Aug 12 18:33:38 2014
+   Exception invoked: "7.In isHit()  vHP.size()==2 but values combination is unexpected."
+Tue Aug 12 18:33:38 2014
+   Exception invoked: "7.In isHit()  vHP.size()==2 but values combination is unexpected."
+Tue Aug 12 18:33:38 2014
+   Exception invoked: "7.In isHit()  vHP.size()==2 but values combination is unexpected."
+Tue Aug 12 18:33:38 2014
+   Exception invoked: "7.In isHit()  vHP.size()==2 but values combination is unexpected."
+Tue Aug 12 18:33:38 2014
+   Exception invoked: "7.In isHit()  vHP.size()==2 but values combination is unexpected."
+Tue Aug 12 18:33:38 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:33:39 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:33:39 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:33:39 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:33:39 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:33:39 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:33:39 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:33:39 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:33:39 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:33:39 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:33:39 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:33:39 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:33:39 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:33:39 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:33:39 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:33:39 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:33:39 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:33:39 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:33:39 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:33:39 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:33:39 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:33:39 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:33:39 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:33:39 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:33:39 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:33:39 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:33:39 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:33:39 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "3.Condition (fi_>=2*PI || fi_<=-2*PI) in Ball::normalizeFi() didn't satisfied."
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:00 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:01 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:02 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:03 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:35:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:05 2014
+   Exception invoked: "3.Condition (fi_>=2*PI || fi_<=-2*PI) in Ball::normalizeFi() didn't satisfied."
+Tue Aug 12 18:37:05 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:05 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:05 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:05 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:05 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:05 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:05 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:05 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:05 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:05 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:05 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:05 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:05 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:05 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:05 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:05 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:05 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:05 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:05 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:05 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:05 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:05 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:05 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:06 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:07 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:08 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:09 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:10 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:11 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:11 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:11 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:11 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:11 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:11 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:11 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:11 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:11 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:11 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:11 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:11 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:11 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:11 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:11 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:11 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:11 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:11 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:11 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:11 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:11 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:11 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:11 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:11 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:11 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:11 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:11 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:11 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:11 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:11 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:11 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:11 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:11 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:11 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:11 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:11 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:11 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:11 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:11 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:11 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:11 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:37:11 2014
+   Exception invoked: "12.The fi_>PI || <=-PI in Ball::isHit() before `switch(dir)`."
+
+Tue Aug 12 18:47:01 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:47:02 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:47:02 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:47:02 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:47:02 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:47:02 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:47:02 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:47:02 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:47:02 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:47:02 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:47:02 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:47:02 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:47:02 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Tue Aug 12 18:47:02 2014
+   Exception invoked: "7.In isHit()  vHP.size()==2 but values combination is unexpected."
+Tue Aug 12 18:47:02 2014
+   Exception invoked: "7.In isHit()  vHP.size()==2 but values combination is unexpected."
+Tue Aug 12 18:47:02 2014
+   Exception invoked: "7.In isHit()  vHP.size()==2 but values combination is unexpected."

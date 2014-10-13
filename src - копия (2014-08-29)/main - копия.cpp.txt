@@ -1,0 +1,34 @@
+////////////////////////////////////////////////////////////////
+//
+//  main.cpp: a part of Arkanoid application
+//  authors: 
+//  ©2010 PIPE Studio
+//
+////////////////////////////////////////////////////////////////
+
+//#include <vld.h>
+#include "game.h"
+#include "random.h"
+#include "controller.h"
+#include "settings.h"
+#include "obj.h"
+#include <stdlib.h>     //Sa$a      //ä/ putenv()
+
+int WINAPI WinMain( __in HINSTANCE hInstance, __in_opt HINSTANCE hPrevInstance, __in_opt LPSTR lpCmdLine, __in int nShowCmd )
+{
+	char* dxPlacementEnvVarValue("DXSDK_DIR=C:\Program Files(x86)\Microsoft DirectX SDK(August 2007)");			//Sa$a
+	_putenv(dxPlacementEnvVarValue);																			//Sa$a
+
+	if (false != CGame::GetInst().Create("Arkanoid.xml"))
+	{
+		CGame::GetInst().SetSettings(new CBaseSettings("PIPE Studio", "Arkanoid"));
+		CGame::GetInst().OnShow();
+		new CArkanoidController(SC_01);
+		CPreloadManager::GetInst().LoadFonts();
+		CGame::GetInst().StartScene();
+		CGame::GetInst().Run();
+		delete CRndGen::GetPtr();
+	}
+	delete CGame::GetPtr();
+	return 0;
+}

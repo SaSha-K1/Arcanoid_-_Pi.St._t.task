@@ -1,0 +1,292 @@
+Mon Aug 11 19:02:48 2014
+   Exception invoked: "1.Unexpected last `else` in Ball::computeNewMoveCenter()."
+Mon Aug 11 19:02:48 2014
+   Exception invoked: "3.Condition (fi_>=2*PI || fi_<=-2*PI) in Ball::normalizeFi() didn't satisfied."
+Mon Aug 11 19:02:48 2014
+   Exception invoked: "3.Condition (fi_>=2*PI || fi_<=-2*PI) in Ball::normalizeFi() didn't satisfied."
+Mon Aug 11 19:02:48 2014
+   Exception invoked: "3.Condition (fi_>=2*PI || fi_<=-2*PI) in Ball::normalizeFi() didn't satisfied."
+Mon Aug 11 19:02:48 2014
+   Exception invoked: "3.Condition (fi_>=2*PI || fi_<=-2*PI) in Ball::normalizeFi() didn't satisfied."
+Mon Aug 11 19:02:48 2014
+   Exception invoked: "3.Condition (fi_>=2*PI || fi_<=-2*PI) in Ball::normalizeFi() didn't satisfied."
+Mon Aug 11 19:02:48 2014
+   Exception invoked: "3.Condition (fi_>=2*PI || fi_<=-2*PI) in Ball::normalizeFi() didn't satisfied."
+Mon Aug 11 19:02:48 2014
+   Exception invoked: "3.Condition (fi_>=2*PI || fi_<=-2*PI) in Ball::normalizeFi() didn't satisfied."
+Mon Aug 11 19:02:48 2014
+   Exception invoked: "3.Condition (fi_>=2*PI || fi_<=-2*PI) in Ball::normalizeFi() didn't satisfied."
+Mon Aug 11 19:02:51 2014
+   Exception invoked: "7.In isHit()  vHP.size()==2 but values combination is unexpected."
+Mon Aug 11 19:02:51 2014
+   Exception invoked: "7.In isHit()  vHP.size()==2 but values combination is unexpected."
+Mon Aug 11 19:02:51 2014
+   Exception invoked: "7.In isHit()  vHP.size()==2 but values combination is unexpected."
+Mon Aug 11 19:02:51 2014
+   Exception invoked: "7.In isHit()  vHP.size()==2 but values combination is unexpected."
+Mon Aug 11 19:02:51 2014
+   Exception invoked: "7.In isHit()  vHP.size()==2 but values combination is unexpected."
+Mon Aug 11 19:02:51 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "4.vHP.size() is >2! in isHit()."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "7.In isHit()  vHP.size()==2 but values combination is unexpected."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "7.In isHit()  vHP.size()==2 but values combination is unexpected."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "7.In isHit()  vHP.size()==2 but values combination is unexpected."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "7.In isHit()  vHP.size()==2 but values combination is unexpected."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "7.In isHit()  vHP.size()==2 but values combination is unexpected."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "7.In isHit()  vHP.size()==2 but values combination is unexpected."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "7.In isHit()  vHP.size()==2 but values combination is unexpected."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "7.In isHit()  vHP.size()==2 but values combination is unexpected."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "7.In isHit()  vHP.size()==2 but values combination is unexpected."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "7.In isHit()  vHP.size()==2 but values combination is unexpected."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "7.In isHit()  vHP.size()==2 but values combination is unexpected."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "7.In isHit()  vHP.size()==2 but values combination is unexpected."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "7.In isHit()  vHP.size()==2 but values combination is unexpected."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "7.In isHit()  vHP.size()==2 but values combination is unexpected."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "7.In isHit()  vHP.size()==2 but values combination is unexpected."
+Mon Aug 11 19:02:52 2014
+   Exception invoked: "7.In isHit()  vHP.size()==2 but values combination is unexpected."
+Mon Aug 11 19:03:01 2014
+   Exception invoked: "1.Unexpected last `else` in Ball::computeNewMoveCenter()."
+Mon Aug 11 19:03:01 2014
+   Exception invoked: "3.Condition (fi_>=2*PI || fi_<=-2*PI) in Ball::normalizeFi() didn't satisfied."
+Mon Aug 11 19:03:01 2014
+   Exception invoked: "3.Condition (fi_>=2*PI || fi_<=-2*PI) in Ball::normalizeFi() didn't satisfied."
+Mon Aug 11 19:03:01 2014
+   Exception invoked: "3.Condition (fi_>=2*PI || fi_<=-2*PI) in Ball::normalizeFi() didn't satisfied."
+Mon Aug 11 19:03:01 2014
+   Exception invoked: "3.Condition (fi_>=2*PI || fi_<=-2*PI) in Ball::normalizeFi() didn't satisfied."
+Mon Aug 11 19:03:01 2014
+   Exception invoked: "3.Condition (fi_>=2*PI || fi_<=-2*PI) in Ball::normalizeFi() didn't satisfied."
+Mon Aug 11 19:03:01 2014
+   Exception invoked: "3.Condition (fi_>=2*PI || fi_<=-2*PI) in Ball::normalizeFi() didn't satisfied."
