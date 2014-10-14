@@ -44,6 +44,7 @@ public:
             case 22: exceptPrintFile << asctime(localtime(&t))<< "   Exception invoked: \"22.m_LavBricks.CreateAccessHandler(2) returned ptr == `nullptr` in IsHitWithBricks().\"" << std::endl; break;\
             case 23: exceptPrintFile << asctime(localtime(&t))<< "   Exception invoked: \"23.In _BALL::InitHitChckPntsVec() size of vector m_svfBallHitChckPntsAngles != m_suNUM_OF_HIT_CHCK_PNTS.\"" << std::endl; break;\
             case 24: exceptPrintFile << asctime(localtime(&t))<< "   Exception invoked: \"24.CLavHandler C-tor have got reference `rLockCode`, that != 0.\"" << std::endl; break;\
+            case 25: exceptPrintFile << asctime(localtime(&t))<< "   Exception invoked: \"25.In case `LOST` in the `CArkanoidController::ProcessWinLostState()` vector of bricks isn't empty.\"" << std::endl; break;\
             default: exceptPrintFile << asctime(localtime(&t))<< "   Exception invoked: \"Unexpected exception!\"" << std::endl; break;\
         }\
     }

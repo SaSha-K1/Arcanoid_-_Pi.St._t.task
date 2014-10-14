@@ -30,8 +30,11 @@
 //class CArkanoidController;
 class CScene;
 
+
 ////////////////////////////// EXP ZONE VVVVVVVVVVVVVVVVVVVV
-#define _LAV_MACRO CLockableAccessVec<_BRICK*>::CLavHandler
+
+//#define _LAV_MACRO CLockableAccessVec<_BRICK*>::CLavHandler   //так нельз€, т.к. тут _BRICK не определено (брик.h не инклудим)
+
 ////////////////////////////// EXP ZONE XXXXXXXXXXXXXXXXXXXX
 
 
@@ -59,8 +62,8 @@ public:
             CArkanoidController* const      pArkCntrllr,
 
 ///@@@ „его так??: (€ ж подключил хедер, в котором typedef)
-///@@@ error C2065: '_LAV_HANDLER' : undeclared identifier             
-///@@@..            std::auto_ptr<_LAV_HANDLER>*    ppLavHndlr = nullptr    //«акомментировано знач-е by def., установленное в объ€влении метода.     //@@нет ни одного `const`'а, т.к. и указатель переопредел€ю и вызываю неконст.методы дл€ разыменованного ptr'а.
+///@@@ error C2065: '_LAV_OFBRICKS_HNDLR' : undeclared identifier             
+///@@@..            std::auto_ptr<_LAV_OFBRICKS_HNDLR>*    ppLavHndlr = nullptr    //«акомментировано знач-е by def., установленное в объ€влении метода.     //@@нет ни одного `const`'а, т.к. и указатель переопредел€ю и вызываю неконст.методы дл€ разыменованного ptr'а.
             std::auto_ptr<CLockableAccessVec</*_BRICK*/CBrick*>::CLavHandler/*<_BRICK*>*/>*    ppLavHndlr = nullptr    //«акомментировано знач-е by def., установленное в объ€влении метода.     //@@нет ни одного `const`'а, т.к. и указатель переопредел€ю и вызываю неконст.методы дл€ разыменованного ptr'а.
         );
 
@@ -71,10 +74,11 @@ public:
     void RetrieveBrick(/*std::vector<*/ const std::vector<vector2>* /*>*/ const  /*vpvBricksOnLvlsCoords*/pvBricksOnCurrLvlCoords);
 
 ///@@@ „его так??: (€ ж подключил хедер, в котором typedef)
-///@@@ error C2065: '_LAV_HANDLER' : undeclared identifier             
-///@@@..    std::auto_ptr<_LAV_HANDLER> GetLavHndlr(const u32 key);     //интерфейсный метода, возвращающий m_LavBricks.CreateAccessHandler(key).   ///@@@ѕросмотреть, примен€ю где-то, или нет
+///@@@ error C2065: '_LAV_OFBRICKS_HNDLR' : undeclared identifier             
+///@@@..    std::auto_ptr<_LAV_OFBRICKS_HNDLR> GetLavHndlr(const u32 key);     //интерфейсный метода, возвращающий m_LavBricks.CreateAccessHandler(key).   ///@@@ѕросмотреть, примен€ю где-то, или нет
 //    std::auto_ptr</*CLockableAccessVec<_BRICK*>::CLavHandler*/_LAV_MACRO> GetLavHndlr(const u32 key);     //интерфейсный метода, возвращающий m_LavBricks.CreateAccessHandler(key).   ///@@@ѕросмотреть, примен€ю где-то, или нет
-    std::auto_ptr<_LAV_OFBRICKS_HANDLER> GetLavHndlr(const u32 key);     //интерфейсный метода, возвращающий m_LavBricks.CreateAccessHandler(key).   ///@@@ѕросмотреть, примен€ю где-то, или нет
+    //std::auto_ptr<_LAV_OFBRICKS_HNDLR> GetLavHndlr(const u32 key); //замен€ю, т.к. _LAV_OFBRICKS_HNDLR не определ€ю
+    std::auto_ptr<CLockableAccessVec<CBrick*>::CLavHandler> GetLavHndlr(const u32 key);     //интерфейсный метода, возвращающий m_LavBricks.CreateAccessHandler(key).   ///@@@ѕросмотреть, примен€ю где-то, или нет
     void CleanBricks(                           //перебирает кирпичи из `m_LavBricks` и примен€ет `DelBrick()`
             CScene* const                   sc,
             CArkanoidController* const      pArkCntrllr
@@ -88,6 +92,11 @@ public:
             CScene*                 sc, 
             std::vector<vector2>*   pvBricksOnLvlCoords
         );
+
+#if DEBUG==1
+    void IsBricksEmptyCheck();       //д/ метода  `CArkanoidController::ProcessWinLostState()`  ѕровер€ю, что вектор кирпичей пуст. If нет, кидаю MyExcptn.  
+#endif
+
 
 
 private:

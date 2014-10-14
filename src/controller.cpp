@@ -23,7 +23,7 @@
 //#include "brick.h"  //@@@ #WARNING: закомментил пока не глядя. Но по-идее тут должны быть ссылки только на менеджеры, но не на вложенные в них CBall и CBrick
 #include "guiPrint.h"
 #include "dbgPrint.h"
-#include "lockableAccessVec.h"  //в `ProcessWinLostState()` создаю auto_ptr<_LAV_HANDLER>
+//#include "lockableAccessVec.h"  //в `ProcessWinLostState()` создаю auto_ptr<_LAV_OFBRICKS_HNDLR>. этот момент убрал. Возможно, больше и не нужно
 #include "random.h" ///@@@ нужно только д/ dbgPrint'ов в `OnMouseKeyDown()`. Убрать!
 
 
@@ -135,7 +135,7 @@ void CArkanoidController::MovePad(u32 _x, u32 _y)
 //// ProcessWinLostState() ////
 void CArkanoidController::ProcessWinLostState(CScene* sc)
 {
-    if (m_GameState==RUN)   ///@@@ это метод, вызываемый каждый такт. Возможно вынести условие проверки, а делать ли что-то вообще (ну т.е., вроде как то, что в этой строке написано) дык вот - подумать, может вынести его во внешн.код, чтоб экономить на вызове этой ф-ции
+    if (m_GameState==RUN)   ///@@@ это метод, вызываемый каждый такт. Возможно вынести условие проверки "А делать ли что-то вообще?" (ну т.е., вроде как то, что в этой строке написано) дык вот - подумать, может вынести его во внешн.код, чтоб экономить на вызове этой ф-ции
         return;
 
     //GameOver
@@ -146,16 +146,19 @@ void CArkanoidController::ProcessWinLostState(CScene* sc)
 		
         //ожидание клика (подбробное описание см.в месте определения переменной)
         if (m_WaitForClick==0)
-            m_WaitForClick=1;
+            //m_WaitForClick=1;   //Was: error C2440: '=' : cannot convert from 'int' to 'CArkanoidController::WFC_STATE' 149
+            m_WaitForClick = static_cast<WFC_STATE>(1);   
+
         if (m_WaitForClick==1)
             return;
 
         SleepMy(5);///@@@@ надпись не успевает почему-то показаться. Попробовать писать тут в файл, а в OnRender() проверять флаг, и печатать из файла. Пока обошёлся m_WaitForClick()'ом
-        Print("", (m_fSceneHeight-10)/2, (m_fSceneWidth-30)/2, 10,220,220, 100);
+        Print("", (m_fSceneHeight-10)/2, (m_fSceneWidth-30)/2, 10,220,220, 100);    ///@@@??: вроде затираю сообщение о Lost, но вот только не пойму, как именно, т.к. координаты не совпадают
         //ballsPictObjectsUsage.fill(0);	//это лишнее
         InitNewGame(sc);
 
-        m_WaitForClick=0;
+        //m_WaitForClick = 0;   //Was: error C2440: '=' : cannot convert from 'int' to 'CArkanoidController::WFC_STATE'	158
+        m_WaitForClick = WFC_OFF;
     }
 	
     //Victory
@@ -165,25 +168,27 @@ void CArkanoidController::ProcessWinLostState(CScene* sc)
         Print("Click to continue", (m_fSceneHeight+40)/2,m_fSceneWidth*2/5+40, 40,40,40, 100);
         //удалить все мячики в цикле (проследить, чтобы граф.объекты их тоже уехали за поле
 #if DEBUG==1
-        {   //Проверяю, что вектор кирпичей пуст.   ///@@@ Тут vvv Не пойму, что не нра КОМП-ру.. Вроде всё верно! (( так "m_pBricksMngr->GetLavBricksPtr()" передаётся нормально ptr на `CLockableAccessVec<_BRICK*>` в методе `OnRender()` (см.тут 356стр.); Так "std::auto_ptr<_LAV_HANDLER> pLavHndlr = m_LavBricks.CreateAccessHandler(3);" создаю ауто_птр, обращаясь к `.CreateAccessHandler()` через точку напр. в bricksManager.cpp (стр.28). Почему тут не работает доступ к єтому методу ч/з `->` из ptr'а на `m_LavBricks` НЕ ПОЙМУ!??   Должно быть какая-то накопленная ошибка даёт знать о себе тут. Надеюсь, что когда допилю всё, тут всё станет само собой гуд.
-                                                    ///@@@.. можно просто заменить эти строки методом IsBricksEmpty(), определив его в Брик_менеджере. Тогда проблему эту можно бу обойти вроде..
-            std::auto_ptr<_LAV_HANDLER> pLavHndlr = m_pBricksMngr->GetLavBricksPtr()->CreateAccessHandler(6); //m_LavBricks.CreateAccessHandler(6);
-            if ( !(*pLavHndlr)->empty() ) throw CMyExcptn(10);
-        }
+//#OUTDATED:
+//        {   //Проверяю, что вектор кирпичей пуст.   ///@@@ Тут vvv Не пойму, что не нра КОМП-ру.. Вроде всё верно! (( так "m_pBricksMngr->GetLavBricksPtr()" передаётся нормально ptr на `CLockableAccessVec<_BRICK*>` в методе `OnRender()` (см.тут 356стр.); Так "std::auto_ptr<_LAV_OFBRICKS_HNDLR> pLavHndlr = m_LavBricks.CreateAccessHandler(3);" создаю ауто_птр, обращаясь к `.CreateAccessHandler()` через точку напр. в bricksManager.cpp (стр.28). Почему тут не работает доступ к єтому методу ч/з `->` из ptr'а на `m_LavBricks` НЕ ПОЙМУ!??   Должно быть какая-то накопленная ошибка даёт знать о себе тут. Надеюсь, что когда допилю всё, тут всё станет само собой гуд.
+//                                                    ///@@@.. можно просто заменить эти строки методом IsBricksEmpty(), определив его в Брик_менеджере. Тогда проблему эту можно бу обойти вроде..
+//            std::auto_ptr<_LAV_OFBRICKS_HNDLR> pLavHndlr = m_pBricksMngr->GetLavBricksPtr()->CreateAccessHandler(6); //m_LavBricks.CreateAccessHandler(6);
+//            if ( !(*pLavHndlr)->empty() ) throw CMyExcptn(10);
+//        }
+        m_pBricksMngr->IsBricksEmptyCheck();
 #endif
 
         m_pBallsMngr->CleanBalls(m_GameState);
 
 		//ожидание клика (подбробное описание см.в месте определения переменной)
         if (m_WaitForClick==0)
-            m_WaitForClick=1;
+            m_WaitForClick = static_cast<WFC_STATE>(1);
         if (m_WaitForClick==1)
             return;
 		
         InitNewGame(sc);
         Print("", (m_fSceneHeight-10)/2, (m_fSceneWidth-30)/2, 220,10,220, 100);
 
-        m_WaitForClick=0;
+        m_WaitForClick = WFC_OFF/*0*/;
     }
 }									
 
@@ -226,7 +231,7 @@ CArkanoidController::CArkanoidController(u32 sceneId)
 //#endif
 
     m_WaitForClick(WFC_OFF),
-#if DONT_DELETE_ANI_BRICKS 1
+#if DONT_DELETE_ANI_BRICKS == 1
     m_GameState(NEW),
 #else
     m_GameState(RUN),

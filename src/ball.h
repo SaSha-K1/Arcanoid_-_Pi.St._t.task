@@ -17,11 +17,15 @@
 #include "ballsManager.h" //пробовал заменить forward-decl., но "inconplete type is not allowed"
 #include "lockableAccessVec.h"    ///@@@ #TODO: пытаюсь заменить frwrd-decl'ом (см.стр.14)
 //#include "brick.h"    //меняю на frwd-decl.
+#include "brick.h"      ///@@@!! Можно было бы без, если бы уже C++0x. А пока вынужден, т.к. не работает frwrd-decl. через `typename` (далее подробнее):  //typename CArkanoidController::CBricksManager::CBrick;   //`typename` instead of `class` because of (see above): "Nestsed class Frwrd-decl.-tion is NOT ALLOWED! ///@@@! But not allowed before C++0x.  ---  Блин! Придётся инклудить брик.h =((
+                        //можно без этого инклуда, т.к. он в подключённом тут ballsMngr.h есть.
 
 //// Forward declatations:
 class CPictureObject;
-class CArkanoidController::CBricksManager::CBrick;      ///@@@ #WARNIRNG: может это неправильно и нужно отдельно объявить и кл. `CBicksManager`. Тут не выдаёт ошибок даже без этих строк вообще, т.к., видимо, где-то стыкуется с "brick.h" в др. файле, где инклудятся вместе 
-typedef CArkanoidController::CBricksManager::CBrick _BRICK; //использую как frwrd-decl., хотя технически это, видимо, не совсем так.
+//class CArkanoidController::CBricksManager::CBrick;      ///@@@ #WARNIRNG: может это неправильно и нужно отдельно объявить и кл. `CBicksManager`. Тут не выдаёт ошибок даже без этих строк вообще, т.к., видимо, где-то стыкуется с "brick.h" в др. файле, где инклудятся вместе.   ///@@@ Nestsed class Frwrd-decl.-tion is NOT ALLOWED!
+//typename CArkanoidController::CBricksManager::CBrick;   //`typename` instead of `class` because of (see above): "Nestsed class Frwrd-decl.-tion is NOT ALLOWED!     //Строка эта не обязательна, т.к. такая же есть в ballsManager.h, кот.тут инклудится. ///@@@! But not allowed before C++0x.  ---  Блин! Придётся инклудить брик.h =((
+//typedef CArkanoidController::CBricksManager::CBrick _BRICK; //использую как frwrd-decl., хотя технически это, видимо, не совсем так.  //No need more because of forced include of brick.h (see string above)
+                    ///@@@? Не знаю, можно ли Nestsed class Frwrd-decl.?
 
 ///@@@ #TODO: попробовать избавиться от лишних инклудов. Напр.,  "#include "lockableAccessVec.h"  тут заменить следующим frwrd-decl'ом (надеюсь, написал верно) 
 //template <typename T>

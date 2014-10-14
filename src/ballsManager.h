@@ -25,13 +25,15 @@
 #include "controller.h" //напр., д/  " CArkanoidController::GAME_STATE&    gameState ..."
 #include "lockableAccessVec.h"  //принимаю параметр в ProcessIsHit()
 #include "dbgPrint.h"   //объявляю ф-ции друзьями
+#include "brick.h"      ///@@@!! Можно было бы без, если бы уже C++0x. А пока вынужден, т.к. не работает frwrd-decl. через `typename` (далее подробнее):  //typename CArkanoidController::CBricksManager::CBrick;   //`typename` instead of `class` because of (see above): "Nestsed class Frwrd-decl.-tion is NOT ALLOWED! ///@@@! But not allowed before C++0x.  ---  Блин! Придётся инклудить брик.h =((
 
 
 //// Forward declatations:
 class CPictureObject;
-class CArkanoidController::CBricksManager;
-class CArkanoidController::CBricksManager::CBrick;
-typedef CArkanoidController::CBricksManager::CBrick _BRICK;
+//class CArkanoidController::CBricksManager;    //не нужно, т.к. уже:  #include "controller.h" 
+//class CArkanoidController::CBricksManager::CBrick;  ///@@@ Nestsed class Frwrd-decl.-tion is NOT ALLOWED!
+//typename CArkanoidController::CBricksManager::CBrick;   //`typename` instead of `class` because of (see above): "Nestsed class Frwrd-decl.-tion is NOT ALLOWED! ///@@@! But not allowed before C++0x.  ---  Блин! Придётся инклудить брик.h =((
+//typedef CArkanoidController::CBricksManager::CBrick _BRICK; //No need more because of forced include of brick.h (see string above)
 
 
 
@@ -94,14 +96,14 @@ public:
             const u32 r/*=1*/, const u32 g/*=255*/, const u32 b/*=255*/, const u32 a/*=100*/     //Цвет
         );														
     template <typename T> 
-    friend void dbgPrnt::DbgPrint(
+    friend void dbgPrnt::DbgPrint/*<T>/**/(
         const std::string &txt,
         const T &var,       ///@@@ если парсер будет париться, какую из ф-ий DbgPrint() подставлять, то попробовать тут принимать ptr на var-ую - может тип переменной - указатель будет определять ф-ю однозначно
         const u32 y,    const u32 x/*=10*/,                                     //Координаты
         const u32 r/*=10*/, const u32 g/*=10*/, const u32 b/*=10*/, const u32 a/*=100*/     //Цвет
     );
     template <typename T1, typename T2> 
-    friend void DbgPrint(
+    friend void DbgPrint/*<T1, T2>/**/(
         const std::string &txt,
         const T1 &var1, 
         const T2 &var2, 
@@ -148,6 +150,9 @@ private:
 };
 
 typedef CArkanoidController::CBallsManager _BALLS_MNGR;
+
+///@@@!: warning C4512: 'CArkanoidController::CBallsManager' : assignment operator could not be generated	d:\arkanoid\src\ballsmanager.h	150
+
 
 
 

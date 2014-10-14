@@ -44,7 +44,7 @@ void _BALLS_MNGR::AddBall(const bool attachToPad,  /*const*/ CPictureObject* con
         //    }
 
         //std::for_each(m_mBallsPictObjects.begin(), m_mBallsPictObjects.end(), [] (..      //тут ещё и `break;` не работает - нужно BOOST_FOREACH
-        for (auto& it = m_mBallsPictObjects.begin();  it != m_mBallsPictObjects.end();  ++it)
+        for (auto/*&*/ it = m_mBallsPictObjects.begin();  it != m_mBallsPictObjects.end();  ++it)
             if (true == (*it).second)
             {
                 m_vBalls.push_back(new CBall((*it).first, attachToPad, pPad));
@@ -119,7 +119,7 @@ void _BALLS_MNGR::ProcessIsHit(     //Провека коллизий и пересчёт траекторий
         )
 {   ///@@ Stoped_here 2014/09/16
     _BALL::DIRECTION dir;
-    for (auto& itb = m_vBalls.begin();  itb != m_vBalls.end();  ++itb)	///@@@ Использование ITERATOR'а 
+    for (auto/*&*/ itb = m_vBalls.begin();  itb != m_vBalls.end();  ++itb)	///@@@ Использование ITERATOR'а 
     {
         dir = (*itb)->IsHit( (*itb)->GetBallPicObj(), pPad, *pLavBricks, fSceneW, gameState );
         if (dir != -1)

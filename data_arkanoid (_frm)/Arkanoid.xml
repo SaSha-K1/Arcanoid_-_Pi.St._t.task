@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<PROJECT title="Arkanoid" width="1024" height="768" dbg_font="dbg.xml" start="SC_01" fullscreen="0" serializable="0">
+  <DIALOGCONTROLLER x="20" y="650" w="900" h="200" font="dlg.xml" render="true" />
+  <SCENE id="SC_01" file="sc_01.xml" />
+  <CURSORCONTROLLER />
+</PROJECT>

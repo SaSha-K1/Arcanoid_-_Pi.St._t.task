@@ -95,9 +95,6 @@
     <ClCompile Include="brick.cpp" />
     <ClCompile Include="bricksManager.cpp" />
     <ClCompile Include="controller.cpp" />
-    <ClCompile Include="dbgPrint.cpp" />
-    <ClCompile Include="guiPrint.cpp" />
-    <ClCompile Include="lockableAccessVec.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="settings.cpp" />
   </ItemGroup>

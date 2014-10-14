@@ -6,6 +6,10 @@
 #include "brick.h"  ///@@@ Это плохо. Нужно, т.к. обращаюсь к ->GetBrickAniObj(), ->m_state, и BRICK_STATE. Всё это в методе IsHitWithBrick().   #TODO: Попытаться избавиться от такой зависимости этих 2х классов (возможно, заменив зависимостью от интерфейсного класса CAbstractBrick, от которого унаследовать уже CBrick).
 
 
+//// TYPES:
+typedef /*typename/**/ CLockableAccessVec<_BRICK*>::CLavHandler _LAV_OFBRICKS_HNDLR;  // `typename` may be not allowed out of `template`  ///: err C2899: typename cannot be used outside a template declaration	10
+
+
 
 //// Static data-members:
 _BALL*                  _BALL::m_spIsAttachedToPad      = nullptr;
@@ -135,7 +139,7 @@ void _BALL::InitHitChckPntsVec()
     // 2of2) Initializing of vector of hit check points:
     float ballR = m_pBallPicObj->GetSize().y / 2.0;
     float currAng;
-    for (auto& it = m_svfBallHitChckPntsAngles.begin();  m_svfBallHitChckPntsAngles.end() != it;  ++it)
+    for (auto/*&*/ it = m_svfBallHitChckPntsAngles.begin();  m_svfBallHitChckPntsAngles.end() != it;  ++it)
     {
         //Использую выведенные формулы определения растровых x и y из уравнения окружности шарика:
         //Последнее условное слагаемое (1 или 0) нужно: т.к. тут имеем дело с растровым изображением, то, ..
@@ -366,7 +370,7 @@ void _BALL::IsHitWithBricks(
 //        while (_BRICK::BricksLockOn(1) != 1)	///In IsHit()
 //        {	/*включаю замок на изменения в m_vpBricks {{объект заменён на: `m_LavBricks`}}. Если уже включён кем-то другим, жду*/
 
-            std::auto_ptr<_LAV_HANDLER> pLavHndlr = lavBricks.CreateAccessHandler(2);
+            std::auto_ptr<_LAV_OFBRICKS_HNDLR> pLavHndlr = lavBricks.CreateAccessHandler(2);
 #if DEBUG==1
             if (nullptr == pLavHndlr.get()) throw CMyExcptn(22);
 #endif //DEBUG

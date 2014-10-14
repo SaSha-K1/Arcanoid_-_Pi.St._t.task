@@ -7,6 +7,10 @@
 #include "myExcptn.h"
 
 
+//// TYPES:
+typedef /*typename/**/ CLockableAccessVec<_BRICK*>::CLavHandler _LAV_OFBRICKS_HNDLR;  // `typename` may be not allowed out of `template`  ///: err C2899: typename cannot be used outside a template declaration	11
+
+
 
 //// C-tor ////
 _BRICKS_MNGR::CBricksManager(const u32 numOfBricksOnLvl)
@@ -25,8 +29,8 @@ void _BRICKS_MNGR::AddBrick(
         CScene* const           sc  //@@ вначале нет `const`, ибо есть вызов неконст.метода AddAni()
     )
 {
-    std::auto_ptr<_LAV_HANDLER> pLavHndlr = m_LavBricks.CreateAccessHandler(3);
-    if (!(*pLavHndlr)->empty())	//#NOTE: опер-ры `*` и `->` перегружены д/ _LAV_HANDLER    //Если это первый кирпич, то значит не создаём копии аниобъекта, а берём уже готовый, который загружен из xml
+    std::auto_ptr<_LAV_OFBRICKS_HNDLR> pLavHndlr = m_LavBricks.CreateAccessHandler(3);
+    if (!(*pLavHndlr)->empty())	//#NOTE: опер-ры `*` и `->` перегружены д/ _LAV_OFBRICKS_HNDLR    //Если это первый кирпич, то значит не создаём копии аниобъекта, а берём уже готовый, который загружен из xml
     {
         (*pLavHndlr)->push_back(new _BRICK(new CAniObject(*baseBrick), position));
         sc->AddAni((*pLavHndlr)->back()->GetBrickAniObj()/**/, 1/**/);	//Добавить ани-объект в сцену 
@@ -44,7 +48,7 @@ void _BRICKS_MNGR::DelBrick(
             const u32                       i, 
             CScene* const                   sc,
             CArkanoidController* const      pArkCntrllr,
-            std::auto_ptr<_LAV_HANDLER>*    ppLavHndlr /*= nullptr*/     //Закомментировано знач-е by def., установленное в объявлении метода.     //@@нет ни одного `const`'а, т.к. и указатель переопределяю и вызываю неконст.методы для разыменованного ptr'а.
+            std::auto_ptr<_LAV_OFBRICKS_HNDLR>*    ppLavHndlr /*= nullptr*/     //Закомментировано знач-е by def., установленное в объявлении метода.     //@@нет ни одного `const`'а, т.к. и указатель переопределяю и вызываю неконст.методы для разыменованного ptr'а.
         )   ///@@@ #UGLY: подумать - быть может заменить shared_ptr, чтобы не городить это ужасное тройное разыменование. (пока auto_ptr, вынужден работать ч/з ptr на этот auto_ptr, т.к. ссылку, инициировав `nullptr`, потом не смогу использовать, а если передать в ф-цию auto_ptr по значению, то уничтожится исходный объект. В крайнем случ. перейти может всё-таки на ссылку: код будет понятнее, НО придётся объявлять в методе ещё одну ссылку, в которую копировать знач-е ссылки-параметра, если не 0)
 {
 //#OUTDATED (блокировка сейчас вшита, над необх-тью LOW_LVL_LOCKS подумать позже):
@@ -64,18 +68,18 @@ void _BRICKS_MNGR::DelBrick(
 //    }
 //#endif //LOCKS
     if (nullptr == ppLavHndlr)
-//        std::auto_ptr<_LAV_HANDLER> pLavHndlr = m_LavBricks.CreateAccessHandler(4);
+//        std::auto_ptr<_LAV_OFBRICKS_HNDLR> pLavHndlr = m_LavBricks.CreateAccessHandler(4);
         ppLavHndlr = &(m_LavBricks.CreateAccessHandler(4));
 
 #if DEBUG==1
-    if ( (*(*ppLavHndlr))->size() <= i ) throw CMyExcptn(14);   //#NOTE: опер-ры `*` и `->` перегружены д/ _LAV_HANDLER
+    if ( (*(*ppLavHndlr))->size() <= i ) throw CMyExcptn(14);   //#NOTE: опер-ры `*` и `->` перегружены д/ _LAV_OFBRICKS_HNDLR
 #endif
 
     if ( _BRICK::DSTR_ST == (*(*(*ppLavHndlr)))[i]->m_state )   ///@@@может тут можно так: "/*_BRICK::*/DSTR_ST ..."
     //#NOTE: 
     //тут   1й (*..) - от ptr'а на `auto_ptr` переходим к `auto_ptr`
-    //      2й (*..) - от `auto_ptr` переходим к _LAV_HANDLER
-    //      3й (*..) - т.к. в _LAV_HANDLER опер-ры `*` и `->` перегружены, то тут от _LAV_HANDLER переходим сразу к std::vector<_BRICK*> ..
+    //      2й (*..) - от `auto_ptr` переходим к _LAV_OFBRICKS_HNDLR
+    //      3й (*..) - т.к. в _LAV_OFBRICKS_HNDLR опер-ры `*` и `->` перегружены, то тут от _LAV_OFBRICKS_HNDLR переходим сразу к std::vector<_BRICK*> ..
     //.. ptr, на который есть member data класса.
     //      ну и [i] - уже обращаеся к эл-ту вектора типа _BRICK*
     ///.. конечно, это жесть!
@@ -172,8 +176,8 @@ void  _BRICKS_MNGR::CleanBricks(
         CArkanoidController* const      pArkCntrllr
     )
 {
-    //@@#BACKUP (if где-то применяю GetLavHndlr(), то и тут заменить строку этой -->):  std::auto_ptr<_LAV_HANDLER> pLavHndlr = GetLavHndlr(7);
-    std::auto_ptr<_LAV_HANDLER> pLavHndlr = m_LavBricks.CreateAccessHandler(7);
+    //@@#BACKUP (if где-то применяю GetLavHndlr(), то и тут заменить строку этой -->):  std::auto_ptr<_LAV_OFBRICKS_HNDLR> pLavHndlr = GetLavHndlr(7);
+    std::auto_ptr<_LAV_OFBRICKS_HNDLR> pLavHndlr = m_LavBricks.CreateAccessHandler(7);
     for (char i=(*pLavHndlr)->size()-1;  i>=0;  --i)
     ///@@@ #TODO: ввести статический флаг "Что-то изменилось с кирпичами", который вкл-ть когда случилось касание или отыгралась анимация, чтобы проверку эту по всем кирпичам зря не гонять.
     ///@@@ #TODO: кроме этого в кач-ве этого флага быть может передавать индекс кирпича, который нужно обрабоать - тогда избавимся тут от перебора.     //может частично использовать для этих целей паттерн Observer
@@ -186,7 +190,7 @@ void  _BRICKS_MNGR::CleanBricks(
 //// RetrieveBrick() ////
 void  _BRICKS_MNGR::RetrieveBrick(/*std::vector<*/ const std::vector<vector2>* /*>*/ const  /*vpvBricksOnLvlsCoords*/pvBricksOnCurrLvlCoords)
 {
-    std::auto_ptr<_LAV_HANDLER> pLavHndlr = m_LavBricks.CreateAccessHandler(1);
+    std::auto_ptr<_LAV_OFBRICKS_HNDLR> pLavHndlr = m_LavBricks.CreateAccessHandler(1);
 #if DEBUG==1
     if (nullptr == pLavHndlr.get()) throw CMyExcptn(21);
 #endif //DEBUG
@@ -196,7 +200,7 @@ void  _BRICKS_MNGR::RetrieveBrick(/*std::vector<*/ const std::vector<vector2>* /
 
 
 //// GetLavHndlr() ////
-std::auto_ptr<_LAV_HANDLER>  _BRICKS_MNGR::GetLavHndlr(const u32 key)
+std::auto_ptr<_LAV_OFBRICKS_HNDLR>  _BRICKS_MNGR::GetLavHndlr(const u32 key)
 {
     return m_LavBricks.CreateAccessHandler(key);
 }
@@ -211,7 +215,7 @@ void _BRICKS_MNGR::InitOfBricksAniObjects()
     //{
     //    m_vpBricksAniObjs[i] = m_vpBricks[i]->GetBrickAniObj();
     //}
-    std::auto_ptr<_LAV_HANDLER> pLavHndlr = m_LavBricks.CreateAccessHandler(5);
+    std::auto_ptr<_LAV_OFBRICKS_HNDLR> pLavHndlr = m_LavBricks.CreateAccessHandler(5);
     for (auto& it = (*pLavHndlr)->begin(); it != (*pLavHndlr)->end(); ++it)
     {
         m_vpBricksAniObjs.push_back( (*it)->GetBrickAniObj() );     ///@@@тут видимо не совсем так, как хотелось бы отрабатывает перегруженный опер-р `->`. Возможно добавить ещё одну скобку с разыменованием
@@ -239,6 +243,15 @@ void _BRICKS_MNGR::StartAddBricks(
         /*после отладки дописать ещё кубики до общ.кол-ва 12 и исправить соотв. константу*/
         //вообще наверное тут лучше научиться работать с xml и загружать из него всю переменную информацию по уровню.
 }
+
+
+#if DEBUG==1
+void _BRICKS_MNGR::IsBricksEmptyCheck()
+{    
+    std::auto_ptr<_LAV_OFBRICKS_HNDLR> pLavHndlr = m_LavBricks.CreateAccessHandler(6); //GetLavBricksPtr()->CreateAccessHandler(6);
+    if ( !(*pLavHndlr)->empty() ) throw CMyExcptn(25);
+}
+#endif
 
 
 ///@@@ At the end see list "#TODO" in file "PipeStudio Test task refactoring list.txt"

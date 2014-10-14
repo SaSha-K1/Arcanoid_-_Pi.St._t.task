@@ -1,0 +1,35 @@
+#include "guiPrint.h"
+#include <string>
+#include <sstream>          //для std::ostringstream
+#include "font.h"           //для GET_FONT()
+
+
+
+//Print #1: в формате "<Текстовка>"
+void guiPrint::Print(
+        const std::string &txt, 
+        const u32 y, const u32 x/*=10*/,
+        const u32 r/*=10*/, const u32 g/*=220*/, const u32 b/*=220*/, const u32 a/*=100*/
+    )
+{ 													
+    static std::ostringstream strStream; 						
+    strStream.str("");	 					
+    strStream<< txt; 								
+    GET_FONT("dlg.xml")->Print(/*DEF_COLOR*/color(r,g,b,a), x,y,0, strStream.str().c_str());
+}
+
+
+
+//Print #2: в формате "<Текстовка><var>"
+template <typename T> void guiPrint::Print(
+        const std::string &txt, 
+        const T &var, 
+        const u32 y, const u32 x,/*=10,*/
+        const u32 r,/*=10,*/ const u32 g,/*=10,*/ const u32 b,/*=10,*/ const u32 a/*=100*/
+    )
+{ 												
+    static std::ostringstream strStream; 		
+    strStream.str("");	 	//strStream.flush() не работает
+    strStream<< txt<< var; 									
+    GET_FONT("dlg.xml")->Print(/*DEF_COLOR*/color(r,g,b,a), x,y,0, strStream.str().c_str());
+}

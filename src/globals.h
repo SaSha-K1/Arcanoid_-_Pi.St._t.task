@@ -27,7 +27,7 @@ vector2 Vec3To2(const vector3 &v3) { return (vector2(v3.x, v3.y)); }    //правил
 //#OUTDATED (перенёс в соотв-щие .h файлы, т.к. иначе пришлось бы сюда инклудить эти .h-файлы, что было бы круговым инклудом, т.к. к ним уже данный файл подключен):
 //typedef CArkanoidController::CBricksManager             _BRICKS_MNGR;
 //typedef CArkanoidController::CBricksManager::CBrick     _BRICK;
-//typedef CLockableAccessVec<_BRICK*>::CLavHandler        _LAV_HANDLER;
+//typedef CLockableAccessVec<_BRICK*>::CLavHandler        _LAV_OFBRICKS_HNDLR;
 
 
 
