@@ -83,6 +83,10 @@ public:
 
     void CleanBalls(CArkanoidController::GAME_STATE& gameState);    //Очистить вектор шариков при победе (в случ. поражения собстенно его условием есть пустой вектор шариков)
 
+#if DEBUG==1
+    float GetBallFi (const u32 ballNum) const;  //I need this method only for using in `DbgPrint()` in `OnRender()`
+#endif //DEBUG
+
 
     //// Types (pblc):
     class CBall;    //forward declaration
@@ -90,6 +94,9 @@ public:
 
     //// Friends:
 #if DEBUG==1
+    friend void CArkanoidController::OnRender(vector2);
+    
+    ///@@@? а нужно ли объявлять эти ф-ции друзьями? Возможно НЕТ, если мне нужен доступ к закрытым полям только в списке арг-тов?
     friend void dbgPrnt::DbgPrint(
             const std::string &txt, 
             const u32 y,    const u32 x/*=10*/,                                        //Координаты

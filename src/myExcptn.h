@@ -5,6 +5,7 @@
 
 
 #include <fstream>      //д/ std::ofstream
+#include <ctime>    ///@@@ added only 2014/11/06 - bacause of ball.cpp curses(ругается)
 
 
 
@@ -15,7 +16,8 @@ public:
 	CMyExcptn (int i) : m_code(i) {}
 };
 
-
+///@@@ Warning C4996: 'asctime': This function or variable may be unsafe. Consider using asctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. 297
+///@@@ Warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. 297
 #define EXCPTN_CATCH catch (const CMyExcptn myEx)\
     {\
         time_t t = time(NULL);\
@@ -35,7 +37,7 @@ public:
             case 13: exceptPrintFile << asctime(localtime(&t))<< "   Exception invoked: \"13.The `default` condition-branch in `switch(dir)` in CBall::IsHit().\"\n" << std::endl; break;\
             case 14: exceptPrintFile << asctime(localtime(&t))<< "   Exception invoked: \"14.The DelBrick() get i, that is bigger than vector size().\"" << std::endl; break;\
             case 15: exceptPrintFile << asctime(localtime(&t))<< "   Exception invoked: \"15.m_vpBricks.empty() condition isn't complete, but \"WON\" state is set.\"" << std::endl; break;\
-            case 16: exceptPrintFile << asctime(localtime(&t))<< "   Exception invoked: \"16.CBrick::BricksLockOff() returned \"0\" in IsHit().\"" << std::endl; break;\
+            case 16: exceptPrintFile << asctime(localtime(&t))<< "   Exception invoked: \"16.GetReservedKey() != GetCurrValOfLockCode() in _BALL::IsHitWithBricks() before ReleaseAccessHandler().\"" << std::endl; break;\
             case 17: exceptPrintFile << asctime(localtime(&t))<< "   Exception invoked: \"17.CBrick::BricksLockOff() returned \"0\" in DelBrick().\"" << std::endl; break;\
             case 18: exceptPrintFile << asctime(localtime(&t))<< "   Exception invoked: \"18.In CLaoHandle C-tor m_uLockCode != 0.\"" << std::endl; break;\
             case 19: exceptPrintFile << asctime(localtime(&t))<< "   Exception invoked: \"19.In CLaoHandle D-tor m_uLockCode != reserved copy of key from C-tor.\"" << std::endl; break;\
@@ -45,12 +47,13 @@ public:
             case 23: exceptPrintFile << asctime(localtime(&t))<< "   Exception invoked: \"23.In _BALL::InitHitChckPntsVec() size of vector m_svfBallHitChckPntsAngles != m_suNUM_OF_HIT_CHCK_PNTS.\"" << std::endl; break;\
             case 24: exceptPrintFile << asctime(localtime(&t))<< "   Exception invoked: \"24.CLavHandler C-tor have got reference `rLockCode`, that != 0.\"" << std::endl; break;\
             case 25: exceptPrintFile << asctime(localtime(&t))<< "   Exception invoked: \"25.In case `LOST` in the `CArkanoidController::ProcessWinLostState()` vector of bricks isn't empty.\"" << std::endl; break;\
+            case 26: exceptPrintFile << asctime(localtime(&t))<< "   Exception invoked: \"26.ReleaseAccessHandler() returned not `0` in _BALL::IsHitWithBricks().\"" << std::endl; break;\
             default: exceptPrintFile << asctime(localtime(&t))<< "   Exception invoked: \"Unexpected exception!\"" << std::endl; break;\
         }\
     }
 
 
-std::ofstream exceptPrintFile("exceptPrintFile.txt", ios::app);
+extern std::ofstream exceptPrintFile;
 
 
 

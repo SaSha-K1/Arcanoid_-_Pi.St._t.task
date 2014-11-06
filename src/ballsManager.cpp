@@ -20,10 +20,14 @@ _BALLS_MNGR::CBallsManager (const std::vector<CPictureObject*>&    rvBallsPictOb
     //.. По итогу +2 строки (со скобками), длина кода +/- такая же, понятность хуже, но зато выпендрился, что немного знаю лямбды ..
     //.. и алгоритмы stl =)  Рабочий код так бы писать не стал, это для тестового, чтобы показать, что понимаю, как работает и умею ..
     //.. использовать, если найду подходящее место для применения.
-    std::for_each(rvBallsPictObjects.begin(),  rvBallsPictObjects.end(),  [this] (CPictureObject* pPictObj) /*mutable*/
-    {
-        /*this->*/m_mBallsPictObjects[pPictObj] = 0;    ///@@@ #WARNING: по идее тут объекты из capture-list'а менять должно быть нельзя. Если так, то раскомментить `mutable` в сигнатуре лямбды строкой выше
-    });
+    std::for_each(
+        rvBallsPictObjects.begin(),  
+        rvBallsPictObjects.end(),  
+        [this] (CPictureObject* pPictObj) /*mutable*/
+            {
+                /*this->*/m_mBallsPictObjects[pPictObj] = false/*0*/;    ///@@@ #WARNING: по идее тут объекты из capture-list'а менять должно быть нельзя. Если так, то раскомментить `mutable` в сигнатуре лямбды строкой выше
+            }
+    );
 
 }
 
@@ -45,11 +49,11 @@ void _BALLS_MNGR::AddBall(const bool attachToPad,  /*const*/ CPictureObject* con
 
         //std::for_each(m_mBallsPictObjects.begin(), m_mBallsPictObjects.end(), [] (..      //тут ещё и `break;` не работает - нужно BOOST_FOREACH
         for (auto/*&*/ it = m_mBallsPictObjects.begin();  it != m_mBallsPictObjects.end();  ++it)
-            if (true == (*it).second)
+            if (/*true*/false == (*it).second)
             {
                 m_vBalls.push_back(new CBall((*it).first, attachToPad, pPad));
                 (*it).second = 1;
-                break;  //!!!
+                return;   //break;
             }
     }
 }
@@ -118,10 +122,11 @@ void _BALLS_MNGR::ProcessIsHit(     //Провека коллизий и пересчёт траекторий
             CArkanoidController::GAME_STATE gameState
         )
 {   ///@@ Stoped_here 2014/09/16
-    _BALL::DIRECTION dir;
+    _BALL::_DIRECTION dir;
     for (auto/*&*/ itb = m_vBalls.begin();  itb != m_vBalls.end();  ++itb)	///@@@ Использование ITERATOR'а 
     {
-        dir = (*itb)->IsHit( (*itb)->GetBallPicObj(), pPad, *pLavBricks, fSceneW, gameState );
+        //#XI: dir = (*itb)->IsHit( (*itb)->GetBallPicObj(), pPad, *pLavBricks, fSceneW, gameState );
+        dir = (*itb)->IsHit( pPad, *pLavBricks, fSceneW, gameState );
         if (dir != -1)
         {   ///@@@ поменять след.2 вызова местами (вначале сдвинуть, потом запустить), Хотя наверное нет, т.к. до момента, когда шарик полетит в противопол.направлении, он может уже снова войти в контакт с тем же препятствием, ну и дальше получится хрень.. подумать
             (*itb)->GetBallPicObj()->MoveToPolarRo(FLT_MAX,  (*itb)->GetNewMoveCenter(dir),  (*itb)->GetVel());
@@ -165,3 +170,13 @@ void _BALLS_MNGR::CleanBalls(CArkanoidController::GAME_STATE& gameState)
         for (char i=m_vBalls.size()-1;  i>=0; --i)
             DelBall(i, gameState);
 }
+
+#if DEBUG==1
+    float _BALLS_MNGR::GetBallFi (const u32 ballNum) const
+    { 
+        if (ballNum < m_vBalls.size() )
+            return m_vBalls[ballNum]->GetFi(); 
+        else
+            return 999.99;  //999.99 == error
+    }
+#endif //DEBUG

@@ -14,7 +14,8 @@ typedef /*typename/**/ CLockableAccessVec<_BRICK*>::CLavHandler _LAV_OFBRICKS_HN
 
 //// C-tor ////
 _BRICKS_MNGR::CBricksManager(const u32 numOfBricksOnLvl)
-    :m_uNUM_OF_BRICKS_ON_LVL(numOfBricksOnLvl)
+    :m_uNUM_OF_BRICKS_ON_LVL(numOfBricksOnLvl),
+    m_LavBricks(new std::vector<_BRICK*>)   ///@@ Не уверен, сработает ли тут 1) с нонейм объ-ом, 2) с `new` в списке иниц-ции
     //#OUTDATED:
     //, papBricksAniObjects(nullptr)
 {
@@ -24,7 +25,7 @@ _BRICKS_MNGR::CBricksManager(const u32 numOfBricksOnLvl)
 
 //// AddBrick() ////
 void _BRICKS_MNGR::AddBrick(
-        /**/const/**/ CAniObject* const baseBrick, 
+        /*const*/ CAniObject* const baseBrick,
         const vector2           position, 
         CScene* const           sc  //@@ вначале нет `const`, ибо есть вызов неконст.метода AddAni()
     )
@@ -32,7 +33,7 @@ void _BRICKS_MNGR::AddBrick(
     std::auto_ptr<_LAV_OFBRICKS_HNDLR> pLavHndlr = m_LavBricks.CreateAccessHandler(3);
     if (!(*pLavHndlr)->empty())	//#NOTE: опер-ры `*` и `->` перегружены д/ _LAV_OFBRICKS_HNDLR    //Если это первый кирпич, то значит не создаём копии аниобъекта, а берём уже готовый, который загружен из xml
     {
-        (*pLavHndlr)->push_back(new _BRICK(new CAniObject(*baseBrick), position));
+        (*pLavHndlr)->push_back(new _BRICK(new CAniObject(*baseBrick), position));      ///@@@@@!! Проверить, что каждый `new` сопровождается корректным, всегда отрабатывающем, когда надо, `delete`-ом !!! ЭТО ДЛЯ ВСЕГО КОДА ПРОВЕРИТЬ!
         sc->AddAni((*pLavHndlr)->back()->GetBrickAniObj()/**/, 1/**/);	//Добавить ани-объект в сцену 
         ///@@@ Тут^ последний атрибут iscopy - разобраться, что это. Юлия написала вызывать метод с пар-ром "0"
     }
@@ -46,7 +47,7 @@ void _BRICKS_MNGR::AddBrick(
 ///@@@ #TODO: оч.длинный метод - попробовать раздробить
 void _BRICKS_MNGR::DelBrick(
             const u32                       i, 
-            CScene* const                   sc,
+            CScene* const                   sc,     ///@@@ WRN C4100: 'sc' : unreferenced formal parameter 50
             CArkanoidController* const      pArkCntrllr,
             std::auto_ptr<_LAV_OFBRICKS_HNDLR>*    ppLavHndlr /*= nullptr*/     //Закомментировано знач-е by def., установленное в объявлении метода.     //@@нет ни одного `const`'а, т.к. и указатель переопределяю и вызываю неконст.методы для разыменованного ptr'а.
         )   ///@@@ #UGLY: подумать - быть может заменить shared_ptr, чтобы не городить это ужасное тройное разыменование. (пока auto_ptr, вынужден работать ч/з ptr на этот auto_ptr, т.к. ссылку, инициировав `nullptr`, потом не смогу использовать, а если передать в ф-цию auto_ptr по значению, то уничтожится исходный объект. В крайнем случ. перейти может всё-таки на ссылку: код будет понятнее, НО придётся объявлять в методе ещё одну ссылку, в которую копировать знач-е ссылки-параметра, если не 0)
@@ -69,7 +70,10 @@ void _BRICKS_MNGR::DelBrick(
 //#endif //LOCKS
     if (nullptr == ppLavHndlr)
 //        std::auto_ptr<_LAV_OFBRICKS_HNDLR> pLavHndlr = m_LavBricks.CreateAccessHandler(4);
-        ppLavHndlr = &(m_LavBricks.CreateAccessHandler(4));
+        
+        ///@@@ #XI: НАФИГА ТАК СЛОЖНО - переписать - принимать и работать с `auto_ptr`, а не с ptr'ом на него!
+        ppLavHndlr = &(m_LavBricks.CreateAccessHandler(4)); ///@@@ WRN C4238: nonstandard extension used : class rvalue used as lvalue 73
+                                                            ///Хотя тут по-идее всё должно быть гуд, т.к. я возвращаю динамич-ки созданный auto_ptr. Подумать, разве что, может тут уйти от ptr'а на `auto_ptr`, а работать с самим объектом...
 
 #if DEBUG==1
     if ( (*(*ppLavHndlr))->size() <= i ) throw CMyExcptn(14);   //#NOTE: опер-ры `*` и `->` перегружены д/ _LAV_OFBRICKS_HNDLR
@@ -128,7 +132,7 @@ void _BRICKS_MNGR::DelBrick(
         //Дальше код универсален для любого кирпича
         delete (*(*(*ppLavHndlr)))[i];
 
-        (*(*ppLavHndlr))->erase((*(*ppLavHndlr))->begin()+i);	//Костыли - пробовал вместо этой строки обменять перед удалением с последним или 1ым эл-том - проблема не ушла
+        (*(*ppLavHndlr))->erase( (*(*ppLavHndlr))->begin()+i );	//Костыли - пробовал вместо этой строки обменять перед удалением с последним или 1ым эл-том - проблема не ушла
         ////Костыли: перед удалением меняю с последним
         //if (m_vpBricks.size()>1)
         //{
@@ -142,11 +146,11 @@ void _BRICKS_MNGR::DelBrick(
         //  m_vpBricks.erase(m_vpBricks.begin());
         //}
 
-        pArkCntrllr->m_uGameScore +=10;
+        pArkCntrllr->m_uGameScore += 10;
 
-        if ((*(*ppLavHndlr))->empty()  &&  pArkCntrllr->m_GameState==RUN)
+        if ( (*(*ppLavHndlr))->empty()  &&  pArkCntrllr->m_GameState == RUN )
         {
-            pArkCntrllr->m_GameState=WON;
+            pArkCntrllr->m_GameState = WON;
         }
 //#if LOCKS==1
 //#if DEBUG==1
@@ -182,8 +186,8 @@ void  _BRICKS_MNGR::CleanBricks(
     ///@@@ #TODO: ввести статический флаг "Что-то изменилось с кирпичами", который вкл-ть когда случилось касание или отыгралась анимация, чтобы проверку эту по всем кирпичам зря не гонять.
     ///@@@ #TODO: кроме этого в кач-ве этого флага быть может передавать индекс кирпича, который нужно обрабоать - тогда избавимся тут от перебора.     //может частично использовать для этих целей паттерн Observer
     
-	if ( (*(*pLavHndlr))[i]->m_state == /*_BRICK*/CBrick::DSTR_ST || (*(*pLavHndlr))[i]->m_state == _BRICK/*CBrick*/::DSTR_EN )
-		DelBrick(i, sc, pArkCntrllr, &pLavHndlr);
+	    if ( (*(*pLavHndlr))[i]->m_state == /*_BRICK*/CBrick::DSTR_ST || (*(*pLavHndlr))[i]->m_state == _BRICK/*CBrick*/::DSTR_EN )
+		    DelBrick(i, sc, pArkCntrllr, &pLavHndlr);
 }
 
 
@@ -194,8 +198,8 @@ void  _BRICKS_MNGR::RetrieveBrick(/*std::vector<*/ const std::vector<vector2>* /
 #if DEBUG==1
     if (nullptr == pLavHndlr.get()) throw CMyExcptn(21);
 #endif //DEBUG
-    for (u32 i = 0;  i < m_vpBricksAniObjs.size();  ++i)
-        (*pLavHndlr)->push_back( /**/(/**/ new /*CBricksManager::CBrick*/_BRICK(m_vpBricksAniObjs[i] /**/)/**/, /*(*vpvBricksOnLvlsCoords[0])*/(*pvBricksOnCurrLvlCoords)[i]));   ///@@@ храним уже ptr на CLavHandler. Поэтому ВОЗМОЖНО переписать m_vpBricks.push_back(... через опер-р -> вместо опер-ра точки.
+    for (u32 i = 0;  i < m_vpBricksAniObjs.size();  ++i)    ///@@@ все итераторы во всем коде сделать одного типа.
+        (*pLavHndlr)->push_back( /**/ new /*CBricksManager::CBrick*/_BRICK(m_vpBricksAniObjs[i] /**/, /*(*vpvBricksOnLvlsCoords[0])*/(*pvBricksOnCurrLvlCoords)[i]));   ///@@@ храним уже ptr на CLavHandler. Поэтому ВОЗМОЖНО переписать m_vpBricks.push_back(... через опер-р -> вместо опер-ра точки.
 }   ///@@@ Попробовать убрать скобки () вокруг `new`. Вроде они не нужны, но КОМП-р ругается //Справочно: oper-r `new` и `delete` имеют > приоритет, чем опер-р "," (но тут "," - separator, а не oper-r) 
 
 
@@ -224,8 +228,8 @@ void _BRICKS_MNGR::InitOfBricksAniObjects()
 #endif //DONT_DELETE_ANI_BRICKS
 
 
-//// StartAddBricks() ////
-void _BRICKS_MNGR::StartAddBricks(
+//// AddBricksOnStart() ////
+void _BRICKS_MNGR::AddBricksOnStart(
         CScene*                 sc, 
         std::vector<vector2>*   pvBricksOnLvlCoords
     )

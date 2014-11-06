@@ -67,6 +67,7 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <SubSystem>Windows</SubSystem>
       <TargetMachine>MachineX86</TargetMachine>
+      <GenerateMapFile>false</GenerateMapFile>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
@@ -95,7 +96,11 @@
     <ClCompile Include="brick.cpp" />
     <ClCompile Include="bricksManager.cpp" />
     <ClCompile Include="controller.cpp" />
+    <ClCompile Include="dbgPrint.cpp" />
+    <ClCompile Include="globals.cpp" />
+    <ClCompile Include="guiPrint.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="myExcptn.cpp" />
     <ClCompile Include="settings.cpp" />
   </ItemGroup>
   <ItemGroup>

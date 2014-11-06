@@ -103,7 +103,7 @@ void CArkanoidController::InitNewGame(CScene* sc)   //Метод вызывается впервые в
 //        }
 //        /*после отладки дописать ещё кубики до общ.кол-ва 12 и исправить соотв. константу*/
 //        //вообще наверное тут лучше научиться работать с xml и загружать из него всю переменную информацию по уровню.
-        m_pBricksMngr->StartAddBricks(sc, m_vpvBricksOnLvlsCoords[0]);  //Заполняю вектор кирпичей и размещаю их в сцене. (применяется на старте игры и (только в случае варианта реализации с удалением ани-биков) также после выигрыша)
+        m_pBricksMngr->AddBricksOnStart(sc, m_vpvBricksOnLvlsCoords[0]);  //Заполняю вектор кирпичей и размещаю их в сцене. (применяется на старте игры и (только в случае варианта реализации с удалением ани-биков) также после выигрыша)
 
 #if DONT_DELETE_ANI_BRICKS==1
         m_pBricksMngr->InitOfBricksAniObjects();
@@ -239,6 +239,7 @@ CArkanoidController::CArkanoidController(u32 sceneId)
     m_uGameScore(0)
     ///@@! выстроил в порядке декларации в заголовке класса
 {
+  InitBricksOnLvlsCoords();
 //#OUTDATED:
 //    m_fPaddleY1 = m_fSceneHeight - m_fBOTTOM_GAP;	//Это dflt value, переопределяю в OnShow()
 //    m_fCurrPaddleY = m_fPaddleY1;                       //Это dflt value, переопределяю в OnShow()
@@ -260,6 +261,11 @@ CArkanoidController::~CArkanoidController()
 //// OnShow() ////
 void CArkanoidController::OnShow()
 try {
+#if DEBUG==1
+    time_t startT = time(NULL);
+    exceptPrintFile << asctime(localtime(&startT))<< "   < << <<< <<<< <<<<< <<<<<< GAME START {i.e. `OnShow()` started working} >>>>>> >>>>> >>>> >>> >> >" << std::endl;
+#endif
+
     m_fSceneHeight = CRender::GetInst().GetHeight()/*768*/;
     m_fSceneWidth = CRender::GetInst().GetWidth()/*1024*/;
     CScene *sc = m_scene;                                   //@@ ?: д/ более простой изменяемости?? (а надо ли? - может просто `m_scene` использовать)
@@ -278,7 +284,7 @@ try {
         m_pBallsMngr = new CBallsManager(vpBallPicObjs);    //conditional delete is in D-tor.
     }
     //Создаю менеджер кирпичей:
-    m_pBricksMngr = new /*_BRICK_MNGR*/CBricksManager(12);  ///@@ Передаю маг.числом, НО не держу лишнюю глоб.переменную. Верно?
+    m_pBricksMngr = new /*_BRICK_MNGR*/CBricksManager(/*12*/NUMBER_OF_BRICKS);  ///@@ Передаю маг.числом, НО не держу лишнюю глоб.переменную. Верно? //Это что? Типа БРИКС_ОН_ЛВЛ ? (вроде да, therefore заменил `12` на NUMBER_OF_BRICKS)
     
     //#OUTDATED (метод уже перекочевал в CBall и вызывается в C-tor'e):
     //InitBallHitChckPntsArr();
@@ -299,7 +305,7 @@ EXCPTN_CATCH
 
 
 //// OnUpdate() ////
-void CArkanoidController::OnUpdate(u32 _dt)
+void CArkanoidController::OnUpdate(u32 _dt) ///@@@ Warning	C4100: '_dt' : unreferenced formal parameter 302    //Poss-но тут нужно исп-ть dt, чтобы на компах с разной произвотид-тью (где м/у `OnUpdate()`-ами может проходить различное время), игра шла с одной скоростью.
 try {
     CScene *sc = m_scene;                                   //@@ ?: д/ более простой изменяемости?? (а надо ли? - может просто `m_scene` использовать)
     //Костыли: перенёс сюда из OnRender()
@@ -310,7 +316,7 @@ try {
     m_pBallsMngr->CleanBalls(m_fSceneHeight, m_fSceneWidth, m_GameState);
 
     ////Провека коллизий и пересчёт траекторий
-    //DIRECTION dir;	//Костыли: перенёс отсюда в OnRender() - не помогло
+    //_DIRECTION dir;	//Костыли: перенёс отсюда в OnRender() - не помогло
     //for (auto itb=m_vBalls.begin(); itb!= m_vBalls.end(); ++itb)	///@@@ Использование ITERATOR'а 
     //{
     //	dir=(*itb)->IsHit();
@@ -327,7 +333,7 @@ EXCPTN_CATCH
 
 
 //// OnRender() ////
-void CArkanoidController::OnRender(vector2 _scroll)
+void CArkanoidController::OnRender(vector2 _scroll)     ///@@@ Быть может нужно как-то исп-ть этот пар-р:  Warning	C4100: '_scroll' : unreferenced formal parameter 330
 try {
     LOG_INFO("CArkanoidController::OnRender");
     vector2 pos = CCursorController::GetInst().GetCursorPos();
@@ -349,7 +355,7 @@ try {
     CPictureObject* ball1 = sc->FindPictureObject(PIC_SC01_BALL);
     //dbgPrint("rndmAng1 = ", dbgTmp0, 10,10, 255,10,255);
     if (!m_pBallsMngr->IsBallsEmpty())
-        DbgPrint("currBallFi = ", m_pBallsMngr->m_vBalls[0]->getFi(), 10,200, 255,10,255);  ///@@@!! Тут подчёркивание - возможно ошибка КОМП-ра, т.к. я объявил френдом метод 
+        DbgPrint("currBallFi = ", m_pBallsMngr->GetBallFi(0)/*m_vBalls[0]->GetFi()*/, 10,200, 255,10,255);  ///@@: Тут подчёркивание - /*возможно*/НЕ ошибка КОМП-ра, /*т.к.*/то, что я объявил френдом метод, ДАЁТ ДОСТУП К ЗАКРЫТЫМ ДАННЫМ _ВНУТРИ_ ф-ции, НО НЕ В СПИСКЕ ЕЁ ПАР-РОВ!
     DbgPrint("currMouse X : Y = ", pos.x, pos.y, " : ", 25,10, 10,10,10);
 	
     DbgPrint("ball1->GetPos().x : .y    ", ball1->GetPos().x, ball1->GetPos().y, " : ", 300);
@@ -398,5 +404,5 @@ try {
 #endif
     }
     return false;
-}
+}   ///@@@ Не понятно, вроде ж в люб.случ. отрабатывает return (правда wrn указывает на строку с EXCPTN_CATCH): Warning	C4715: 'CArkanoidController::OnMouseKeyDown' : not all control paths return a value 402
 EXCPTN_CATCH

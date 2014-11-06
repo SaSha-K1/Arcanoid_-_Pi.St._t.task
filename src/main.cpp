@@ -37,3 +37,5 @@ int WINAPI WinMain( __in HINSTANCE hInstance, __in_opt HINSTANCE hPrevInstance, 
 	delete CGame::GetPtr();
 	return 0;
 }
+
+///@@@#REVIEW: обяз.просмотреть все мои классы на предмет требования стандарта кодирования  "3.13	Проектирование класса."

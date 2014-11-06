@@ -6,6 +6,7 @@
 
 
 #define DEBUG 1
+#define HARD_DEBUG 1    //вклчючает доп.проверки и расширенные выводы в лог.
 
 //Костыли
 #define LOCKS 1		//1 - включает код с BricksLock'ами;  0 - выкл.
@@ -18,8 +19,9 @@
 
 const float HALFPI = PI/2;	//экономлю время работы CTG()
 
-vector2 Vec3To2(const vector3 &v3) { return (vector2(v3.x, v3.y)); }    //правильнее было бы поместить в "types.h", но пишу тут, чтобы ..
-                                                                        //.. не расползаться слишком своим кодом по не моим файлам.
+///@@@ TRY to back `&`. Temporary replaced it because of WRN: C4239: nonstandard extension used : 'argument' : conversion from 'vector2' to 'vector2 &' 129
+vector2 Vec3To2(const vector3 /*&*/v3);     //правильнее было бы поместить в "types.h", но пишу тут, чтобы ..
+                                            //.. не расползаться слишком своим кодом по не моим файлам.
 
 ///@@ Stoped here (2014/09/02): в след.строках классы, упомянутые после первого :: уже inaccessible - перенести в public?;  
 ///После этого продолжаю искать `m_vpBricks` и заменять конструкциями с `m_LavBricks` (в частности в f bricksManager.h строка 72 продолжить)

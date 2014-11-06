@@ -1,0 +1,973 @@
+Wed Nov 05 21:21:48 2014
+   Exception invoked: "3.Condition (m_fFi>=2*PI || m_fFi<=-2*PI) in CBall::normalizeFi() didn't satisfied."
+Wed Nov 05 21:21:48 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 21:21:49 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 21:21:49 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 21:21:49 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+---
+
+Wed Nov 05 22:17:24 2014
+   Exception invoked: "3.Condition (m_fFi>=2*PI || m_fFi<=-2*PI) in CBall::normalizeFi() didn't satisfied."
+Wed Nov 05 22:17:24 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:24 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:24 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:24 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:24 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:24 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:24 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:24 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:24 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:24 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:24 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:24 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:24 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:24 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:24 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:24 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:24 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:25 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:25 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:25 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:25 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:25 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:25 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:25 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:25 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:25 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:25 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:25 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:25 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:25 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:25 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:25 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:25 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:25 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:25 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:25 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:25 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:25 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:25 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:25 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:25 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:25 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:25 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:25 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:25 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:25 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:25 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:25 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:25 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:25 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:26 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:26 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:26 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:26 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:26 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:26 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:26 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:26 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:26 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:26 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:26 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:26 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:26 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:26 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:26 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:26 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:26 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:26 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:26 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:26 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:26 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:26 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:26 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:26 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:26 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:26 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:26 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:26 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:26 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:26 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:26 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:26 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:26 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:26 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:26 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:27 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:27 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:27 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:27 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:27 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:27 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:27 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:27 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:27 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:27 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:27 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:27 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:27 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:27 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:27 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:27 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:27 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:27 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:27 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:27 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:27 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:27 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:27 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:27 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:27 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:27 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:27 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:27 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:27 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:27 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:27 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:28 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:28 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:28 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:28 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:28 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:28 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:28 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:28 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:28 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:28 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:28 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:28 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:28 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:28 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:28 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:28 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:28 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:28 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:28 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:28 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:28 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:28 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:28 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:28 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:28 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:28 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:28 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:28 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:28 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:28 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:28 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:28 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:28 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:28 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:28 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:29 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:29 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:29 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:29 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:29 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:29 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:29 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:29 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:29 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:29 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:29 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:29 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:29 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:29 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:29 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:29 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:29 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:29 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:29 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:29 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:29 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:29 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:29 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:29 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:29 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:29 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:29 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:29 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:29 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:29 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:29 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:29 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:29 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:29 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:29 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:29 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:29 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:30 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:30 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:30 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:30 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:30 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:30 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:30 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:30 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:30 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:30 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:30 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:30 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:30 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:30 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:30 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:30 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:30 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:30 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:30 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:30 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:30 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:30 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:30 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:30 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:30 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:30 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:30 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:30 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:30 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:30 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:30 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:30 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:30 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:30 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:30 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:30 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:30 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:30 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:30 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:31 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:31 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:31 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:31 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:31 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:31 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:31 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:31 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:31 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:31 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:31 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:31 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:31 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:31 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:31 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:31 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:31 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:31 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:31 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:31 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:31 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:31 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:31 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:31 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:31 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:31 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:31 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:31 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:31 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:31 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:31 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:31 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:31 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:31 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:31 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:31 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:31 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:31 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:31 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:31 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:31 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:31 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:31 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:32 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:32 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:32 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:32 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:32 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:32 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:32 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:32 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:32 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:32 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:32 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:32 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:32 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:32 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:32 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:32 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Wed Nov 05 22:17:32 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+===========================================================================================//	2014-11-06
+
+Thu Nov 06 15:02:13 2014
+   Exception invoked: "3.Condition (m_fFi>=2*PI || m_fFi<=-2*PI) in CBall::normalizeFi() didn't satisfied."
+Thu Nov 06 15:02:13 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Thu Nov 06 15:02:13 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Thu Nov 06 15:02:13 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Thu Nov 06 15:02:13 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Thu Nov 06 15:02:13 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Thu Nov 06 15:02:13 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Thu Nov 06 15:02:13 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+Thu Nov 06 15:02:13 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+---
+
+Thu Nov 06 15:11:56 2014
+   GAME START {i.e. `OnShow()` started working}.
+Thu Nov 06 15:12:47 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+Thu Nov 06 15:12:47 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+Thu Nov 06 15:12:47 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+Thu Nov 06 15:12:47 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+Thu Nov 06 15:12:47 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+Thu Nov 06 15:12:47 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+Thu Nov 06 15:12:47 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+Thu Nov 06 15:12:48 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+Thu Nov 06 15:12:48 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+Thu Nov 06 15:12:48 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+Thu Nov 06 15:12:48 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+Thu Nov 06 15:12:48 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+Thu Nov 06 15:12:48 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+
+---
+
+Thu Nov 06 15:14:36 2014
+   GAME START {i.e. `OnShow()` started working}.
+
+---
+
+Thu Nov 06 15:25:46 2014
+   GAME START {i.e. `OnShow()` started working}.
+Thu Nov 06 15:26:42 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Thu Nov 06 15:26:42 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Thu Nov 06 15:26:42 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+Thu Nov 06 15:26:42 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+Thu Nov 06 15:26:43 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+Thu Nov 06 15:26:43 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+Thu Nov 06 15:26:43 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+Thu Nov 06 15:26:43 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+Thu Nov 06 15:26:43 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+Thu Nov 06 15:26:43 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+Thu Nov 06 15:26:43 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+Thu Nov 06 15:26:43 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+Thu Nov 06 15:26:43 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."

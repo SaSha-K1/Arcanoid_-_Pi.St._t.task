@@ -44,16 +44,16 @@ public:
 
 
     //// Datas (pblc):
-    float m_sfFiPlus;    //Корректировка к рассчитываемому после удара m_fFi (если удар был по Pad'у). ..
+    float m_fFiPlus;    //Корректировка к рассчитываемому после удара m_fFi (если удар был по Pad'у). ..
                          //.. Эта корректировка зависит от удаления точки контакта шарика с Pad'ом от его середины.
 
 
     //// Methods (pblc):
     bool        TryToInvertIsAttachedToPad(); 
     void        LocateAttachedToPadBall(/*const*/ CPictureObject* const pPad);  //@@ нельзя `const`, т.к. вызываемый метод GetCenter() почему-то не const
-    enum        DIRECTION;     //forward declaration   ///@@@ #WARNING: сработает ли?
-    DIRECTION   IsHit(
-            CPictureObject* const               pCurrBall,
+    enum        _DIRECTION;     //forward declaration   ///@@@ #WARNING: сработает ли?
+    _DIRECTION   IsHit(
+            //#XI: CPictureObject* const               pCurrBall,
             CPictureObject* const               pPad,
             /*const*/ CLockableAccessVec<_BRICK*>&  lavBricks,              // :Inp.
             const float                         fSceneW,
@@ -75,20 +75,20 @@ public:
 
 
     //// Интерфейсные методы:
-    vector2                 GetNewMoveCenter(const DIRECTION dir);
+    vector2                 GetNewMoveCenter(const _DIRECTION dir);
     static CBall*           GetIsAttachedToPaddle() { return m_spIsAttachedToPad; } ///@@ ?: нужно ли тут `static`? Т.е. используем ли этот метод где-то напрямую, не через объект класса?
     CPictureObject*         GetBallPicObj() { return m_pBallPicObj; }
     float                   GetVel() const { return m_fVelocity; }
 #if DEBUG ==1
     float                   GetFi() const { return m_fFi; }
 #endif
-    static vector2          GetNumOfPixelsForShift(const DIRECTION dir) { return m_smFewPixelsShift[dir]; }
+    static vector2          GetNumOfPixelsForShift(const _DIRECTION dir) { return m_smFewPixelsShift[dir]; }
     
 
     //// Types (pblc):
-    enum DIRECTION {N=0, NE, E, SE, S, SW, W, NW, NO=-1};	//Имена датчиков коллизии (по сторонам света), "NO" - знач-е, ..
+    enum _DIRECTION {N=0, NE, E, SE, S, SW, W, NW, NO=-1};	//Имена датчиков коллизии (по сторонам света), "NO" - знач-е, ..
                                                             //.. возвращаемое ф-цией IsHit(), если нет коллизий.
-                                                            //#WARNING: кол-во значений DIRECTION == m_suNUM_OF_HIT_CHCK_PNTS-1. Как это ..
+                                                            //#WARNING: кол-во значений _DIRECTION == m_suNUM_OF_HIT_CHCK_PNTS-1. Как это ..
                                                             //.. красиво завязать так, чтобы меняя только одно из глоб. значений, второе ..
                                                             //.. пересчитывалось автоматически, пока не придумал. Но обратить внимание в ..
                                                             //.. случае изменений одной из этих сущностей, что нужно поправить и другую.
@@ -102,10 +102,10 @@ private:
     float                       m_fFi;		//тек.знач. угла направления движ.шарика == (-PI ; PI]. 0 соотв-ет направлению вертикально up.
     static const u32            m_suNUM_OF_HIT_CHCK_PNTS;       //(см.прим.к объявлению соотв-щей глоб.datы в cpp-шнике).
     static std::vector<float>   m_svfBallHitChckPntsAngles;      //Углы, соотв-щие точкам-датчикам контакта   ///@@@возможно, объединить с m_svHitChckPnts в std::map (подумать)
-                                                                //#IMPORTANT: в случ.необходимости изменения кол-ва эл-тов, менять только на чётное кол-во >=2. Увязать с новым знач-ем enum DIRECTION и class CBall static member m_suNUM_OF_HIT_CHCK_PNTS.
+                                                                //#IMPORTANT: в случ.необходимости изменения кол-ва эл-тов, менять только на чётное кол-во >=2. Увязать с новым знач-ем enum _DIRECTION и class CBall static member m_suNUM_OF_HIT_CHCK_PNTS.
     static std::vector<vector2> m_svHitChckPnts;
     static const float          m_fDEFAULT_BALL_VEL; //Скорость мячика by def.      ///@@@ ?may be перенести в CArkanoidController?
-    static std::map<DIRECTION,vector2> m_smFewPixelsShift;  //Таблица смещений в зависимости от сработавшего датчика контакта. 
+    static std::map<_DIRECTION,vector2> m_smFewPixelsShift;  //Таблица смещений в зависимости от сработавшего датчика контакта. 
                                                    //.. ЗАЧЕМ?: Сдвигаю шарик на несколько (2-3) пикселя, чтобы выйти из тек.коллизии ..
                                                   //..   (след.итерация .IsHit() начинается раньше, чем шарик успевает отлететь на этот ..
                                                  //..   пиксель, что приводит к "залипанию" шарика. ..
@@ -127,7 +127,7 @@ private:
     
 
     //// Methods (prvt):
-    void        ComputeNewFi(const DIRECTION dir);
+    void        ComputeNewFi(const _DIRECTION dir);
     void        ComputeStartFi(
                         const float rndStartAng = 10*(float)PI/180,     //Модуль макс.отклонения от 0 случайного угла старт. ..
                                                                         //.. запуска шарика - 10 градусов перевожу в радианы.
@@ -136,7 +136,7 @@ private:
                     );
     void        NormalizeFi();
     vector2     ComputeNewMoveCenter(const u32 moveCCoordScale = pow(10.0, 3)) const;
-    DIRECTION   HitReview(DIRECTION dir) const;
+    _DIRECTION   HitReview(_DIRECTION dir) const;
     void        ComputeFiPlus(CPictureObject* pPad);
     void        InitBallHitChckPntsAnglesVec();
     void        InitHitChckPntsVec();
@@ -144,7 +144,7 @@ private:
     //Вспомагательные методы для IsHit()
     void        IsHitWithScreenBorders(
                         const float             fSceneW,                // :Inp.
-                        std::vector<DIRECTION>& rsltTrggrdHitChckPnts   // :Outp.
+                        std::vector<_DIRECTION>& rsltTrggrdHitChckPnts   // :Outp.
                     ) const;
     void        IsHitWithPad(
                         //Inp.:
@@ -157,15 +157,15 @@ private:
                                                                     //.. успевает пролететь сразу на несколько пикселей между итерациями ..
                                                                     //.. просчёта оптимизирующих (см."#OPT") проверок. Получаем от IsHit().
                         //Outp.:
-                        std::vector<DIRECTION>& rsltTrggrdHitChckPnts,  
+                        std::vector<_DIRECTION>& rsltTrggrdHitChckPnts,  
                         bool&                   rsltNeedToCheckBricks
                     );
     void        IsHitWithBricks(
                         const float                         fDltPxlsToChckHit,      // :Inp.
                         /*const*/ CLockableAccessVec<_BRICK*>&  lavBricks,              // :Inp.
-                        std::vector<DIRECTION>&             rsltTrggrdHitChckPnts   // :Outp.   //Получаем от IsHit(). Назначение см. в IsHit()
+                        std::vector<_DIRECTION>&             rsltTrggrdHitChckPnts   // :Outp.   //Получаем от IsHit(). Назначение см. в IsHit()
                     );
-    DIRECTION   InterpretIsHitResults(std::vector<DIRECTION>& vTrggrdHitChckPnts) const;
+    _DIRECTION   InterpretIsHitResults(std::vector<_DIRECTION>& vTrggrdHitChckPnts) const;
     static void InitFewPixelsShift();
 };
 
