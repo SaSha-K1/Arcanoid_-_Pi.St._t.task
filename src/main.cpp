@@ -39,3 +39,5 @@ int WINAPI WinMain( __in HINSTANCE hInstance, __in_opt HINSTANCE hPrevInstance, 
 }
 
 ///@@@#REVIEW: обяз.просмотреть все мои классы на предмет требования стандарта кодирования  "3.13	Проектирование класса."
+
+///2014/11/07 - 0 Errs, 832 Wrnngs - просмотрел.

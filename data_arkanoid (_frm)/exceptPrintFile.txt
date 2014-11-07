@@ -1,0 +1,81 @@
+Thu Nov 06 17:38:40 2014
+   < << <<< <<<< <<<<< <<<<<< GAME START {i.e. `OnShow()` started working} >>>>>> >>>>> >>>> >>> >> >
+Thu Nov 06 17:42:20 2014
+   < << <<< <<<< <<<<< <<<<<< GAME START {i.e. `OnShow()` started working} >>>>>> >>>>> >>>> >>> >> >
+Thu Nov 06 17:42:36 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Thu Nov 06 17:42:36 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Thu Nov 06 17:42:36 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Thu Nov 06 17:42:36 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Thu Nov 06 17:42:36 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Thu Nov 06 17:42:36 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Thu Nov 06 17:42:36 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Thu Nov 06 17:42:36 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Thu Nov 06 17:42:36 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Thu Nov 06 17:42:36 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Thu Nov 06 17:42:36 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Thu Nov 06 17:42:36 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Thu Nov 06 17:42:36 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Thu Nov 06 17:42:36 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Thu Nov 06 17:42:36 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Thu Nov 06 17:42:36 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Thu Nov 06 17:42:36 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Thu Nov 06 17:42:36 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Thu Nov 06 17:42:36 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Thu Nov 06 17:42:36 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Thu Nov 06 17:42:36 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Thu Nov 06 17:42:36 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Thu Nov 06 17:42:53 2014
+   < << <<< <<<< <<<<< <<<<<< GAME START {i.e. `OnShow()` started working} >>>>>> >>>>> >>>> >>> >> >
+Thu Nov 06 19:16:20 2014
+   < << <<< <<<< <<<<< <<<<<< GAME START {i.e. `OnShow()` started working} >>>>>> >>>>> >>>> >>> >> >
+Thu Nov 06 19:16:45 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-0, [1]-7
+Thu Nov 06 19:16:45 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Thu Nov 06 19:16:45 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-6, [1]-7
+Thu Nov 06 19:16:45 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Thu Nov 06 19:16:45 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-6, [1]-7
+Thu Nov 06 19:16:45 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Thu Nov 06 20:27:37 2014
+   < << <<< <<<< <<<<< <<<<<< GAME START {i.e. `OnShow()` started working} >>>>>> >>>>> >>>> >>> >> >
+Thu Nov 06 20:39:26 2014
+   < << <<< <<<< <<<<< <<<<<< GAME START {i.e. `OnShow()` started working} >>>>>> >>>>> >>>> >>> >> >
+Thu Nov 06 20:55:14 2014
+   < << <<< <<<< <<<<< <<<<<< GAME START {i.e. `OnShow()` started working} >>>>>> >>>>> >>>> >>> >> >
+
+================================================================================//	2014/11/07
+
+Fri Nov 07 14:05:38 2014
+   < << <<< <<<< <<<<< <<<<<< GAME START {i.e. `OnShow()` started working} >>>>>> >>>>> >>>> >>> >> >
+Fri Nov 07 14:08:32 2014
+   < << <<< <<<< <<<<< <<<<<< GAME START {i.e. `OnShow()` started working} >>>>>> >>>>> >>>> >>> >> >
+Fri Nov 07 14:08:48 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-0, [1]-1
+Fri Nov 07 14:08:48 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."

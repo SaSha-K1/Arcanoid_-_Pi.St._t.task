@@ -56,16 +56,20 @@ public:
             CScene* const           sc
         );
 
-    void DelBrick(
-            const u32                       i, 
-            CScene* const                   sc,
-            CArkanoidController* const      pArkCntrllr,
-
-///@@@ „его так??: (€ ж подключил хедер, в котором typedef)
-///@@@ error C2065: '_LAV_OFBRICKS_HNDLR' : undeclared identifier             
-///@@@..            std::auto_ptr<_LAV_OFBRICKS_HNDLR>*    ppLavHndlr = nullptr    //«акомментировано знач-е by def., установленное в объ€влении метода.     //@@нет ни одного `const`'а, т.к. и указатель переопредел€ю и вызываю неконст.методы дл€ разыменованного ptr'а.
-            std::auto_ptr<CLockableAccessVec</*_BRICK*/CBrick*>::CLavHandler/*<_BRICK*>*/>*    ppLavHndlr = nullptr    //«акомментировано знач-е by def., установленное в объ€влении метода.     //@@нет ни одного `const`'а, т.к. и указатель переопредел€ю и вызываю неконст.методы дл€ разыменованного ptr'а.
-        );
+///@@@ #XI:
+/// „тобы избежать необх-ти передавать из `CleanBricks()` в этот метод ptr на auto_ptr (и получать #UGLY код), ..
+///.. или работать с shared_ptr (что (имхо) в дан.случ. не вполне оправдано), включаю этот метод в `CleanBricks()` ..
+///.. –ешил так, т.к. там уникального кода только 3 строки и вызов этого метода: 
+//    void DelBrick(
+//            const u32                       i, 
+//            CScene* const                   sc,
+//            CArkanoidController* const      pArkCntrllr,
+//
+/////@@@ „его так??: (€ ж подключил хедер, в котором typedef)
+/////@@@ error C2065: '_LAV_OFBRICKS_HNDLR' : undeclared identifier             
+/////@@@..            std::auto_ptr<_LAV_OFBRICKS_HNDLR>*    ppLavHndlr = nullptr    //«акомментировано знач-е by def., установленное в объ€влении метода.     //@@нет ни одного `const`'а, т.к. и указатель переопредел€ю и вызываю неконст.методы дл€ разыменованного ptr'а.
+//            std::auto_ptr<CLockableAccessVec</*_BRICK*/CBrick*>::CLavHandler/*<_BRICK*>*/>*    ppLavHndlr = nullptr    //«акомментировано знач-е by def., установленное в объ€влении метода.     //@@нет ни одного `const`'а, т.к. и указатель переопредел€ю и вызываю неконст.методы дл€ разыменованного ptr'а.
+//        );
 
     ///@@@ #WARNING (пока закомментил - при ошибках решать по месту. Ќу, если что, временно раскоментить дл€ достижени€ стартовой работоспособности программы): 
     ///friend class CArkanoidController;   ///@@@ #UGLY: попробовать красиво разрулить без `friend`
@@ -79,7 +83,7 @@ public:
 //    std::auto_ptr</*CLockableAccessVec<_BRICK*>::CLavHandler*/_LAV_MACRO> GetLavHndlr(const u32 key);     //интерфейсный метода, возвращающий m_LavBricks.CreateAccessHandler(key).   ///@@@ѕросмотреть, примен€ю где-то, или нет
     //std::auto_ptr<_LAV_OFBRICKS_HNDLR> GetLavHndlr(const u32 key); //замен€ю, т.к. _LAV_OFBRICKS_HNDLR не определ€ю
     std::auto_ptr<CLockableAccessVec<CBrick*>::CLavHandler> GetLavHndlr(const u32 key);     //интерфейсный метода, возвращающий m_LavBricks.CreateAccessHandler(key).   ///@@@ѕросмотреть, примен€ю где-то, или нет
-    void CleanBricks(                           //перебирает кирпичи из `m_LavBricks` и примен€ет `DelBrick()`
+    void CleanBricks(                           //перебирает кирпичи из `m_LavBricks` и (при необх-ти) удал€ет
             CScene* const                   sc,
             CArkanoidController* const      pArkCntrllr
         );
@@ -134,7 +138,7 @@ private:
 // ѕ≈–≈ЌќЎ” ¬ PUBLIC
 ////Methods (prvt):
 //    void AddBrick(CAniObject* baseBrick, vector2 position, CScene* sc);
-//    void DelBrick(u32 i, CScene* sc)
+//#OLD:    void DelBrick(u32 i, CScene* sc)
 
     ///@@@ Warning	81	warning C4512: 'CArkanoidController::CBricksManager' : assignment operator could not be generated	d:\arkanoid\src\bricksmanager.h	122
 

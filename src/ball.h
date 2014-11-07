@@ -12,11 +12,8 @@
 
 
 
-//#include <array>
-//#include "pictureobj.h"   //меняю на frwd-decl.
 #include "ballsManager.h" //пробовал заменить forward-decl., но "inconplete type is not allowed"
 #include "lockableAccessVec.h"    ///@@@ #TODO: пытаюсь заменить frwrd-decl'ом (см.стр.14)
-//#include "brick.h"    //меняю на frwd-decl.
 #include "brick.h"      ///@@@!! Можно было бы без, если бы уже C++0x. А пока вынужден, т.к. не работает frwrd-decl. через `typename` (далее подробнее):  //typename CArkanoidController::CBricksManager::CBrick;   //`typename` instead of `class` because of (see above): "Nestsed class Frwrd-decl.-tion is NOT ALLOWED! ///@@@! But not allowed before C++0x.  ---  Блин! Придётся инклудить брик.h =((
                         //можно без этого инклуда, т.к. он в подключённом тут ballsMngr.h есть.
 

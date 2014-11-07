@@ -107,13 +107,15 @@ _BALL::CBall(
 void _BALL::InitBallHitChckPntsAnglesVec()  //Initializing of vector of ball hit check points ANGLES
 {
     float newChckPnt;
+    float inaccuracy = 0.00001;  //компенсаци€ погрешности float
     m_svfBallHitChckPntsAngles.push_back(0.0);
     for (u32 i=1;  i < m_suNUM_OF_HIT_CHCK_PNTS;  ++i)  //начинаю с 1, т.к. 0-вой эл-т инициализирую перед циклом
     {
         newChckPnt = 2 * PI * i / m_suNUM_OF_HIT_CHCK_PNTS;
-        if (PI < newChckPnt)    // онвертирую угол их диапазона [0; 2*PI) в диапазон (-PI; PI].     
-                                //.. “ут можно было использовать и NormalizeFi(), если переписать еЄ, чтобы принимала параметр, но ..
-                                //.. действие простое, а в NormalizeFi() больше проверок и действий. –ешил, что это лишнее усложнение.
+        if (newChckPnt-inaccuracy > PI)     // онвертирую угол их диапазона [0; 2*PI) в диапазон (-PI; PI].     
+                                            //.. “ут можно было использовать и NormalizeFi(), если переписать еЄ, чтобы принимала ..
+                                            //.. параметр, но действие простое, а в NormalizeFi() больше проверок и действий. –ешил, ..
+                                            //.. что это лишнее усложнение.
             newChckPnt -= 2 * PI;
         m_svfBallHitChckPntsAngles.push_back(newChckPnt);
     }
@@ -155,18 +157,22 @@ void _BALL::InitHitChckPntsVec()
         //.. _в_ направлении оси координат, прибавл€ем 1-цу; в обратном направлении - отнимаем.
         m_svHitChckPnts.push_back(
             vector2(
-                (ballR-1) + ballR * sin(*it) 
-                    +(
-                        (*it > 0   &&  *it < PI) 
-                        ? 1 
-                        : 0
-                    ),    ///@@@ /*myround(*/ надо ли?
-                (ballR-1) - ballR * cos(*it) 
-                    +(
-                        ( (*it > -PI  &&  *it < -HALFPI)  ||  (*it > HALFPI  /*&&  currAng <= PI*/) ) 
-                        ? 1 
-                        : 0
-                    )
+                myround(
+                    (ballR-1) + ballR * sin(*it) 
+                        +(
+                            (*it > 0   &&  *it < PI) 
+                            ? 1 
+                            : 0
+                        )    ///@@@ /*myround(*/ надо ли?
+                 ),
+                myround(
+                    (ballR-1) - ballR * cos(*it) 
+                        +(
+                            ( (*it > -PI  &&  *it < -HALFPI)  ||  (*it > HALFPI  /*&&  currAng <= PI*/) ) 
+                            ? 1 
+                            : 0
+                        )
+                )
                     //“ут закомментированна€ часть услови€ не нужна, если угол не может быть больше PI (как сейчас)
             )
         );

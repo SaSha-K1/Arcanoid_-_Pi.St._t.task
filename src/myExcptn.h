@@ -35,10 +35,9 @@ public:
             case 11: exceptPrintFile << asctime(localtime(&t))<< "   Exception invoked: \"11.Unexpected last `else` in CBall::IsHit().\"\n" << std::endl; break;\
             case 12: exceptPrintFile << asctime(localtime(&t))<< "   Exception invoked: \"12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`.\"\n" << std::endl; break;\
             case 13: exceptPrintFile << asctime(localtime(&t))<< "   Exception invoked: \"13.The `default` condition-branch in `switch(dir)` in CBall::IsHit().\"\n" << std::endl; break;\
-            case 14: exceptPrintFile << asctime(localtime(&t))<< "   Exception invoked: \"14.The DelBrick() get i, that is bigger than vector size().\"" << std::endl; break;\
+            case 14: exceptPrintFile << asctime(localtime(&t))<< "   Exception invoked: \"14.In the _BRICKS_MNGR::CleanBricks() `i` is bigger than size of m_LavBricks.\"" << std::endl; break;\
             case 15: exceptPrintFile << asctime(localtime(&t))<< "   Exception invoked: \"15.m_vpBricks.empty() condition isn't complete, but \"WON\" state is set.\"" << std::endl; break;\
             case 16: exceptPrintFile << asctime(localtime(&t))<< "   Exception invoked: \"16.GetReservedKey() != GetCurrValOfLockCode() in _BALL::IsHitWithBricks() before ReleaseAccessHandler().\"" << std::endl; break;\
-            case 17: exceptPrintFile << asctime(localtime(&t))<< "   Exception invoked: \"17.CBrick::BricksLockOff() returned \"0\" in DelBrick().\"" << std::endl; break;\
             case 18: exceptPrintFile << asctime(localtime(&t))<< "   Exception invoked: \"18.In CLaoHandle C-tor m_uLockCode != 0.\"" << std::endl; break;\
             case 19: exceptPrintFile << asctime(localtime(&t))<< "   Exception invoked: \"19.In CLaoHandle D-tor m_uLockCode != reserved copy of key from C-tor.\"" << std::endl; break;\
             case 20: exceptPrintFile << asctime(localtime(&t))<< "   Exception invoked: \"20.CLaoHandle C-tor got `key` parameter == 0. (Must be >0).\"" << std::endl; break;\
@@ -58,3 +57,6 @@ extern std::ofstream exceptPrintFile;
 
 
 #endif //MY_EXCPTN_H
+
+//#OLD:
+// case 17: exceptPrintFile << asctime(localtime(&t))<< "   Exception invoked: \"17.CBrick::BricksLockOff() returned \"0\" in DelBrick().\"" << std::endl; break;\ 

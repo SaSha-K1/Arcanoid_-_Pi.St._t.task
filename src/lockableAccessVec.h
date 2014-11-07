@@ -10,7 +10,7 @@
 //  Необходимо это, т.к. возможно (я предполагаю) ситуация, когда в методе   //
 //  IsHit() этот вектор используется для перебора его эл-тов при поиске      //
 //  контакта, а в это же время из этого же вектора в др.потоке удаляется     //
-//  элемент в методе DelBrick(). Что приведёт к UB.                          //
+//  элемент в методе CleanBricks(). Что приведёт к UB.                       //
 //    Вложенный класс CLavHandler есть реализация идиомы RAII для объекта    //
 //  "Доступ к вектору с блокировкой возможности параллельного доступа".      //
 //    Класс CLockableAccessVec служит обёрткой для указателя на вектор       //
@@ -87,7 +87,7 @@ public:
                                                                     //"1" - RetrieveBrick() in f. "bricksManager.h"
                                                                     //"2" - CArkanoidController::CBallsManager::CBall::IsHitWithBricks() in f. "ball.cpp"
                                                                     //"3" - CArkanoidController::CBricksManager::AddBrick() in f. "bricksManager.cpp"
-                                                                    //"4" - CArkanoidController::CBricksManager::DelBrick() in f. "bricksManager.cpp"
+                                                                    //#OLD: //"4" - CArkanoidController::CBricksManager::DelBrick() in f. "bricksManager.cpp"
                                                                     //"5" - CArkanoidController::CBricksManager::InitOfBricksAniObjects() in f. "bricksManager.cpp"
                                                                     //"6" - _BRICKS_MNGR::IsBricksEmptyCheck() called frm CArkanoidController::ProcessWinLostState() in f. "controller.cpp"   //only in DEBUG
                                                                     //"7" - CArkanoidController::OnUpdate() in f. "controller.cpp" (вызываю CBricksManager::CleanBricks())
@@ -252,7 +252,7 @@ CLockableAccessVec<T>::CLavHandler::CLavHandler(
 #endif //DEBUG==1
 
 //#OUTDATED (для наружного цикла вокруг DelBrick() в CArkanoidController::OnUpdate() допускаю возможность key==0 - тогда доступ без блокировки):
-    //#UPD: отбой. Решил по-другому обходить - передавать в DelBrick() необяз-ным посл-ним пар-ром obj std::auto_ptr<_LAV_OFBRICKS_HNDLR>.
+    //#OLD: #UPD: отбой. Решил по-другому обходить - передавать в DelBrick() необяз-ным посл-ним пар-ром obj std::auto_ptr<_LAV_OFBRICKS_HNDLR>.
 #if DEBUG==1
     if (0 == key)
         throw CMyExcptn(20);
