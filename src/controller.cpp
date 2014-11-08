@@ -26,6 +26,9 @@
 //#include "lockableAccessVec.h"  //в `ProcessWinLostState()` создаю auto_ptr<_LAV_OFBRICKS_HNDLR>. этот момент убрал. Возможно, больше и не нужно
 #include "random.h" ///@@@ нужно только д/ dbgPrint'ов в `OnMouseKeyDown()`. Убрать!
 
+///@@@ for special debug only:
+#include "search4VecErr.h"
+
 
 using guiPrint::Print;
 using dbgPrnt::DbgPrint;
@@ -265,6 +268,13 @@ try {
     time_t startT = time(NULL);
     exceptPrintFile << asctime(localtime(&startT))<< "   < << <<< <<<< <<<<< <<<<<< GAME START {i.e. `OnShow()` started working} >>>>>> >>>>> >>>> >>> >> >" << std::endl;
 #endif
+#if SEARCH_4_VEC_ERR!=0
+    search4VecErrLogFile << asctime(localtime(&startT))<< "   < << <<< <<<< <<<<< <<<<<< GAME START {i.e. `OnShow()` started working} >>>>>> >>>>> >>>> >>> >> >" << std::endl;
+#endif
+#if SEARCH_4_VEC_ERR!=0
+    g_OnUpdTime = clock();
+    g_OnRndrTime = clock();    
+#endif
 
     m_fSceneHeight = CRender::GetInst().GetHeight()/*768*/;
     m_fSceneWidth = CRender::GetInst().GetWidth()/*1024*/;
@@ -311,6 +321,7 @@ try {
     //Костыли: перенёс сюда из OnRender()
     //Вызываю метод, отыгрывающий анимацию уничтожения в 1й проход и удаляющий объект во второй
     m_pBricksMngr->CleanBricks(sc, this); 	//Костыли: переносил это в OnUpdate() - не помогло
+    ///@@@ Вызываю его кажд. `OnUpdate` - нафиг?! - ввести флажок, если поднят, то запускать!
 
     //Удалить объекты класса CBall вылетевших за пределы поля шариков
     m_pBallsMngr->CleanBalls(m_fSceneHeight, m_fSceneWidth, m_GameState);
@@ -327,6 +338,12 @@ try {
     //		(*itb)->GetBallPicObj()->SetPos( vec3To2((*itb)->GetBallPicObj()->GetPos()) + mFewPixelsShift[dir] );
     //	}
     //}
+
+#if SEARCH_4_VEC_ERR==2 ///@@@<<<<<<<
+            search4VecErrLogFile << /*asctime(localtime(&startT))<< */" OnUpdate: _dt=="
+                << _dt<< ". clocks(msec)=="<< (g_OnUpdTime = clock() - g_OnUpdTime)<< std::endl;
+#endif //SEARCH_4_VEC_ERR==1
+
 }
 EXCPTN_CATCH
 
@@ -358,6 +375,11 @@ try {
     //Костыли: перенёс сюда из OnUpdate()
     //Провека коллизий и пересчёт траекторий    ///@@ Stoped_here 2014/09/16
     m_pBallsMngr->ProcessIsHit(m_pPad, m_pBricksMngr->GetLavBricksPtr(), m_fSceneWidth, m_GameState);
+
+#if SEARCH_4_VEC_ERR==2 ///@@@<<<<<<<
+            search4VecErrLogFile << /*asctime(localtime(&startT))<< */" OnRender: clocks(msec)=="
+                << (g_OnRndrTime = clock() - g_OnRndrTime)<< std::endl;
+#endif //SEARCH_4_VEC_ERR==1
 
 }
 EXCPTN_CATCH

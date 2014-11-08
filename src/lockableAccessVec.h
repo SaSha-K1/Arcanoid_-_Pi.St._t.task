@@ -60,9 +60,10 @@
 
 
 #include <vector>
+#include <memory>   //for unique_ptr
 #include "globals.h"
 #include "types.h"  //можно выключить, пока включён "globals.h", содержащий это инклуд.
-//#include "brick.h"    ////Зачем нужен этот инклуд? (для _BRICK* вряд ли). Да и этот typedef тут некместу - переношу туда, где юзаю
+//#include "brick.h"    ///@@@ Зачем нужен этот инклуд? (для _BRICK* вряд ли). Да и этот typedef тут некместу - переношу туда, где юзаю
 #include "myExcptn.h"   //д/ cpp-части
 
 
@@ -79,10 +80,11 @@ public:
     }
 
     //// Types (pblc):
-    class CLavHandler;  ///@@@ Why in public?
+    class CLavHandler;  //! В public - т.к. принимаю вовне unique_ptr, параметризированный этим типом; ..
+                        //!.. в bricksManager.cpp объявляю typedef, используя этот тип.
 
     //// Methods (pblc):
-    std::auto_ptr<CLavHandler> CreateAccessHandler(const u32 key) /*const*/;   // `key` - is u32 value unique for each function, and! must be >0.
+    std::unique_ptr<CLavHandler> CreateAccessHandler(const u32 key) /*const*/;   // `key` - is u32 value unique for each function, and! must be >0.
                                                                     //#UPD2: upd правее не верный (отбой) #UPD: !! key==0 - тогда доступ без блокировки.
                                                                     //"1" - RetrieveBrick() in f. "bricksManager.h"
                                                                     //"2" - CArkanoidController::CBallsManager::CBall::IsHitWithBricks() in f. "ball.cpp"
@@ -91,8 +93,7 @@ public:
                                                                     //"5" - CArkanoidController::CBricksManager::InitOfBricksAniObjects() in f. "bricksManager.cpp"
                                                                     //"6" - _BRICKS_MNGR::IsBricksEmptyCheck() called frm CArkanoidController::ProcessWinLostState() in f. "controller.cpp"   //only in DEBUG
                                                                     //"7" - CArkanoidController::OnUpdate() in f. "controller.cpp" (вызываю CBricksManager::CleanBricks())
-    ///@@@ Добавить и в этот класс тоже метод ReleaseAccessHandler() для интуитивности интерфейса.
-    u32 ReleaseAccessHandler(std::auto_ptr<CLavHandler> apLavHndlr);    //! Принимаю параметром, а не храню копию, чтобы не следить за тем, чтобы ..
+    u32 ReleaseAccessHandler(std::unique_ptr<CLavHandler>/**/& apLavHndlr);    //! Принимаю параметром, а не храню копию, чтобы не следить за тем, чтобы ..
                                                                         //!.. obj или ptr не удалили снаружи непосредственно (в этом случае тут ..
                                                                         //!.. остался бы невалидный ptr или ptr на несущестующий obj).
 
@@ -101,9 +102,6 @@ private:
     CLockableAccessVec (const CLockableAccessVec&);
     CLockableAccessVec& operator= (const CLockableAccessVec&);
 
-    //// Types (prvt):
-    ///@@@? #OUTDATED (вынужден перенести выше - над 1-вым упоминанием в секции `public:`, т.к. КОМП-р ругается, что `udefined`. @@@?: Позже разобраться, т.к. вроде ж должен в пределах класса видеть.):
-    //class CLavHandler;  //Lockable Access Vector Handler
 
     //// Datas (prvt):
     std::vector<T>*             m_pVec;
@@ -147,24 +145,6 @@ public:
     u32 GetReservedKey() const  { return m_uResKey; }
 #endif //DEBUG==1
 
-    //#OUTDATED (вместо этих методов/операторов, переопределю просто опер-ры `->` и разыменования `*`): 
-    //std::vector<T1>::size_type          size() const    { return m_pVec->size();    }    ///@@@ #WARNING: возможно не пройдёт <int> вместо <CBrick*>
-    //std::vector<T1>::iterator           begin()         { return m_pVec->begin();   }     ///@@@ #WARNING: есть перегрузка const, возвр-щая const_iterator
-    //std::vector<T1>::iterator           end()           { return m_pVec->end();     }
-    //std::vector<T1>::reverse_iterator   rbegin()        { return m_pVec->rbegin();  }   //добавляю на всякий случ.
-    //std::vector<T1>::reverse_iterator   rend()          { return m_pVec->rend();    }   //добавляю на всякий случ.
-    //bool                                empty()         { return m_pVec->empty();   }
-    //std::vector<T1>::iterator           erase(std::vector<T1>::const_iterator pos)  { return m_pVec->erase(pos);    }
-    //std::vector<T1>::iterator           erase(
-    //                                            std::vector<T1>::const_iterator first,
-    //                                            std::vector<T1>::const_iterator last
-    //                                        )  
-    //                                    { return m_pVec->erase(first, last);    }
-    //...
-    //operator [] () ... 
-    //back() ... 
-    //push_back() ... 
-
 
 private:
     //запрет копирования и присваивания:
@@ -192,7 +172,7 @@ private:
 template <typename T>
 ///@@@#TO_DO: переписать с устаревшего `auto_ptr` на ск.вс. `unique_ptr`
 //std::auto_ptr</**/CLockableAccessVec<T>::/**/CLavHandler> CLockableAccessVec<T>::CreateAccessHandler(const u32 key) ///@@@ тут можно попробовать return-type задать с пом. суффикс-синтаксиса: (что-то вроде "auto ...() -> ...")
-auto CLockableAccessVec<T>::CreateAccessHandler(const u32 key) /*const*/   -> std::auto_ptr<CLavHandler>    //Suffix return type syntax использую, т.к. в кач-ве шаблонного пар-ра auto_ptr отказывался принимать конструкцию  " CLockableAccessVec<T>::CLavHandler " . Видимо, из-за наличия ещё одного шаблонного пар-ра.   ///@@@ #WARNING: d правильном ли месте поставил 'const' метода?
+auto CLockableAccessVec<T>::CreateAccessHandler(const u32 key) /*const*/   -> std::unique_ptr<CLavHandler>    //Suffix return type syntax использую, т.к. в кач-ве шаблонного пар-ра unique_ptr отказывался принимать конструкцию  " CLockableAccessVec<T>::CLavHandler " . Видимо, из-за наличия ещё одного шаблонного пар-ра.   ///@@@ #WARNING: d правильном ли месте поставил 'const' метода?
 {
     //#OUTDATED:
     //if (0 == m_uLockCode)
@@ -201,18 +181,30 @@ auto CLockableAccessVec<T>::CreateAccessHandler(const u32 key) /*const*/   -> st
     //    return nullptr;     ///@@@ #WARNING: возможно тут нужно  /* static_cast<CLaoHandle*>(nullptr); */
 
     while (0 != m_uLockCode)
+    {
 #if OS==WIN //т.к. ф-ция `_sleep()` is Windows specific. В Unix, кажется `Sleep()`.
+  
+  #if HARD_DEBUG==1
+        time_t currT = time(NULL);
+        exceptPrintFile << asctime(localtime(&currT))<< "!!!: _sleep() starts in CreateAccessHandler(). m_uLockCode == "
+            << m_uLockCode<< std::endl;
+  #endif //HARD_DEBUG==1
+
         _sleep(10); ///@@@ #WARNING: 1) возможно, не пауза этого потока, а останов всей программы, 2) может грузит ЦП, 3) может в сек, а не в милисек.
                     ///@@@? IntlelliSense грозился, что `_sleep()` устаревшая - рекомендует `Sleep()`. So poss-ly try.
+#else //OS=="WIN"
+        Sleep(10);  //In Unix it seems..
 #endif //OS=="WIN"
+    }
     //return new /**/std::auto_ptr<CLavHandler>/**/ CLavHandler(key, m_pVec, m_uLockCode);    ///@@@? так видимо нельзя, т.к. к-тор создаёт вроде лок. объ    
     
     //#XI:
     //CLavHandler* tmpCLavHndlrPtr = new CLavHandler(key, m_pVec, m_uLockCode);
     //return *(new std::auto_ptr<CLavHandler> (/* * */tmpCLavHndlrPtr));   //Without `*` I get err: C2664: 'std::auto_ptr<_Ty>::auto_ptr<CLockableAccessVec<T>::CLavHandler>(std::auto_ptr<_Ty> &) throw()' : cannot convert parameter 1 from 'std::auto_ptr<_Ty> *' to 'std::auto_ptr<_Ty> &' 186
 
-    return *( new std::auto_ptr<CLavHandler> (new CLavHandler(key, m_pVec, m_uLockCode)) ); //Without `*` I get err: C2664: 'std::auto_ptr<_Ty>::auto_ptr<CLockableAccessVec<T>::CLavHandler>(std::auto_ptr<_Ty> &) throw()' : cannot convert parameter 1 from 'std::auto_ptr<_Ty> *' to 'std::auto_ptr<_Ty> &' 186
-                                                                                            //Тут возвращаю auto_ptr а не raw (который снаружи уже просто схватить auto_ptr'ом), т.к. не уверен, что снаружи всегда будут принимать правильно. А если нет, то memory leaks!
+    //return *( new std::unique_ptr<CLavHandler> (new CLavHandler(key, m_pVec, m_uLockCode)) ); //Without `*` I get err: C2664: 'std::auto_ptr<_Ty>::auto_ptr<CLockableAccessVec<T>::CLavHandler>(std::auto_ptr<_Ty> &) throw()' : cannot convert parameter 1 from 'std::auto_ptr<_Ty> *' to 'std::auto_ptr<_Ty> &' 186
+                                                                                            //Тут возвращаю unique_ptr а не raw (который снаружи уже просто схватить unique_ptr'ом), т.к. не уверен, что снаружи всегда будут принимать правильно. А если нет, то memory leaks!
+    return std::move( *(new unique_ptr<CLavHandler>(new CLavHandler(key, m_pVec, m_uLockCode)) ) );
     ///@@@#EXP: try тут auto_ptr создавать без `new` - интересно, доживёт он как локальный объ до того мом., когда его примут снаружи?
 
 ///@@@ #TRY_IT(instead of upper couple of strings):    return /**/*(/**/ new /**/std::auto_ptr<CLavHandler>/**/ /* * */(new CLavHandler(key, m_pVec, m_uLockCode))/**/)/**/;    ///@@@ #WARNING: возможно тут нужно явно инициализировать auto_ptr
@@ -221,7 +213,7 @@ auto CLockableAccessVec<T>::CreateAccessHandler(const u32 key) /*const*/   -> st
 
 //// ReleaseAccessHandler() ////
 template <typename T>
-u32 CLockableAccessVec<T>::ReleaseAccessHandler(std::auto_ptr<CLavHandler> apLavHndlr)
+u32 CLockableAccessVec<T>::ReleaseAccessHandler(std::unique_ptr<CLavHandler>/**/& apLavHndlr)
 {
     apLavHndlr.reset();
     
@@ -266,7 +258,7 @@ CLockableAccessVec<T>::CLavHandler::CLavHandler(
 
 //// D-tor ////
 template <typename T>
-CLockableAccessVec<T>::CLavHandler/*<T>*/::~CLavHandler()
+CLockableAccessVec<T>::CLavHandler/*<T>*/::~CLavHandler()   ///*
 {
 #if DEBUG==1
     if (m_uResKey != m_ruLavLockCode) throw CMyExcptn(19);  //это возможно, если параллельный доступ #upd: возможность которого пока отменяю 
@@ -276,31 +268,15 @@ CLockableAccessVec<T>::CLavHandler/*<T>*/::~CLavHandler()
 }
 
 
-//#WRONG:
-////// ReleaseLav() ////
-//template <typename T>
-//u32 CLockableAccessVec<T>::CLavHandler::ReleaseLav()
-//{
-////все проверки #if DEBUG==1 выполняю в D-tor'е.
-//    ~CLavHandler();
-//}
-
-
-
-//#OLD: typedef CLockableAccessVec<_BRICK*>::CLavHandler    _LAV_HANDLER;
-//typedef /**/typename/**/ CLockableAccessVec<_BRICK*>::CLavHandler _LAV_OFBRICKS_HNDLR;  !Это тут не нужно, т.к. негуд заголовочный файл связывать конкретикой внешнего кода, а возможно и даже нельзя (если для нужд этого объявления недостаточно Frwrd-decl'ов используемых типов).
-
-
 
 #endif //LOCKABLE_ACCESS_VEC_H
-
 
 
 ///#NOTE:
     /// "...  if ( _BRICK::DSTR_ST == (*(*(*ppLavHndlr)))[i]->m_state )  ..."
     //#NOTE: 
-    //тут   1й (*..) - от ptr'а на `auto_ptr` переходим к `auto_ptr`
-    //      2й (*..) - от `auto_ptr` переходим к _LAV_OFBRICKS_HNDLR
+    //тут   1й (*..) - от ptr'а на `unique_ptr` переходим к `unique_ptr`
+    //      2й (*..) - от `unique_ptr` переходим к _LAV_OFBRICKS_HNDLR
     //      3й (*..) - т.к. в _LAV_OFBRICKS_HNDLR опер-ры `*` и `->` перегружены, то тут от _LAV_OFBRICKS_HNDLR переходим сразу ..
     //.. к std::vector<_BRICK*>, ptr на который есть member data класса.
     //      ну и [i] - уже обращаеся к эл-ту вектора типа _BRICK*

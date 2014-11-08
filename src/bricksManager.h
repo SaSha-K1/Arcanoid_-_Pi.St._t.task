@@ -82,7 +82,7 @@ public:
 ///@@@..    std::auto_ptr<_LAV_OFBRICKS_HNDLR> GetLavHndlr(const u32 key);     //интерфейсный метода, возвращающий m_LavBricks.CreateAccessHandler(key).   ///@@@ѕросмотреть, примен€ю где-то, или нет
 //    std::auto_ptr</*CLockableAccessVec<_BRICK*>::CLavHandler*/_LAV_MACRO> GetLavHndlr(const u32 key);     //интерфейсный метода, возвращающий m_LavBricks.CreateAccessHandler(key).   ///@@@ѕросмотреть, примен€ю где-то, или нет
     //std::auto_ptr<_LAV_OFBRICKS_HNDLR> GetLavHndlr(const u32 key); //замен€ю, т.к. _LAV_OFBRICKS_HNDLR не определ€ю
-    std::auto_ptr<CLockableAccessVec<CBrick*>::CLavHandler> GetLavHndlr(const u32 key);     //интерфейсный метода, возвращающий m_LavBricks.CreateAccessHandler(key).   ///@@@ѕросмотреть, примен€ю где-то, или нет
+    std::unique_ptr<CLockableAccessVec<CBrick*>::CLavHandler> GetLavHndlr(const u32 key);     //интерфейсный метода, возвращающий m_LavBricks.CreateAccessHandler(key).   ///@@@ѕросмотреть, примен€ю где-то, или нет
     void CleanBricks(                           //перебирает кирпичи из `m_LavBricks` и (при необх-ти) удал€ет
             CScene* const                   sc,
             CArkanoidController* const      pArkCntrllr

@@ -5,6 +5,9 @@
 #include "myExcptn.h"
 #include "brick.h"  ///@@@ Это плохо. Нужно, т.к. обращаюсь к ->GetBrickAniObj(), ->m_state, и BRICK_STATE. Всё это в методе IsHitWithBrick().   #TODO: Попытаться избавиться от такой зависимости этих 2х классов (возможно, заменив зависимостью от интерфейсного класса CAbstractBrick, от которого унаследовать уже CBrick).
 
+///@@@ for special debug only:
+#include "search4VecErr.h"
+
 
 //// TYPES:
 typedef /*typename/**/ CLockableAccessVec<_BRICK*>::CLavHandler _LAV_OFBRICKS_HNDLR;  // `typename` may be not allowed out of `template`  ///: err C2899: typename cannot be used outside a template declaration	10
@@ -50,57 +53,7 @@ _BALL::CBall(
 }
 
 
-//////////////////////\ PREPARE_ZONE \\\\\\\\\\\\\\\\\\\\\/
-    ///@@просто перенести этот метод ниже в этом же файле
-
-//#OUDATED ( всё же разбиваю обратно на 2 метода: Init..Angles() и Init..Pnts(), т.к. вектор углов нужен в InitFewPxlsShift() ):
-//// InitHitChckPntsVec() ////
-//void _BALL::InitHitChckPntsVec()
-//{
-//    std::vector<float> vfBallHitChckPntsAngles;   ///@@@ ? актуальна ли эта инфа?: //#IMPORTANT: в случ.необходимости изменения кол-ва эл-тов, менять только на чётное кол-во >=2. Увязать с новым знач-ем enum _DIRECTION и class CBall static member m_suNUM_OF_HIT_CHCK_PNTS.
-//    // 1of2) Initializing of vector of ball hit check points ANGLES:
-//    float newChckPnt;
-//    vfBallHitChckPntsAngles.push_back(0.0);
-//    for (u32 i=1;  i < m_suNUM_OF_HIT_CHCK_PNTS;  ++i)  //начинаю с 1, т.к. 0-вой эл-т инициализирую перед циклом
-//    {
-//        newChckPnt = 2 * PI * i / m_suNUM_OF_HIT_CHCK_PNTS;
-//        if (PI < newChckPnt)    //Конвертирую угол их диапазона [0; 2*PI) в диапазон (-PI; PI].     
-//                                //.. Тут можно было использовать и NormalizeFi(), если переписать её, чтобы принимала параметр, но ..
-//                                //.. действие простое, а в NormalizeFi() больше проверок и действий. Решил, что это лишнее усложнение.
-//            newChckPnt -= 2 * PI;
-//        vfBallHitChckPntsAngles.push_back(newChckPnt);
-//    }
-//        //#OUTDATED: array инициализировал так:  
-//        //      { 0,          //N
-//        //        PI/4,       //NE
-//        //        HALFPI,     //E
-//        //        PI*3/4,     //SE
-//        //        PI,         //S
-//        //        -PI*3/4,    //SW
-//        //        -HALFPI,    //W
-//        //        -PI/4 };    //NW
-//
-//    // 2of2) Initializing of vector of hit check points:
-//    float ballR = m_pBallPicObj->GetSize().y / 2.0;
-//    float currAng;
-//    for (auto& it = vfBallHitChckPntsAngles.begin();  vfBallHitChckPntsAngles.end() != it;  ++it)
-//    {
-//        //Использую выведенные формулы определения растровых x и y из уравнения окружности шарика:
-//        //Последнее условное слагаемое (1 или 0) нужно: т.к. тут имеем дело с растровым изображением, то, ..
-//        //.. коль нам нужен первый пиксель вне контура шарика, то в, случае поиска координат такой точки ..
-//        //.. _в_ направлении оси координат, прибавляем 1-цу; в обратном направлении - отнимаем.
-//        m_svHitChckPnts.push_back(
-//            vector2(
-//                (ballR-1) + ballR * sin(*it) 
-//                    +((*it > 0   &&  *it < PI) ? 1 : 0),    ///@@@ /*myround(*/ надо ли?
-//                (ballR-1) - ballR * cos(*it) 
-//                    +(( (*it > -PI  &&  *it < -HALFPI)  ||  (*it > HALFPI  /*&&  currAng <= PI*/) ) ? 1 : 0)
-//                    //Тут закомментированная часть условия не нужна, если угол не может быть больше PI (как сейчас)
-//            )
-//        );
-//    }
-//}
-
+//////////////////////\ PREPARE_ZONE \\\\\\\\\\\\\\\\\\\\\/     ///@@@ Код ниже до закрываюещего тэга вроде лучше переместить
 
 //// InitBallHitChckPntsAnglesVec() ////
 ///@@ Stoped here 2014/09/12 - и переходить к брикам.
@@ -149,8 +102,16 @@ void _BALL::InitHitChckPntsVec()
     // 2of2) Initializing of vector of hit check points:
     float ballR = m_pBallPicObj->GetSize().y / 2.0;
     float currAng;  ///@@@? WRN C4101: 'currAng' : unreferenced local variable 141
-    for (auto/*&*/ it = m_svfBallHitChckPntsAngles.begin();  m_svfBallHitChckPntsAngles.end() != it;  ++it)
+    for (auto it = m_svfBallHitChckPntsAngles.begin();  m_svfBallHitChckPntsAngles.end() != it;  ++it)
     {
+
+#if SEARCH_4_VEC_ERR==1 ///@@@<<<<<<<
+            //time_t startT = time(NULL);
+            search4VecErrLogFile << /*asctime(localtime(&startT))<< */" InitHitChckPntsVec(): m_svfBallHitChckPntsAngles.size()=="
+                << m_svfBallHitChckPntsAngles.size()<< "{m!b.==8}, it`=="<< it-m_svfBallHitChckPntsAngles.begin()<< std::endl;
+#endif //SEARCH_4_VEC_ERR==1
+
+
         //Использую выведенные формулы определения растровых x и y из уравнения окружности шарика:
         //Последнее условное слагаемое (1 или 0) нужно: т.к. тут имеем дело с растровым изображением, то, ..
         //.. коль нам нужен первый пиксель вне контура шарика, то в, случае поиска координат такой точки ..
@@ -350,6 +311,12 @@ void _BALL::IsHitWithPad(
         bool&                   rsltNeedToCheckBricks
      )
 {
+#if SEARCH_4_VEC_ERR==1 ///@@@<<<<<<<
+            //time_t startT = time(NULL);
+            search4VecErrLogFile << /*asctime(localtime(&startT))<< */" IsHitWithPad(): m_svHitChckPnts.size()=="
+                << m_svHitChckPnts.size()<< " {m!b.==8}."<< std::endl;
+#endif //SEARCH_4_VEC_ERR==1
+
     //Оптимизация (далее #OPT): если шарик выше горизонтали Pad'а, или если улетел уже ниже (горизонтали Pad'a +10), ..
     //.. то коллизию с Pad'ом искать не нужно - начинаем перебор акт.объектов начиная со 2го (Pad всегда 1ый)
     if ( m_svHitChckPnts[S].y + m_pBallPicObj->GetPos().y   <   pPad->GetPos().y - fDltPxlsToChckHit  ||	
@@ -361,11 +328,27 @@ void _BALL::IsHitWithPad(
     {
         //Рассчитываю диапазон датчиков HitChckPnts, кот-е нужно проверять при поиске столкновения ..
         //.. с Pad'ом - т.е. датчики нижней дуги полуокружности шарика включая точки концов:
-        u32 begin = int (m_suNUM_OF_HIT_CHCK_PNTS/4.0 + 0.5);   // N/4 + .5
-        u32 end = m_suNUM_OF_HIT_CHCK_PNTS - begin;             // N-(..)
+        u32 begin = int (m_suNUM_OF_HIT_CHCK_PNTS/4.0 + 0.5);   //! Тут ничего лучше, чем "магич.число" не придумал, т.к. ..
+                                                                //!.. "/4.0" - это (поскольку 0-вая точка "hit check point" ..
+                                                                //!.. сверху шарика, а столкнуться с Pad'ом он может только ..
+                                                                //!.. своей нижней полудугой, то) отняв 1/4 общего числа ..
+                                                                //!.. hit check point'ов, сначала (==begin) и с конца ..
+                                                                //!.. (==end), я как раз смогу перебрать нужные мне ..
+                                                                //!.. точки: (в моём случае) E,SE,S,SW,W.
+                                                                //! +0,5 тут нужно для правильного округления ..
+                                                                //!.. для отбора hit check point'ов, если 1/2 ..
+                                                                //!.. их общего кол-ва будет нечётным.
+        u32 end = m_suNUM_OF_HIT_CHCK_PNTS - begin;             
         
         for (u32 d=begin;  d<=end;  ++d)  //Для 8 датчиков диапазон [2, 6] == [E, W]
         {                               //#OUTDATED (было актуально д/ диапазона выраженного в _DIRECTION): #WARNING(possibly). Возможно заменить implicit преобразование типов явным.
+
+#if SEARCH_4_VEC_ERR==1 ///@@@<<<<<<<
+            //time_t startT = time(NULL);
+            search4VecErrLogFile << /*asctime(localtime(&startT))<< */" IsHitWithPad(): m_svHitChckPnts.size()=="
+                << m_svHitChckPnts.size()<< ", d=="<< d<< std::endl;
+#endif //SEARCH_4_VEC_ERR==1
+
             if ( pPad->Hit(m_svHitChckPnts[d] + Vec3To2(m_pBallPicObj->GetPos())/*,0*/) )   /// Тут WRN: "C4239: nonstandard extension used : 'argument' : conversion from 'vector2' to 'vector2 &' "  - это опер-р "+" перегруженный д/ `vector2` принимает 2ой пар-р по ссылке. Видимо, всё ок.
 
             {
@@ -393,7 +376,7 @@ void _BALL::IsHitWithBricks(
 //        while (_BRICK::BricksLockOn(1) != 1)	///In IsHit()
 //        {	/*включаю замок на изменения в m_vpBricks {{объект заменён на: `m_LavBricks`}}. Если уже включён кем-то другим, жду*/
 
-            std::auto_ptr<_LAV_OFBRICKS_HNDLR> pLavHndlr = lavBricks.CreateAccessHandler(2);
+            std::unique_ptr<_LAV_OFBRICKS_HNDLR> pLavHndlr = lavBricks.CreateAccessHandler(2);
 #if DEBUG==1
             if (nullptr == pLavHndlr.get()) throw CMyExcptn(22);
 #endif //DEBUG
@@ -418,7 +401,14 @@ void _BALL::IsHitWithBricks(
         //for (char ib = m_vpBricks.size()-1; ib>=0; --ib)
         //#OUTDATED: for (char ib = 0; ib < m_vpBricks.size(); ++ib)	//Костыли
         for (u32 ib = 0;  ib < (*pLavHndlr)->size();  ++ib)	//Костыли
-        {		
+        {	
+
+#if SEARCH_4_VEC_ERR==1 ///@@@<<<<<<<
+            //time_t startT = time(NULL);
+            search4VecErrLogFile << /*asctime(localtime(&startT))<< */" IsHitWithBricks(): (*pLavHndlr)->size()=="
+                << (*pLavHndlr)->size()<< ", ib=="<< ib<< std::endl;
+#endif //SEARCH_4_VEC_ERR==1
+
             /*КОСТЫЛЬ*/ CAniObject ao = /*m_vpBricks*/(*(*pLavHndlr))[ib]->GetBrickAniObj();	//Костыли: пробую сохранять себе копию объекта - не помогает
             //CAniObject *ao = (*it)->getBrickAniObj();	//для лаконичности
             //CAniObject ao (m_vpBricks[ib]->getBrickAniObj());	//для лаконичности
@@ -426,6 +416,13 @@ void _BALL::IsHitWithBricks(
                 //m_aHitChckPnts[N].y + m_pBallPicObj->GetPos().y > ao->GetPos().y + ao->GetSize().y +dlt ||	//opt
                 //m_aHitChckPnts[E].x + m_pBallPicObj->GetPos().x < ao->GetPos().x -dlt  ||					//opt
                 //m_aHitChckPnts[W].x + m_pBallPicObj->GetPos().x > ao->GetPos().x + ao->GetSize().x +dlt)	//opt
+
+#if SEARCH_4_VEC_ERR==1 ///@@@<<<<<<<
+            //time_t startT = time(NULL);
+            search4VecErrLogFile << /*asctime(localtime(&startT))<< */" IsHitWithBricks(): m_svHitChckPnts.size()=="
+                << m_svHitChckPnts.size()<< " {m!b.==8}."<< std::endl;
+#endif //SEARCH_4_VEC_ERR==1
+
             //#OPT: проверка пересечения описывающих прямоугольников:
             if (m_svHitChckPnts[N].y + m_pBallPicObj->GetPos().y > ao.GetPos().y + ao.GetSize().y +fDltPxlsToChckHit || 
                 m_svHitChckPnts[E].x + m_pBallPicObj->GetPos().x < ao.GetPos().x -fDltPxlsToChckHit  || 
@@ -442,10 +439,24 @@ void _BALL::IsHitWithBricks(
             //!.. Также при столкновении меняем значение свойства кирпича m_state из "ING" (in game) на "DSTR_ST" (destruction start).
             for (u32 i=0;  i < m_suNUM_OF_HIT_CHCK_PNTS;  ++i)
             {
+
+#if SEARCH_4_VEC_ERR==1 ///@@@<<<<<<<
+            //time_t startT = time(NULL);
+            search4VecErrLogFile << /*asctime(localtime(&startT))<< */" IsHitWithBricks(): m_svHitChckPnts.size()=="
+                << m_svHitChckPnts.size()<< "{m!b.==8}, i=="<< i<< std::endl;
+#endif //SEARCH_4_VEC_ERR==1
+
                 if ( /*ao->*/ao.Hit(m_svHitChckPnts[i] + Vec3To2(m_pBallPicObj->GetPos())/*,0*/) )  //! `m_svHitChckPnts[i]` - относительные ..
                 {                                                                                   //!.. координаты датчика отн-но координат ..
                                                                                                     //!.. шарика (т.е. верхн.левого его угла).
-                    rsltTrggrdHitChckPnts.push_back(static_cast<_DIRECTION>(i));                     
+                    rsltTrggrdHitChckPnts.push_back(static_cast<_DIRECTION>(i));  
+
+#if SEARCH_4_VEC_ERR==1 ///@@@<<<<<<<
+            //time_t startT = time(NULL);
+            search4VecErrLogFile << /*asctime(localtime(&startT))<< */" IsHitWithBricks(): (*pLavHndlr)->size()=="
+                << (*pLavHndlr)->size()<< ", ib=="<< ib<< std::endl;
+#endif //SEARCH_4_VEC_ERR==1
+
                     if (/*(*it)*/ (*(*pLavHndlr))[ib]/**/->m_state == _BRICK::ING)      // "==" comparison
                         /*(*it)*/ (*(*pLavHndlr))[ib]/**/->m_state = _BRICK::DSTR_ST;   // "="  assignment
                 }
@@ -456,7 +467,7 @@ void _BALL::IsHitWithBricks(
             //if (pLavHndlr->GetReservedKey() == pLavHndlr->GetCurrValOfLockCode()) throw CMyExcptn(16); /*ВЫключаю замок на изменения в m_vpBricks.*/ ///@@@ прим-я не то
         if (pLavHndlr->GetReservedKey() != pLavHndlr->GetCurrValOfLockCode()) throw CMyExcptn(16);
         
-        if (0 != lavBricks.ReleaseAccessHandler(pLavHndlr))     //! ВЫключаю замок на изменения в lavBricks.
+        if ( 0 != lavBricks.ReleaseAccessHandler(/*std::move(pLavHndlr)*/pLavHndlr) )     //! ВЫключаю замок на изменения в lavBricks.
             throw CMyExcptn(26);
 
 //#OUTDATED:
@@ -506,20 +517,17 @@ _BALL::_DIRECTION  _BALL::InterpretIsHitResults(std::vector<_DIRECTION>& vTrggrd
 #endif //DEBUG==1
     }
 
+    ///@@@ ДАЛЬШЕ НЕ ВНОСИЛ БЛОКИ "#if SEARCH_4_VEC_ERR==1 ///@@@<<<<<<<"
+
 #if DEBUG==1
     else if (vTrggrdHitChckPnts.size()>2)
     {
   #if HARD_DEBUG==1
         time_t currT = time(NULL);
-        exceptPrintFile << asctime(localtime(&currT))<< "!!!: vTrggrdHitChckPnts.size() > 2. Values combination is:"    ///@@@ #WRN: `asctime()` & `localtime()` are unsafe - use `asctime_s()` & `localtime_s()` instead (см.также use of this func. in other places in the PRO)
-            "  [0]-"<< vTrggrdHitChckPnts[0]<< 
-            ", [1]-"<< vTrggrdHitChckPnts[1]<< 
-            ", [2]-"<< vTrggrdHitChckPnts[2]<< 
-            ", [3]-"<< vTrggrdHitChckPnts[3]<< 
-            ", [4]-"<< vTrggrdHitChckPnts[4]<< 
-            ", [5]-"<< vTrggrdHitChckPnts[5]<< 
-            ", [6]-"<< vTrggrdHitChckPnts[6]<< 
-            ", [7]-"<< vTrggrdHitChckPnts[7]<< std::endl;
+        exceptPrintFile << asctime(localtime(&currT))<< "!!!: vTrggrdHitChckPnts.size() > 2. Values combination is:";    ///@@@ #WRN: `asctime()` & `localtime()` are unsafe - use `asctime_s()` & `localtime_s()` instead (см.также use of this func. in other places in the PRO)
+        for (auto ivt = vTrggrdHitChckPnts.begin();  ivt != vTrggrdHitChckPnts.end();  ++ivt)
+            exceptPrintFile <<" ["<< ivt - vTrggrdHitChckPnts.begin() <<"]-"<< *ivt<< ","; 
+        exceptPrintFile<< "\b."<< std::endl;
   #endif //HARD_DEBUG==1
         throw CMyExcptn(4);		//assert(vHP.size()<=2);
     }

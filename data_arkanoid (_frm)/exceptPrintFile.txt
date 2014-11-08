@@ -6,46 +6,9 @@ Thu Nov 06 17:42:36 2014
 !!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
 Thu Nov 06 17:42:36 2014
    Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
-Thu Nov 06 17:42:36 2014
-!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
-Thu Nov 06 17:42:36 2014
-   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
-Thu Nov 06 17:42:36 2014
-!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
-Thu Nov 06 17:42:36 2014
-   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
-Thu Nov 06 17:42:36 2014
-!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
-Thu Nov 06 17:42:36 2014
-   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
-Thu Nov 06 17:42:36 2014
-!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
-Thu Nov 06 17:42:36 2014
-   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
-Thu Nov 06 17:42:36 2014
-!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
-Thu Nov 06 17:42:36 2014
-   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
-Thu Nov 06 17:42:36 2014
-!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
-Thu Nov 06 17:42:36 2014
-   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
-Thu Nov 06 17:42:36 2014
-!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
-Thu Nov 06 17:42:36 2014
-   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
-Thu Nov 06 17:42:36 2014
-!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
-Thu Nov 06 17:42:36 2014
-   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
-Thu Nov 06 17:42:36 2014
-!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
-Thu Nov 06 17:42:36 2014
-   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
-Thu Nov 06 17:42:36 2014
-!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
-Thu Nov 06 17:42:36 2014
-   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+...
+
+
 Thu Nov 06 17:42:53 2014
    < << <<< <<<< <<<<< <<<<<< GAME START {i.e. `OnShow()` started working} >>>>>> >>>>> >>>> >>> >> >
 Thu Nov 06 19:16:20 2014
@@ -79,3 +42,385 @@ Fri Nov 07 14:08:48 2014
 !!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-0, [1]-1
 Fri Nov 07 14:08:48 2014
    Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Fri Nov 07 15:32:53 2014
+   < << <<< <<<< <<<<< <<<<<< GAME START {i.e. `OnShow()` started working} >>>>>> >>>>> >>>> >>> >> >
+Fri Nov 07 15:34:27 2014
+   < << <<< <<<< <<<<< <<<<<< GAME START {i.e. `OnShow()` started working} >>>>>> >>>>> >>>> >>> >> >
+Fri Nov 07 15:36:22 2014
+   < << <<< <<<< <<<<< <<<<<< GAME START {i.e. `OnShow()` started working} >>>>>> >>>>> >>>> >>> >> >
+Fri Nov 07 15:54:14 2014
+   < << <<< <<<< <<<<< <<<<<< GAME START {i.e. `OnShow()` started working} >>>>>> >>>>> >>>> >>> >> >
+Fri Nov 07 16:05:40 2014
+   < << <<< <<<< <<<<< <<<<<< GAME START {i.e. `OnShow()` started working} >>>>>> >>>>> >>>> >>> >> >
+Fri Nov 07 16:05:51 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-0, [1]-1
+Fri Nov 07 16:05:51 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Fri Nov 07 16:05:51 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-0, [1]-1
+Fri Nov 07 16:05:51 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Fri Nov 07 16:05:51 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-0, [1]-1
+Fri Nov 07 16:05:51 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Fri Nov 07 16:10:26 2014
+   < << <<< <<<< <<<<< <<<<<< GAME START {i.e. `OnShow()` started working} >>>>>> >>>>> >>>> >>> >> >
+
+---
+
+Fri Nov 07 16:11:52 2014
+   < << <<< <<<< <<<<< <<<<<< GAME START {i.e. `OnShow()` started working} >>>>>> >>>>> >>>> >>> >> >
+ППЦ!!! - тормоза минут по 5-10 я устал от тормозов, и сбил всего 2-3 кирпича только к !!!: 17:35 !!! (1.5h!!!)
+
+Fri Nov 07 18:26:40 2014
+   < << <<< <<<< <<<<< <<<<<< GAME START {i.e. `OnShow()` started working} >>>>>> >>>>> >>>> >>> >> >
+Fri Nov 07 18:32:08 2014
+   < << <<< <<<< <<<<< <<<<<< GAME START {i.e. `OnShow()` started working} >>>>>> >>>>> >>>> >>> >> >
+Fri Nov 07 18:32:56 2014
+   < << <<< <<<< <<<<< <<<<<< GAME START {i.e. `OnShow()` started working} >>>>>> >>>>> >>>> >>> >> >
+Fri Nov 07 18:33:55 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-4, [1]-5
+Fri Nov 07 18:33:55 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+... ..:..:56
+
+
+---!! Решена проблема vector subscript out of range.
+
+
+Fri Nov 07 19:54:23 2014
+   < << <<< <<<< <<<<< <<<<<< GAME START {i.e. `OnShow()` started working} >>>>>> >>>>> >>>> >>> >> >
+
+					///@@@ vvvТут я пронзаю один брик насквозь и отскакиваю только от следующего - расположенного над ним впритык (причина в том, что шарик успел провалиться в 1й брик сразу на 3 хит-чек-поинта (7,0,1). Поэтому вся обработка в АЛГ-ме срезалась trow'ом исключения.
+
+Fri Nov 07 19:54:45 2014
+!!!: vTrggrdHitChckPnts.size() > 2. Values combination is: [0]-0, [1]-1, [2]-7,.
+Fri Nov 07 19:54:45 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+Fri Nov 07 19:54:45 2014
+!!!: vTrggrdHitChckPnts.size() > 2. Values combination is: [0]-0, [1]-1, [2]-7,.
+Fri Nov 07 19:54:45 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+Fri Nov 07 19:54:45 2014
+!!!: vTrggrdHitChckPnts.size() > 2. Values combination is: [0]-0, [1]-1, [2]-7,.
+Fri Nov 07 19:54:45 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+Fri Nov 07 19:54:45 2014
+!!!: vTrggrdHitChckPnts.size() > 2. Values combination is: [0]-0, [1]-1, [2]-7,.
+Fri Nov 07 19:54:45 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+Fri Nov 07 19:54:45 2014
+!!!: vTrggrdHitChckPnts.size() > 2. Values combination is: [0]-0, [1]-1, [2]-2, [3]-6, [4]-7,.
+Fri Nov 07 19:54:45 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+Fri Nov 07 19:54:45 2014
+!!!: vTrggrdHitChckPnts.size() > 2. Values combination is: [0]-0, [1]-1, [2]-2, [3]-6, [4]-7,.
+Fri Nov 07 19:54:45 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+Fri Nov 07 19:54:45 2014
+!!!: vTrggrdHitChckPnts.size() > 2. Values combination is: [0]-0, [1]-1, [2]-2, [3]-6, [4]-7,.
+Fri Nov 07 19:54:45 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+Fri Nov 07 19:54:45 2014
+!!!: vTrggrdHitChckPnts.size() > 2. Values combination is: [0]-0, [1]-1, [2]-2, [3]-6, [4]-7,.
+Fri Nov 07 19:54:45 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+Fri Nov 07 19:54:45 2014
+!!!: vTrggrdHitChckPnts.size() > 2. Values combination is: [0]-0, [1]-1, [2]-2, [3]-6, [4]-7,.
+Fri Nov 07 19:54:45 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+Fri Nov 07 19:54:45 2014
+!!!: vTrggrdHitChckPnts.size() > 2. Values combination is: [0]-0, [1]-1, [2]-2, [3]-3, [4]-5, [5]-6, [6]-7,.
+Fri Nov 07 19:54:45 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+Fri Nov 07 19:54:45 2014
+!!!: vTrggrdHitChckPnts.size() > 2. Values combination is: [0]-0, [1]-1, [2]-2, [3]-3, [4]-5, [5]-6, [6]-7,.
+Fri Nov 07 19:54:45 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+Fri Nov 07 19:54:46 2014
+!!!: vTrggrdHitChckPnts.size() > 2. Values combination is: [0]-0, [1]-1, [2]-2, [3]-3, [4]-5, [5]-6, [6]-7,.
+Fri Nov 07 19:54:46 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+
+					///@@@ vvvА тут то же самое, что и перед этим, но проваливаюсь в Pad.
+Fri Nov 07 19:55:15 2014
+!!!: vTrggrdHitChckPnts.size() > 2. Values combination is: [0]-3, [1]-4, [2]-5,.
+Fri Nov 07 19:55:15 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+...
+...//тут было ~2 экрана таких пар записей
+...
+Fri Nov 07 19:55:15 2014
+!!!: vTrggrdHitChckPnts.size() > 2. Values combination is: [0]-3, [1]-4, [2]-5,.
+Fri Nov 07 19:55:15 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+
+Fri Nov 07 19:55:15 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Fri Nov 07 19:55:15 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+...
+...//очень много повторений (3..5 экранов)
+...
+Fri Nov 07 19:55:15 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Fri Nov 07 19:55:15 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+
+Fri Nov 07 19:55:44 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Fri Nov 07 19:55:44 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Fri Nov 07 19:55:44 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Fri Nov 07 19:55:44 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Fri Nov 07 19:55:44 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Fri Nov 07 19:55:44 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Fri Nov 07 19:55:44 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Fri Nov 07 19:55:44 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Fri Nov 07 19:55:44 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Fri Nov 07 19:55:44 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Fri Nov 07 19:55:44 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Fri Nov 07 19:55:44 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Fri Nov 07 19:55:44 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Fri Nov 07 19:55:44 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Fri Nov 07 19:55:44 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Fri Nov 07 19:55:44 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Fri Nov 07 19:55:44 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Fri Nov 07 19:55:44 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Fri Nov 07 19:55:44 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Fri Nov 07 19:55:44 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Fri Nov 07 19:55:44 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Fri Nov 07 19:55:44 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Fri Nov 07 19:55:44 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Fri Nov 07 19:55:44 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Fri Nov 07 19:55:44 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Fri Nov 07 19:55:44 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Fri Nov 07 19:55:44 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Fri Nov 07 19:55:44 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Fri Nov 07 19:55:44 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Fri Nov 07 19:55:44 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Fri Nov 07 19:55:44 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Fri Nov 07 19:55:44 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Fri Nov 07 19:55:44 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Fri Nov 07 19:55:44 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Fri Nov 07 19:55:44 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Fri Nov 07 19:55:44 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Fri Nov 07 19:55:44 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Fri Nov 07 19:55:44 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Fri Nov 07 19:55:44 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Fri Nov 07 19:55:44 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Fri Nov 07 19:55:44 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Fri Nov 07 19:55:44 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Fri Nov 07 19:55:44 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Fri Nov 07 19:55:44 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Fri Nov 07 19:55:44 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Fri Nov 07 19:55:44 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Fri Nov 07 19:55:44 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Fri Nov 07 19:55:44 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Fri Nov 07 19:55:44 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Fri Nov 07 19:55:44 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Fri Nov 07 19:55:44 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Fri Nov 07 19:55:44 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Fri Nov 07 19:55:44 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Fri Nov 07 19:55:44 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Fri Nov 07 19:55:44 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Fri Nov 07 19:55:44 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Fri Nov 07 19:55:44 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Fri Nov 07 19:55:44 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Fri Nov 07 19:55:44 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Fri Nov 07 19:55:44 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Fri Nov 07 19:55:44 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Fri Nov 07 19:55:44 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Fri Nov 07 19:55:44 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Fri Nov 07 19:55:44 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+Fri Nov 07 19:55:44 2014
+!!!: vTrggrdHitChckPnts.size() > 2. Values combination is: [0]-3, [1]-4, [2]-5,.
+Fri Nov 07 19:55:44 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+... ..:..:45
+
+
+---- Release build ----
+
+
+Fri Nov 07 20:54:39 2014
+   < << <<< <<<< <<<<< <<<<<< GAME START {i.e. `OnShow()` started working} >>>>>> >>>>> >>>> >>> >> >
+
+Fri Nov 07 20:55:10 2014
+!!!: vTrggrdHitChckPnts.size() > 2. Values combination is: [0]-3, [1]-4, [2]-5,.
+Fri Nov 07 20:55:10 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+...
+
+Fri Nov 07 20:55:10 2014
+!!!: vTrggrdHitChckPnts.size() > 2. Values combination is: [0]-2, [1]-3, [2]-5, [3]-6,.
+Fri Nov 07 20:55:10 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+...
+
+Fri Nov 07 20:55:10 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-2, [1]-6
+Fri Nov 07 20:55:10 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+...
+						///@@@ ^^^Это я провалился сквозь Pad в GameOver. (причина прежняя)
+
+Fri Nov 07 20:55:28 2014
+   Exception invoked: "3.Condition (m_fFi>=2*PI || m_fFi<=-2*PI) in CBall::normalizeFi() didn't satisfied."
+Fri Nov 07 20:55:28 2014
+   Exception invoked: "12.The m_fFi>PI || <=-PI in CBall::IsHit() before `switch(dir)`."
+
+... ..:..:29, 30, 31, 32, 33, 34, 35, 36
+
+---
+
+Fri Nov 07 22:46:18 2014
+   < << <<< <<<< <<<<< <<<<<< GAME START {i.e. `OnShow()` started working} >>>>>> >>>>> >>>> >>> >> >
+Fri Nov 07 22:46:25 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-3, [1]-4
+Fri Nov 07 22:46:25 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+...
+
+Fri Nov 07 22:46:25 2014
+!!!: vTrggrdHitChckPnts.size() > 2. Values combination is: [0]-3, [1]-4, [2]-5,.
+Fri Nov 07 22:46:25 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+...
+
+Fri Nov 07 22:46:26 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-2, [1]-3
+Fri Nov 07 22:46:26 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+...
+
+Fri Nov 07 22:46:26 2014
+!!!: vTrggrdHitChckPnts.size() > 2. Values combination is: [0]-2, [1]-3, [2]-4,.
+Fri Nov 07 22:46:26 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+...
+
+Fri Nov 07 22:46:26 2014
+!!!: vTrggrdHitChckPnts.size() > 2. Values combination is: [0]-1, [1]-2, [2]-3, [3]-4,.
+Fri Nov 07 22:46:26 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+Fri Nov 07 22:46:26 2014
+!!!: vTrggrdHitChckPnts.size() > 2. Values combination is: [0]-1, [1]-2, [2]-3, [3]-4,.
+Fri Nov 07 22:46:26 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+Fri Nov 07 22:46:26 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-1, [1]-2
+Fri Nov 07 22:46:26 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+
+
+ --- Release (with logging dt in OnUpd and OnRndr) ---
+
+Fri Nov 07 23:59:54 2014
+   < << <<< <<<< <<<<< <<<<<< GAME START {i.e. `OnShow()` started working} >>>>>> >>>>> >>>> >>> >> >
+Sat Nov 08 00:01:04 2014
+!!!: vTrggrdHitChckPnts.size() > 2. Values combination is: [0]-3, [1]-4, [2]-5,.
+Sat Nov 08 00:01:04 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+...
+
+Sat Nov 08 00:01:04 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-2, [1]-3
+Sat Nov 08 00:01:04 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+...
+
+Sat Nov 08 00:01:04 2014
+!!!: vTrggrdHitChckPnts.size() > 2. Values combination is: [0]-2, [1]-3, [2]-5, [3]-6,.
+Sat Nov 08 00:01:04 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+...
+
+Sat Nov 08 00:01:04 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-2, [1]-6
+Sat Nov 08 00:01:04 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+...
+
+Sat Nov 08 00:01:20 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-0, [1]-7
+Sat Nov 08 00:01:20 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+...
+
+Sat Nov 08 00:01:22 2014
+!!!: vTrggrdHitChckPnts.size()==2, but combination is unexpected:  [0]-6, [1]-7
+Sat Nov 08 00:01:22 2014
+   Exception invoked: "7.In IsHit()  vHP.size()==2 but values combination is unexpected."
+... ..:..:23
+
+Sat Nov 08 00:01:23 2014
+!!!: vTrggrdHitChckPnts.size() > 2. Values combination is: [0]-0, [1]-6, [2]-7,.
+Sat Nov 08 00:01:23 2014
+   Exception invoked: "4.vHP.size() is >2! in IsHit()."
+...
+
+---

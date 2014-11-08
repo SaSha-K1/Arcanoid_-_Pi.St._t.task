@@ -48,6 +48,9 @@
     <ClCompile Include="myExcptn.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="search4VecErr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="controller.h">
@@ -81,6 +84,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="lockableAccessVec.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="search4VecErr.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -101,6 +101,7 @@
     <ClCompile Include="guiPrint.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="myExcptn.cpp" />
+    <ClCompile Include="search4VecErr.cpp" />
     <ClCompile Include="settings.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -114,6 +115,7 @@
     <ClInclude Include="guiPrint.h" />
     <ClInclude Include="lockableAccessVec.h" />
     <ClInclude Include="myExcptn.h" />
+    <ClInclude Include="search4VecErr.h" />
     <ClInclude Include="settings.h" />
   </ItemGroup>
   <ItemGroup>

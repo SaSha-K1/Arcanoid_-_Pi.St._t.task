@@ -30,7 +30,7 @@ void _BRICKS_MNGR::AddBrick(
         CScene* const           sc  //@@ вначале нет `const`, ибо есть вызов неконст.метода AddAni()
     )
 {
-    std::auto_ptr<_LAV_OFBRICKS_HNDLR> pLavHndlr = m_LavBricks.CreateAccessHandler(3);
+    std::unique_ptr<_LAV_OFBRICKS_HNDLR> pLavHndlr = m_LavBricks.CreateAccessHandler(3);
     if (!(*pLavHndlr)->empty())	//#NOTE: опер-ры `*` и `->` перегружены д/ _LAV_OFBRICKS_HNDLR    //Если это первый кирпич, то значит не создаём копии аниобъекта, а берём уже готовый, который загружен из xml
     {
         (*pLavHndlr)->push_back(new _BRICK(new CAniObject(*baseBrick), position));      ///@@@@@!! Проверить, что каждый `new` сопровождается корректным, всегда отрабатывающем, когда надо, `delete`-ом !!! ЭТО ДЛЯ ВСЕГО КОДА ПРОВЕРИТЬ!
@@ -181,7 +181,7 @@ void  _BRICKS_MNGR::CleanBricks(
     )
 {
     //@@#BACKUP (if где-то применяю GetLavHndlr(), то и тут заменить строку этой -->):  std::auto_ptr<_LAV_OFBRICKS_HNDLR> pLavHndlr = GetLavHndlr(7);
-    std::auto_ptr<_LAV_OFBRICKS_HNDLR> pLavHndlr = m_LavBricks.CreateAccessHandler(7);
+    std::unique_ptr<_LAV_OFBRICKS_HNDLR> pLavHndlr = m_LavBricks.CreateAccessHandler(7);
     for (char i=(*pLavHndlr)->size()-1;  i>=0;  --i)
     {
     ///@@@ #TODO: ввести статический флаг "Что-то изменилось с кирпичами", который вкл-ть когда случилось касание или отыгралась анимация, чтобы проверку эту по всем кирпичам зря не гонять.
@@ -198,7 +198,7 @@ void  _BRICKS_MNGR::CleanBricks(
 
             if ( _BRICK::DSTR_ST == (*(*pLavHndlr))[i]->m_state )
             //#NOTE: 
-            //тут   1й (*..) - от `auto_ptr` переходим к _LAV_OFBRICKS_HNDLR
+            //тут   1й (*..) - от `unique_ptr` переходим к _LAV_OFBRICKS_HNDLR
             //      2й (*..) - т.к. в _LAV_OFBRICKS_HNDLR опер-ры `*` и `->` перегружены, то тут от _LAV_OFBRICKS_HNDLR переходим сразу к std::vector<_BRICK*> ..
             //.. ptr, на который есть member data класса.
             //      ну и [i] - уже обращаеся к эл-ту вектора типа _BRICK*
@@ -246,14 +246,14 @@ void  _BRICKS_MNGR::CleanBricks(
 
     } //for
 
-    m_LavBricks.ReleaseAccessHandler(pLavHndlr);
+    m_LavBricks.ReleaseAccessHandler(/*std::move(pLavHndlr)*/pLavHndlr);
 }
 
 
 //// RetrieveBrick() ////
 void  _BRICKS_MNGR::RetrieveBrick(/*std::vector<*/ const std::vector<vector2>* /*>*/ const  /*vpvBricksOnLvlsCoords*/pvBricksOnCurrLvlCoords)
 {
-    std::auto_ptr<_LAV_OFBRICKS_HNDLR> pLavHndlr = m_LavBricks.CreateAccessHandler(1);
+    std::unique_ptr<_LAV_OFBRICKS_HNDLR> pLavHndlr = m_LavBricks.CreateAccessHandler(1);
 #if DEBUG==1
     if (nullptr == pLavHndlr.get()) throw CMyExcptn(21);
 #endif //DEBUG
@@ -263,7 +263,7 @@ void  _BRICKS_MNGR::RetrieveBrick(/*std::vector<*/ const std::vector<vector2>* /
 
 
 //// GetLavHndlr() ////
-std::auto_ptr<_LAV_OFBRICKS_HNDLR>  _BRICKS_MNGR::GetLavHndlr(const u32 key)
+std::unique_ptr<_LAV_OFBRICKS_HNDLR>  _BRICKS_MNGR::GetLavHndlr(const u32 key)
 {
     return m_LavBricks.CreateAccessHandler(key);
 }
@@ -278,7 +278,7 @@ void _BRICKS_MNGR::InitOfBricksAniObjects()
     //{
     //    m_vpBricksAniObjs[i] = m_vpBricks[i]->GetBrickAniObj();
     //}
-    std::auto_ptr<_LAV_OFBRICKS_HNDLR> pLavHndlr = m_LavBricks.CreateAccessHandler(5);
+    std::unique_ptr<_LAV_OFBRICKS_HNDLR> pLavHndlr = m_LavBricks.CreateAccessHandler(5);
     for (auto it = (*pLavHndlr)->begin(); it != (*pLavHndlr)->end(); ++it)     ///@@@ Тут и не в случ. "auto& it : vec" амперсанд не нужен
     {
         m_vpBricksAniObjs.push_back( (*it)->GetBrickAniObj() );     ///@@@тут видимо не совсем так, как хотелось бы отрабатывает перегруженный опер-р `->`. Возможно добавить ещё одну скобку с разыменованием
@@ -311,7 +311,7 @@ void _BRICKS_MNGR::AddBricksOnStart(
 #if DEBUG==1
 void _BRICKS_MNGR::IsBricksEmptyCheck()
 {    
-    std::auto_ptr<_LAV_OFBRICKS_HNDLR> pLavHndlr = m_LavBricks.CreateAccessHandler(6); //GetLavBricksPtr()->CreateAccessHandler(6);
+    std::unique_ptr<_LAV_OFBRICKS_HNDLR> pLavHndlr = m_LavBricks.CreateAccessHandler(6); //GetLavBricksPtr()->CreateAccessHandler(6);
     if ( !(*pLavHndlr)->empty() ) throw CMyExcptn(25);
 }
 #endif

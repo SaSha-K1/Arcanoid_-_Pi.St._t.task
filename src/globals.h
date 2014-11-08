@@ -7,6 +7,8 @@
 
 #define DEBUG 1
 #define HARD_DEBUG 1    //вклчючает доп.проверки и расширенные выводы в лог.
+#define SEARCH_4_VEC_ERR 2  ///@@@ Когда найду, убрать и это и все боки "#if SEARCH_4_VEC_ERR==1", а также исключить из проекта файлы search4VecErr.h и .cpp
+                            // "2" - временная задержка м/у итерациями OnUpdate() и OnRender()
 
 //Костыли
 #define LOCKS 1		//1 - включает код с BricksLock'ами;  0 - выкл.

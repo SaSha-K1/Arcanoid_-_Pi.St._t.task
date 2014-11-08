@@ -1,0 +1,3015 @@
+Fri Nov 07 22:46:18 2014
+   < << <<< <<<< <<<<< <<<<<< GAME START {i.e. `OnShow()` started working} >>>>>> >>>>> >>>> >>> >> >
+ OnRender: clocks(msec)==25
+ OnUpdate: _dt==15. clocks(msec)==31
+ OnRender: clocks(msec)==1473
+ OnUpdate: _dt==16. clocks(msec)==1468
+ OnRender: clocks(msec)==29
+ OnUpdate: _dt==0. clocks(msec)==34
+ OnRender: clocks(msec)==1476
+ OnUpdate: _dt==0. clocks(msec)==1471
+ OnRender: clocks(msec)==32
+ OnUpdate: _dt==0. clocks(msec)==38
+ OnRender: clocks(msec)==1481
+ OnUpdate: _dt==16. clocks(msec)==1476
+ OnRender: clocks(msec)==37
+ OnUpdate: _dt==0. clocks(msec)==43
+ OnRender: clocks(msec)==1485
+ OnRender: clocks(msec)==40
+ OnUpdate: _dt==0. clocks(msec)==1483
+ OnRender: clocks(msec)==1489
+ OnUpdate: _dt==15. clocks(msec)==46
+ OnRender: clocks(msec)==43
+ OnUpdate: _dt==0. clocks(msec)==1486
+ OnRender: clocks(msec)==1492
+ OnUpdate: _dt==0. clocks(msec)==49
+ OnRender: clocks(msec)==46
+ OnUpdate: _dt==0. clocks(msec)==1489
+ OnRender: clocks(msec)==1494
+ OnUpdate: _dt==0. clocks(msec)==52
+ OnRender: clocks(msec)==49
+ OnUpdate: _dt==0. clocks(msec)==1491
+ OnRender: clocks(msec)==1497
+ OnUpdate: _dt==16. clocks(msec)==55
+ OnRender: clocks(msec)==52
+ OnUpdate: _dt==0. clocks(msec)==1494
+ OnRender: clocks(msec)==1499
+ OnUpdate: _dt==0. clocks(msec)==58
+ OnRender: clocks(msec)==55
+ OnUpdate: _dt==0. clocks(msec)==1496
+ OnRender: clocks(msec)==1502
+ OnUpdate: _dt==0. clocks(msec)==61
+ OnRender: clocks(msec)==58
+ OnUpdate: _dt==15. clocks(msec)==1499
+ OnRender: clocks(msec)==1504
+ OnUpdate: _dt==0. clocks(msec)==64
+ OnRender: clocks(msec)==61
+ OnUpdate: _dt==0. clocks(msec)==1501
+ OnRender: clocks(msec)==1507
+ OnUpdate: _dt==0. clocks(msec)==67
+ OnRender: clocks(msec)==64
+ OnUpdate: _dt==0. clocks(msec)==1504
+ OnRender: clocks(msec)==1509
+ OnUpdate: _dt==0. clocks(msec)==69
+ OnRender: clocks(msec)==67
+ OnUpdate: _dt==16. clocks(msec)==1507
+ OnRender: clocks(msec)==1512
+ OnUpdate: _dt==0. clocks(msec)==72
+ OnRender: clocks(msec)==69
+ OnUpdate: _dt==0. clocks(msec)==1510
+ OnRender: clocks(msec)==1515
+ OnUpdate: _dt==0. clocks(msec)==74
+ OnRender: clocks(msec)==72
+ OnUpdate: _dt==0. clocks(msec)==1513
+ OnRender: clocks(msec)==1518
+ OnUpdate: _dt==0. clocks(msec)==77
+ OnRender: clocks(msec)==74
+ OnUpdate: _dt==16. clocks(msec)==1516
+ OnRender: clocks(msec)==1521
+ OnUpdate: _dt==0. clocks(msec)==80
+ OnRender: clocks(msec)==79
+ OnUpdate: _dt==0. clocks(msec)==1520
+ OnRender: clocks(msec)==1524
+ OnUpdate: _dt==0. clocks(msec)==83
+ OnRender: clocks(msec)==82
+ OnUpdate: _dt==0. clocks(msec)==1523
+ OnRender: clocks(msec)==1527
+ OnUpdate: _dt==15. clocks(msec)==86
+ OnRender: clocks(msec)==85
+ OnUpdate: _dt==0. clocks(msec)==1526
+ OnRender: clocks(msec)==1530
+ OnUpdate: _dt==0. clocks(msec)==89
+ OnRender: clocks(msec)==88
+ OnUpdate: _dt==0. clocks(msec)==1529
+ OnRender: clocks(msec)==1532
+ OnUpdate: _dt==0. clocks(msec)==92
+ OnRender: clocks(msec)==91
+ OnUpdate: _dt==16. clocks(msec)==1531
+ OnRender: clocks(msec)==1535
+ OnUpdate: _dt==0. clocks(msec)==95
+ OnRender: clocks(msec)==94
+ OnUpdate: _dt==0. clocks(msec)==1534
+ OnRender: clocks(msec)==1537
+ OnUpdate: _dt==0. clocks(msec)==98
+ OnRender: clocks(msec)==97
+ OnUpdate: _dt==0. clocks(msec)==1536
+ OnRender: clocks(msec)==1540
+ OnUpdate: _dt==0. clocks(msec)==101
+ OnRender: clocks(msec)==100
+ OnUpdate: _dt==15. clocks(msec)==1539
+ OnRender: clocks(msec)==1542
+ OnUpdate: _dt==0. clocks(msec)==104
+ OnRender: clocks(msec)==103
+ OnUpdate: _dt==0. clocks(msec)==1541
+ OnRender: clocks(msec)==1545
+ OnUpdate: _dt==0. clocks(msec)==107
+ OnRender: clocks(msec)==105
+ OnUpdate: _dt==0. clocks(msec)==1544
+ OnRender: clocks(msec)==1548
+ OnUpdate: _dt==16. clocks(msec)==109
+ OnRender: clocks(msec)==108
+ OnUpdate: _dt==0. clocks(msec)==1547
+ OnRender: clocks(msec)==1551
+ OnUpdate: _dt==0. clocks(msec)==112
+ OnRender: clocks(msec)==110
+ OnUpdate: _dt==0. clocks(msec)==1550
+ OnRender: clocks(msec)==1554
+ OnUpdate: _dt==0. clocks(msec)==114
+ OnRender: clocks(msec)==113
+ OnUpdate: _dt==0. clocks(msec)==1553
+ OnRender: clocks(msec)==1557
+ OnUpdate: _dt==16. clocks(msec)==117
+ OnRender: clocks(msec)==115
+ OnUpdate: _dt==0. clocks(msec)==1556
+ OnRender: clocks(msec)==1560
+ OnUpdate: _dt==0. clocks(msec)==119
+ OnRender: clocks(msec)==118
+ OnUpdate: _dt==0. clocks(msec)==1559
+ OnRender: clocks(msec)==1562
+ OnUpdate: _dt==0. clocks(msec)==122
+ OnRender: clocks(msec)==121
+ OnUpdate: _dt==0. clocks(msec)==1561
+ OnRender: clocks(msec)==1565
+ OnUpdate: _dt==15. clocks(msec)==125
+ OnRender: clocks(msec)==124
+ OnUpdate: _dt==0. clocks(msec)==1564
+ OnRender: clocks(msec)==1567
+ OnUpdate: _dt==0. clocks(msec)==128
+ OnRender: clocks(msec)==127
+ OnUpdate: _dt==0. clocks(msec)==1566
+ OnRender: clocks(msec)==1570
+ OnUpdate: _dt==0. clocks(msec)==131
+ OnRender: clocks(msec)==130
+ OnUpdate: _dt==16. clocks(msec)==1569
+ OnRender: clocks(msec)==1572
+ OnUpdate: _dt==0. clocks(msec)==134
+ OnRender: clocks(msec)==133
+ OnUpdate: _dt==0. clocks(msec)==1571
+ OnRender: clocks(msec)==1575
+ OnUpdate: _dt==0. clocks(msec)==137
+ OnRender: clocks(msec)==136
+ OnUpdate: _dt==0. clocks(msec)==1574
+ OnRender: clocks(msec)==1577
+ OnUpdate: _dt==0. clocks(msec)==140
+ OnRender: clocks(msec)==139
+ OnUpdate: _dt==15. clocks(msec)==1577
+ OnRender: clocks(msec)==1580
+ OnUpdate: _dt==0. clocks(msec)==142
+ OnRender: clocks(msec)==143
+ OnUpdate: _dt==0. clocks(msec)==1581
+ OnRender: clocks(msec)==1583
+ OnUpdate: _dt==0. clocks(msec)==145
+ OnRender: clocks(msec)==146
+ OnUpdate: _dt==0. clocks(msec)==1584
+ OnRender: clocks(msec)==1585
+ OnUpdate: _dt==16. clocks(msec)==148
+ OnRender: clocks(msec)==149
+ OnUpdate: _dt==0. clocks(msec)==1586
+ OnRender: clocks(msec)==1588
+ OnUpdate: _dt==0. clocks(msec)==151
+ OnRender: clocks(msec)==152
+ OnUpdate: _dt==0. clocks(msec)==1589
+ OnRender: clocks(msec)==1590
+ OnUpdate: _dt==0. clocks(msec)==154
+ OnRender: clocks(msec)==155
+ OnUpdate: _dt==0. clocks(msec)==1591
+ OnRender: clocks(msec)==1593
+ OnUpdate: _dt==16. clocks(msec)==157
+ OnRender: clocks(msec)==157
+ OnUpdate: _dt==0. clocks(msec)==1594
+ OnRender: clocks(msec)==1596
+ OnUpdate: _dt==0. clocks(msec)==159
+ OnRender: clocks(msec)==160
+ OnUpdate: _dt==0. clocks(msec)==1597
+ OnRender: clocks(msec)==1599
+ OnUpdate: _dt==0. clocks(msec)==163
+ OnRender: clocks(msec)==163
+ OnUpdate: _dt==0. clocks(msec)==1599
+ OnRender: clocks(msec)==1602
+ OnUpdate: _dt==15. clocks(msec)==166
+ OnRender: clocks(msec)==165
+ OnUpdate: _dt==0. clocks(msec)==1602
+ OnRender: clocks(msec)==1605
+ OnUpdate: _dt==0. clocks(msec)==169
+ OnRender: clocks(msec)==168
+ OnUpdate: _dt==0. clocks(msec)==1604
+ OnRender: clocks(msec)==1608
+ OnUpdate: _dt==0. clocks(msec)==172
+ OnRender: clocks(msec)==170
+ OnUpdate: _dt==16. clocks(msec)==1607
+ OnRender: clocks(msec)==1613
+ OnUpdate: _dt==0. clocks(msec)==176
+ OnRender: clocks(msec)==173
+ OnUpdate: _dt==0. clocks(msec)==1610
+ OnRender: clocks(msec)==1615
+ OnUpdate: _dt==0. clocks(msec)==179
+ OnRender: clocks(msec)==176
+ OnUpdate: _dt==0. clocks(msec)==1612
+ OnRender: clocks(msec)==1618
+ OnUpdate: _dt==15. clocks(msec)==182
+ OnRender: clocks(msec)==178
+ OnUpdate: _dt==0. clocks(msec)==1615
+ OnRender: clocks(msec)==1621
+ OnUpdate: _dt==0. clocks(msec)==184
+ OnRender: clocks(msec)==181
+ OnUpdate: _dt==0. clocks(msec)==1618
+ OnRender: clocks(msec)==1624
+ OnUpdate: _dt==0. clocks(msec)==187
+ OnRender: clocks(msec)==183
+ OnUpdate: _dt==0. clocks(msec)==1621
+ OnRender: clocks(msec)==1627
+ OnUpdate: _dt==16. clocks(msec)==189
+ OnRender: clocks(msec)==186
+ OnUpdate: _dt==0. clocks(msec)==1624
+ OnRender: clocks(msec)==1629
+ OnUpdate: _dt==0. clocks(msec)==192
+ OnRender: clocks(msec)==189
+ OnUpdate: _dt==0. clocks(msec)==1626
+ OnRender: clocks(msec)==1632
+ OnUpdate: _dt==0. clocks(msec)==195
+ OnRender: clocks(msec)==191
+ OnUpdate: _dt==0. clocks(msec)==1629
+ OnRender: clocks(msec)==1635
+ OnUpdate: _dt==16. clocks(msec)==197
+ OnRender: clocks(msec)==194
+ OnUpdate: _dt==0. clocks(msec)==1632
+ OnRender: clocks(msec)==1638
+ OnUpdate: _dt==0. clocks(msec)==200
+ OnRender: clocks(msec)==197
+ OnUpdate: _dt==0. clocks(msec)==1635
+ OnRender: clocks(msec)==1641
+ OnUpdate: _dt==0. clocks(msec)==203
+ OnRender: clocks(msec)==200
+ OnUpdate: _dt==15. clocks(msec)==1638
+ OnRender: clocks(msec)==1644
+ OnUpdate: _dt==0. clocks(msec)==206
+ OnRender: clocks(msec)==203
+ OnUpdate: _dt==0. clocks(msec)==1641
+ OnRender: clocks(msec)==1646
+ OnUpdate: _dt==0. clocks(msec)==209
+ OnRender: clocks(msec)==206
+ OnUpdate: _dt==0. clocks(msec)==1643
+ OnRender: clocks(msec)==1649
+ OnUpdate: _dt==0. clocks(msec)==212
+ OnRender: clocks(msec)==208
+ OnUpdate: _dt==16. clocks(msec)==1646
+ OnRender: clocks(msec)==1652
+ OnUpdate: _dt==0. clocks(msec)==215
+ OnRender: clocks(msec)==211
+ OnUpdate: _dt==0. clocks(msec)==1648
+ OnRender: clocks(msec)==1655
+ OnUpdate: _dt==0. clocks(msec)==218
+ OnRender: clocks(msec)==213
+ OnUpdate: _dt==0. clocks(msec)==1651
+ OnRender: clocks(msec)==1658
+ OnUpdate: _dt==0. clocks(msec)==220
+ OnRender: clocks(msec)==216
+ OnUpdate: _dt==15. clocks(msec)==1654
+ OnRender: clocks(msec)==1660
+ OnUpdate: _dt==0. clocks(msec)==223
+ OnRender: clocks(msec)==219
+ OnUpdate: _dt==0. clocks(msec)==1656
+ OnRender: clocks(msec)==1663
+ OnUpdate: _dt==0. clocks(msec)==226
+ OnRender: clocks(msec)==222
+ OnUpdate: _dt==0. clocks(msec)==1659
+ OnRender: clocks(msec)==1665
+ OnUpdate: _dt==16. clocks(msec)==228
+ OnRender: clocks(msec)==225
+ OnUpdate: _dt==0. clocks(msec)==1662
+ OnRender: clocks(msec)==1668
+ OnUpdate: _dt==0. clocks(msec)==231
+ OnRender: clocks(msec)==227
+ OnUpdate: _dt==0. clocks(msec)==1665
+ OnRender: clocks(msec)==1671
+ OnUpdate: _dt==0. clocks(msec)==233
+ OnRender: clocks(msec)==230
+ OnUpdate: _dt==0. clocks(msec)==1668
+ OnRender: clocks(msec)==1673
+ OnUpdate: _dt==16. clocks(msec)==236
+ OnRender: clocks(msec)==233
+ OnUpdate: _dt==0. clocks(msec)==1671
+ OnRender: clocks(msec)==1676
+ OnUpdate: _dt==0. clocks(msec)==238
+ OnRender: clocks(msec)==236
+ OnUpdate: _dt==0. clocks(msec)==1674
+ OnRender: clocks(msec)==1678
+ OnUpdate: _dt==0. clocks(msec)==241
+ OnRender: clocks(msec)==239
+ OnUpdate: _dt==0. clocks(msec)==1676
+ OnRender: clocks(msec)==1681
+ OnUpdate: _dt==15. clocks(msec)==244
+ OnRender: clocks(msec)==241
+ OnUpdate: _dt==0. clocks(msec)==1679
+ OnRender: clocks(msec)==1684
+ OnUpdate: _dt==0. clocks(msec)==247
+ OnRender: clocks(msec)==244
+ OnUpdate: _dt==0. clocks(msec)==1681
+ OnRender: clocks(msec)==1687
+ OnUpdate: _dt==0. clocks(msec)==250
+ OnRender: clocks(msec)==246
+ OnUpdate: _dt==16. clocks(msec)==1684
+ OnRender: clocks(msec)==1690
+ OnUpdate: _dt==0. clocks(msec)==252
+ OnRender: clocks(msec)==249
+ OnUpdate: _dt==0. clocks(msec)==1687
+ OnRender: clocks(msec)==1693
+ OnUpdate: _dt==0. clocks(msec)==255
+ OnRender: clocks(msec)==251
+ OnUpdate: _dt==0. clocks(msec)==1689
+ OnRender: clocks(msec)==1696
+ OnUpdate: _dt==0. clocks(msec)==258
+ OnRender: clocks(msec)==254
+ OnUpdate: _dt==15. clocks(msec)==1692
+ OnRender: clocks(msec)==1698
+ OnUpdate: _dt==0. clocks(msec)==261
+ OnRender: clocks(msec)==257
+ OnUpdate: _dt==0. clocks(msec)==1694
+ OnRender: clocks(msec)==1701
+ OnUpdate: _dt==0. clocks(msec)==264
+ OnRender: clocks(msec)==259
+ OnUpdate: _dt==0. clocks(msec)==1697
+ OnRender: clocks(msec)==1704
+ OnUpdate: _dt==0. clocks(msec)==266
+ OnRender: clocks(msec)==262
+ OnUpdate: _dt==16. clocks(msec)==1700
+ OnRender: clocks(msec)==1706
+ OnUpdate: _dt==0. clocks(msec)==269
+ OnRender: clocks(msec)==265
+ OnUpdate: _dt==0. clocks(msec)==1702
+ OnRender: clocks(msec)==1709
+ OnUpdate: _dt==0. clocks(msec)==272
+ OnRender: clocks(msec)==267
+ OnUpdate: _dt==0. clocks(msec)==1705
+ OnRender: clocks(msec)==1712
+ OnUpdate: _dt==0. clocks(msec)==274
+ OnRender: clocks(msec)==270
+ OnUpdate: _dt==16. clocks(msec)==1708
+ OnRender: clocks(msec)==1714
+ OnUpdate: _dt==0. clocks(msec)==277
+ OnRender: clocks(msec)==273
+ OnUpdate: _dt==0. clocks(msec)==1710
+ OnRender: clocks(msec)==1717
+ OnUpdate: _dt==0. clocks(msec)==280
+ OnRender: clocks(msec)==275
+ OnUpdate: _dt==0. clocks(msec)==1713
+ OnRender: clocks(msec)==1720
+ OnUpdate: _dt==0. clocks(msec)==282
+ OnRender: clocks(msec)==278
+ OnUpdate: _dt==15. clocks(msec)==1716
+ OnRender: clocks(msec)==1722
+ OnUpdate: _dt==0. clocks(msec)==285
+ OnRender: clocks(msec)==281
+ OnUpdate: _dt==0. clocks(msec)==1718
+ OnRender: clocks(msec)==1725
+ OnUpdate: _dt==0. clocks(msec)==288
+ OnRender: clocks(msec)==283
+ OnUpdate: _dt==0. clocks(msec)==1721
+ OnRender: clocks(msec)==1728
+ OnUpdate: _dt==0. clocks(msec)==290
+ OnRender: clocks(msec)==286
+ OnUpdate: _dt==16. clocks(msec)==1724
+ OnRender: clocks(msec)==1730
+ OnUpdate: _dt==0. clocks(msec)==293
+ OnRender: clocks(msec)==289
+ OnUpdate: _dt==0. clocks(msec)==1726
+ OnRender: clocks(msec)==1733
+ OnUpdate: _dt==0. clocks(msec)==296
+ OnRender: clocks(msec)==291
+ OnUpdate: _dt==0. clocks(msec)==1729
+ OnRender: clocks(msec)==1736
+ OnUpdate: _dt==0. clocks(msec)==298
+ OnRender: clocks(msec)==294
+ OnUpdate: _dt==15. clocks(msec)==1732
+ OnRender: clocks(msec)==1738
+ OnUpdate: _dt==0. clocks(msec)==301
+ OnRender: clocks(msec)==297
+ OnUpdate: _dt==0. clocks(msec)==1734
+ OnRender: clocks(msec)==1741
+ OnUpdate: _dt==0. clocks(msec)==304
+ OnRender: clocks(msec)==299
+ OnUpdate: _dt==0. clocks(msec)==1736
+ OnRender: clocks(msec)==1744
+ OnUpdate: _dt==16. clocks(msec)==307
+ OnRender: clocks(msec)==302
+ OnUpdate: _dt==0. clocks(msec)==1739
+ OnRender: clocks(msec)==1746
+ OnUpdate: _dt==0. clocks(msec)==309
+ OnRender: clocks(msec)==305
+ OnUpdate: _dt==0. clocks(msec)==1742
+ OnRender: clocks(msec)==1748
+ OnUpdate: _dt==0. clocks(msec)==312
+ OnRender: clocks(msec)==308
+ OnUpdate: _dt==0. clocks(msec)==1744
+ OnRender: clocks(msec)==1751
+ OnUpdate: _dt==16. clocks(msec)==315
+ OnRender: clocks(msec)==310
+ OnUpdate: _dt==0. clocks(msec)==1747
+ OnRender: clocks(msec)==1754
+ OnUpdate: _dt==0. clocks(msec)==317
+ OnRender: clocks(msec)==313
+ OnUpdate: _dt==0. clocks(msec)==1750
+ OnRender: clocks(msec)==1756
+ OnUpdate: _dt==0. clocks(msec)==320
+ OnRender: clocks(msec)==316
+ OnUpdate: _dt==0. clocks(msec)==1752
+ OnRender: clocks(msec)==1759
+ OnUpdate: _dt==15. clocks(msec)==323
+ OnRender: clocks(msec)==318
+ OnUpdate: _dt==0. clocks(msec)==1755
+ OnRender: clocks(msec)==1762
+ OnUpdate: _dt==0. clocks(msec)==325
+ OnRender: clocks(msec)==321
+ OnUpdate: _dt==0. clocks(msec)==1758
+ OnRender: clocks(msec)==1764
+ OnUpdate: _dt==0. clocks(msec)==327
+ OnRender: clocks(msec)==324
+ OnUpdate: _dt==0. clocks(msec)==1761
+ OnRender: clocks(msec)==1766
+ OnUpdate: _dt==16. clocks(msec)==330
+ OnRender: clocks(msec)==327
+ OnUpdate: _dt==0. clocks(msec)==1763
+ OnRender: clocks(msec)==1769
+ OnUpdate: _dt==0. clocks(msec)==333
+ OnRender: clocks(msec)==330
+ OnUpdate: _dt==0. clocks(msec)==1766
+ OnRender: clocks(msec)==1771
+ OnUpdate: _dt==0. clocks(msec)==336
+ OnRender: clocks(msec)==333
+ OnUpdate: _dt==0. clocks(msec)==1768
+ OnRender: clocks(msec)==1774
+ OnUpdate: _dt==15. clocks(msec)==339
+ OnRender: clocks(msec)==335
+ OnUpdate: _dt==0. clocks(msec)==1771
+ OnRender: clocks(msec)==1777
+ OnUpdate: _dt==0. clocks(msec)==341
+ OnRender: clocks(msec)==338
+ OnUpdate: _dt==0. clocks(msec)==1774
+ OnRender: clocks(msec)==1779
+ OnUpdate: _dt==0. clocks(msec)==344
+ OnRender: clocks(msec)==341
+ OnUpdate: _dt==0. clocks(msec)==1776
+ OnRender: clocks(msec)==1782
+ OnUpdate: _dt==16. clocks(msec)==347
+ OnRender: clocks(msec)==343
+ OnUpdate: _dt==0. clocks(msec)==1779
+ OnRender: clocks(msec)==1785
+ OnUpdate: _dt==0. clocks(msec)==349
+ OnRender: clocks(msec)==346
+ OnUpdate: _dt==0. clocks(msec)==1782
+ OnRender: clocks(msec)==1787
+ OnUpdate: _dt==0. clocks(msec)==352
+ OnRender: clocks(msec)==350
+ OnUpdate: _dt==16. clocks(msec)==1785
+ OnRender: clocks(msec)==1790
+ OnUpdate: _dt==0. clocks(msec)==355
+ OnRender: clocks(msec)==353
+ OnUpdate: _dt==0. clocks(msec)==1788
+ OnRender: clocks(msec)==1793
+ OnUpdate: _dt==0. clocks(msec)==358
+ OnRender: clocks(msec)==356
+ OnUpdate: _dt==0. clocks(msec)==1791
+ OnRender: clocks(msec)==1796
+ OnUpdate: _dt==0. clocks(msec)==361
+ OnRender: clocks(msec)==358
+ OnUpdate: _dt==15. clocks(msec)==1794
+ OnRender: clocks(msec)==1799
+ OnUpdate: _dt==0. clocks(msec)==363
+ OnRender: clocks(msec)==361
+ OnUpdate: _dt==0. clocks(msec)==1797
+ OnRender: clocks(msec)==1802
+ OnUpdate: _dt==0. clocks(msec)==366
+ OnRender: clocks(msec)==363
+ OnUpdate: _dt==0. clocks(msec)==1800
+ OnRender: clocks(msec)==1805
+ OnUpdate: _dt==16. clocks(msec)==368
+ OnRender: clocks(msec)==366
+ OnUpdate: _dt==0. clocks(msec)==1803
+ OnRender: clocks(msec)==1808
+ OnUpdate: _dt==0. clocks(msec)==371
+ OnRender: clocks(msec)==368
+ OnUpdate: _dt==0. clocks(msec)==1806
+ OnRender: clocks(msec)==1811
+ OnUpdate: _dt==0. clocks(msec)==373
+ OnRender: clocks(msec)==371
+ OnUpdate: _dt==0. clocks(msec)==1809
+ OnRender: clocks(msec)==1814
+ OnUpdate: _dt==15. clocks(msec)==376
+ OnRender: clocks(msec)==373
+ OnUpdate: _dt==0. clocks(msec)==1812
+ OnRender: clocks(msec)==1817
+ OnUpdate: _dt==0. clocks(msec)==378
+ OnRender: clocks(msec)==376
+ OnUpdate: _dt==0. clocks(msec)==1815
+ OnRender: clocks(msec)==1820
+ OnUpdate: _dt==0. clocks(msec)==381
+ OnRender: clocks(msec)==378
+ OnUpdate: _dt==0. clocks(msec)==1818
+ OnRender: clocks(msec)==1823
+ OnUpdate: _dt==0. clocks(msec)==383
+ OnRender: clocks(msec)==381
+ OnUpdate: _dt==0. clocks(msec)==1821
+ OnRender: clocks(msec)==1825
+ OnUpdate: _dt==0. clocks(msec)==386
+ OnRender: clocks(msec)==384
+ OnUpdate: _dt==0. clocks(msec)==1823
+ OnRender: clocks(msec)==1828
+ OnUpdate: _dt==0. clocks(msec)==389
+ OnRender: clocks(msec)==387
+ OnUpdate: _dt==16. clocks(msec)==1826
+ OnRender: clocks(msec)==1830
+ OnUpdate: _dt==0. clocks(msec)==392
+ OnRender: clocks(msec)==390
+ OnUpdate: _dt==0. clocks(msec)==1828
+ OnRender: clocks(msec)==1833
+ OnUpdate: _dt==0. clocks(msec)==395
+ OnRender: clocks(msec)==392
+ OnUpdate: _dt==0. clocks(msec)==1831
+ OnRender: clocks(msec)==1836
+ OnUpdate: _dt==0. clocks(msec)==397
+ OnRender: clocks(msec)==395
+ OnUpdate: _dt==15. clocks(msec)==1834
+ OnRender: clocks(msec)==1838
+ OnUpdate: _dt==0. clocks(msec)==400
+ OnRender: clocks(msec)==398
+ OnUpdate: _dt==0. clocks(msec)==1837
+ OnRender: clocks(msec)==1841
+ OnUpdate: _dt==0. clocks(msec)==403
+ OnRender: clocks(msec)==402
+ OnUpdate: _dt==0. clocks(msec)==1840
+ OnRender: clocks(msec)==1844
+ OnUpdate: _dt==16. clocks(msec)==406
+ OnRender: clocks(msec)==405
+ OnUpdate: _dt==0. clocks(msec)==1843
+ OnRender: clocks(msec)==1847
+ OnUpdate: _dt==0. clocks(msec)==409
+ OnRender: clocks(msec)==408
+ OnUpdate: _dt==0. clocks(msec)==1847
+ OnRender: clocks(msec)==1851
+ OnUpdate: _dt==0. clocks(msec)==412
+ OnRender: clocks(msec)==411
+ OnUpdate: _dt==15. clocks(msec)==1851
+ OnRender: clocks(msec)==1854
+ OnUpdate: _dt==0. clocks(msec)==415
+ OnRender: clocks(msec)==415
+ OnUpdate: _dt==0. clocks(msec)==1855
+ OnRender: clocks(msec)==1857
+ OnUpdate: _dt==0. clocks(msec)==418
+ OnRender: clocks(msec)==418
+ OnUpdate: _dt==0. clocks(msec)==1858
+ OnRender: clocks(msec)==1860
+ OnUpdate: _dt==16. clocks(msec)==421
+ OnRender: clocks(msec)==421
+ OnUpdate: _dt==0. clocks(msec)==1861
+ OnRender: clocks(msec)==1864
+ OnUpdate: _dt==0. clocks(msec)==424
+ OnRender: clocks(msec)==424
+ OnUpdate: _dt==0. clocks(msec)==1864
+ OnRender: clocks(msec)==1867
+ OnUpdate: _dt==0. clocks(msec)==428
+ OnRender: clocks(msec)==427
+ OnUpdate: _dt==16. clocks(msec)==1867
+ OnRender: clocks(msec)==1871
+ OnUpdate: _dt==0. clocks(msec)==431
+ OnRender: clocks(msec)==430
+ OnUpdate: _dt==0. clocks(msec)==1871
+ OnRender: clocks(msec)==1876
+ OnUpdate: _dt==0. clocks(msec)==435
+ OnRender: clocks(msec)==433
+ OnUpdate: _dt==15. clocks(msec)==1875
+ OnRender: clocks(msec)==1879
+ OnUpdate: _dt==0. clocks(msec)==438
+ OnRender: clocks(msec)==436
+ OnUpdate: _dt==0. clocks(msec)==1877
+ OnRender: clocks(msec)==1883
+ OnUpdate: _dt==0. clocks(msec)==443
+ OnRender: clocks(msec)==441
+ OnUpdate: _dt==16. clocks(msec)==1881
+ OnRender: clocks(msec)==1886
+ OnUpdate: _dt==0. clocks(msec)==446
+ OnRender: clocks(msec)==444
+ OnUpdate: _dt==0. clocks(msec)==1884
+ OnRender: clocks(msec)==1889
+ OnUpdate: _dt==0. clocks(msec)==449
+ OnRender: clocks(msec)==446
+ OnUpdate: _dt==0. clocks(msec)==1887
+ OnRender: clocks(msec)==1892
+ OnUpdate: _dt==0. clocks(msec)==451
+ OnRender: clocks(msec)==449
+ OnUpdate: _dt==15. clocks(msec)==1890
+ OnRender: clocks(msec)==1894
+ OnUpdate: _dt==0. clocks(msec)==454
+ OnRender: clocks(msec)==452
+ OnUpdate: _dt==0. clocks(msec)==1892
+ OnRender: clocks(msec)==1897
+ OnUpdate: _dt==0. clocks(msec)==457
+ OnRender: clocks(msec)==454
+ OnUpdate: _dt==0. clocks(msec)==1895
+ OnRender: clocks(msec)==1900
+ OnUpdate: _dt==0. clocks(msec)==459
+ OnRender: clocks(msec)==457
+ OnUpdate: _dt==16. clocks(msec)==1898
+ OnRender: clocks(msec)==1902
+ OnUpdate: _dt==0. clocks(msec)==462
+ OnRender: clocks(msec)==460
+ OnUpdate: _dt==0. clocks(msec)==1900
+ OnRender: clocks(msec)==1905
+ OnUpdate: _dt==0. clocks(msec)==465
+ OnRender: clocks(msec)==462
+ OnUpdate: _dt==0. clocks(msec)==1903
+ OnRender: clocks(msec)==1908
+ OnUpdate: _dt==0. clocks(msec)==467
+ OnRender: clocks(msec)==465
+ OnUpdate: _dt==16. clocks(msec)==1906
+ OnRender: clocks(msec)==1911
+ OnUpdate: _dt==0. clocks(msec)==470
+ OnRender: clocks(msec)==467
+ OnUpdate: _dt==0. clocks(msec)==1909
+ OnRender: clocks(msec)==1914
+ OnUpdate: _dt==0. clocks(msec)==473
+ OnRender: clocks(msec)==470
+ OnUpdate: _dt==0. clocks(msec)==1912
+ OnRender: clocks(msec)==1918
+ OnUpdate: _dt==15. clocks(msec)==476
+ OnRender: clocks(msec)==474
+ OnUpdate: _dt==0. clocks(msec)==1917
+ OnRender: clocks(msec)==1922
+ OnUpdate: _dt==0. clocks(msec)==479
+ OnRender: clocks(msec)==476
+ OnUpdate: _dt==0. clocks(msec)==1920
+ OnRender: clocks(msec)==1925
+ OnUpdate: _dt==0. clocks(msec)==481
+ OnRender: clocks(msec)==479
+ OnUpdate: _dt==16. clocks(msec)==1923
+ OnRender: clocks(msec)==1928
+ OnUpdate: _dt==0. clocks(msec)==485
+ OnRender: clocks(msec)==482
+ OnUpdate: _dt==0. clocks(msec)==1925
+ OnRender: clocks(msec)==1931
+ OnUpdate: _dt==0. clocks(msec)==488
+ OnRender: clocks(msec)==484
+ OnUpdate: _dt==0. clocks(msec)==1928
+ OnRender: clocks(msec)==1934
+ OnUpdate: _dt==15. clocks(msec)==490
+ OnRender: clocks(msec)==487
+ OnUpdate: _dt==0. clocks(msec)==1931
+ OnRender: clocks(msec)==1936
+ OnUpdate: _dt==0. clocks(msec)==493
+ OnRender: clocks(msec)==490
+ OnUpdate: _dt==0. clocks(msec)==1934
+ OnRender: clocks(msec)==1939
+ OnUpdate: _dt==0. clocks(msec)==495
+ OnRender: clocks(msec)==493
+ OnUpdate: _dt==0. clocks(msec)==1937
+ OnRender: clocks(msec)==1941
+ OnUpdate: _dt==16. clocks(msec)==498
+ OnRender: clocks(msec)==496
+ OnUpdate: _dt==0. clocks(msec)==1939
+ OnRender: clocks(msec)==1944
+ OnUpdate: _dt==0. clocks(msec)==501
+ OnRender: clocks(msec)==499
+ OnUpdate: _dt==0. clocks(msec)==1942
+ OnRender: clocks(msec)==1946
+ OnUpdate: _dt==0. clocks(msec)==503
+ OnRender: clocks(msec)==502
+ OnUpdate: _dt==0. clocks(msec)==1945
+ OnRender: clocks(msec)==1949
+ OnUpdate: _dt==16. clocks(msec)==506
+ OnRender: clocks(msec)==504
+ OnUpdate: _dt==0. clocks(msec)==1948
+ OnRender: clocks(msec)==1952
+ OnUpdate: _dt==0. clocks(msec)==508
+ OnRender: clocks(msec)==507
+ OnUpdate: _dt==0. clocks(msec)==1951
+ OnRender: clocks(msec)==1954
+ OnUpdate: _dt==0. clocks(msec)==511
+ OnRender: clocks(msec)==510
+ OnUpdate: _dt==0. clocks(msec)==1953
+ OnRender: clocks(msec)==1957
+ OnUpdate: _dt==15. clocks(msec)==514
+ OnRender: clocks(msec)==512
+ OnUpdate: _dt==0. clocks(msec)==1956
+ OnRender: clocks(msec)==1960
+ OnUpdate: _dt==0. clocks(msec)==517
+ OnRender: clocks(msec)==515
+ OnUpdate: _dt==0. clocks(msec)==1958
+ OnRender: clocks(msec)==1963
+ OnUpdate: _dt==0. clocks(msec)==520
+ OnRender: clocks(msec)==517
+ OnUpdate: _dt==16. clocks(msec)==1961
+ OnRender: clocks(msec)==1966
+ OnUpdate: _dt==0. clocks(msec)==522
+ OnRender: clocks(msec)==520
+ OnUpdate: _dt==0. clocks(msec)==1964
+ OnRender: clocks(msec)==1968
+ OnUpdate: _dt==0. clocks(msec)==525
+ OnRender: clocks(msec)==523
+ OnUpdate: _dt==0. clocks(msec)==1966
+ OnRender: clocks(msec)==1971
+ OnUpdate: _dt==0. clocks(msec)==528
+ OnRender: clocks(msec)==525
+ OnUpdate: _dt==15. clocks(msec)==1969
+ OnRender: clocks(msec)==1974
+ OnUpdate: _dt==0. clocks(msec)==530
+ OnRender: clocks(msec)==528
+ OnUpdate: _dt==0. clocks(msec)==1972
+ OnRender: clocks(msec)==1976
+ OnUpdate: _dt==0. clocks(msec)==533
+ OnRender: clocks(msec)==531
+ OnUpdate: _dt==0. clocks(msec)==1974
+ OnRender: clocks(msec)==1979
+ OnUpdate: _dt==0. clocks(msec)==536
+ OnRender: clocks(msec)==533
+ OnUpdate: _dt==16. clocks(msec)==1977
+ OnRender: clocks(msec)==1982
+ OnUpdate: _dt==0. clocks(msec)==539
+ OnRender: clocks(msec)==536
+ OnUpdate: _dt==0. clocks(msec)==1979
+ OnRender: clocks(msec)==1985
+ OnUpdate: _dt==0. clocks(msec)==542
+ OnRender: clocks(msec)==538
+ OnUpdate: _dt==0. clocks(msec)==1982
+ OnRender: clocks(msec)==1988
+ OnUpdate: _dt==0. clocks(msec)==544
+ OnRender: clocks(msec)==541
+ OnUpdate: _dt==16. clocks(msec)==1985
+ OnRender: clocks(msec)==1990
+ OnUpdate: _dt==0. clocks(msec)==547
+ OnRender: clocks(msec)==544
+ OnUpdate: _dt==0. clocks(msec)==1987
+ OnRender: clocks(msec)==1993
+ OnUpdate: _dt==0. clocks(msec)==550
+ OnRender: clocks(msec)==546
+ OnUpdate: _dt==0. clocks(msec)==1990
+ OnRender: clocks(msec)==1996
+ OnUpdate: _dt==0. clocks(msec)==552
+ OnRender: clocks(msec)==549
+ OnUpdate: _dt==15. clocks(msec)==1993
+ OnRender: clocks(msec)==1998
+ OnUpdate: _dt==0. clocks(msec)==555
+ OnRender: clocks(msec)==552
+ OnUpdate: _dt==0. clocks(msec)==1995
+ OnRender: clocks(msec)==2001
+ OnUpdate: _dt==0. clocks(msec)==558
+ OnRender: clocks(msec)==554
+ OnUpdate: _dt==0. clocks(msec)==1997
+ OnRender: clocks(msec)==2004
+ OnUpdate: _dt==16. clocks(msec)==561
+ OnRender: clocks(msec)==557
+ OnUpdate: _dt==0. clocks(msec)==2000
+ OnRender: clocks(msec)==2006
+ OnUpdate: _dt==0. clocks(msec)==563
+ OnRender: clocks(msec)==560
+ OnUpdate: _dt==0. clocks(msec)==2003
+ OnRender: clocks(msec)==2008
+ OnUpdate: _dt==0. clocks(msec)==566
+ OnRender: clocks(msec)==563
+ OnUpdate: _dt==0. clocks(msec)==2005
+ OnRender: clocks(msec)==2011
+ OnUpdate: _dt==15. clocks(msec)==569
+ OnRender: clocks(msec)==565
+ OnUpdate: _dt==0. clocks(msec)==2008
+ OnRender: clocks(msec)==2014
+ OnUpdate: _dt==0. clocks(msec)==571
+ OnRender: clocks(msec)==568
+ OnUpdate: _dt==0. clocks(msec)==2011
+ OnRender: clocks(msec)==2017
+ OnUpdate: _dt==0. clocks(msec)==574
+ OnRender: clocks(msec)==570
+ OnUpdate: _dt==0. clocks(msec)==2013
+ OnRender: clocks(msec)==2020
+ OnUpdate: _dt==16. clocks(msec)==577
+ OnRender: clocks(msec)==573
+ OnUpdate: _dt==0. clocks(msec)==2016
+ OnRender: clocks(msec)==2022
+ OnUpdate: _dt==0. clocks(msec)==579
+ OnRender: clocks(msec)==576
+ OnUpdate: _dt==0. clocks(msec)==2019
+ OnRender: clocks(msec)==2024
+ OnUpdate: _dt==0. clocks(msec)==582
+ OnRender: clocks(msec)==579
+ OnUpdate: _dt==0. clocks(msec)==2021
+ OnRender: clocks(msec)==2027
+ OnUpdate: _dt==16. clocks(msec)==585
+ OnRender: clocks(msec)==582
+ OnUpdate: _dt==0. clocks(msec)==2024
+ OnRender: clocks(msec)==2030
+ OnUpdate: _dt==0. clocks(msec)==588
+ OnRender: clocks(msec)==585
+ OnUpdate: _dt==0. clocks(msec)==2027
+ OnRender: clocks(msec)==2033
+ OnUpdate: _dt==0. clocks(msec)==591
+ OnRender: clocks(msec)==587
+ OnUpdate: _dt==15. clocks(msec)==2030
+ OnRender: clocks(msec)==2036
+ OnUpdate: _dt==0. clocks(msec)==593
+ OnRender: clocks(msec)==590
+ OnUpdate: _dt==0. clocks(msec)==2033
+ OnRender: clocks(msec)==2038
+ OnUpdate: _dt==0. clocks(msec)==596
+ OnRender: clocks(msec)==593
+ OnUpdate: _dt==0. clocks(msec)==2035
+ OnRender: clocks(msec)==2041
+ OnUpdate: _dt==0. clocks(msec)==599
+ OnRender: clocks(msec)==595
+ OnUpdate: _dt==16. clocks(msec)==2038
+ OnRender: clocks(msec)==2044
+ OnUpdate: _dt==0. clocks(msec)==601
+ OnRender: clocks(msec)==598
+ OnUpdate: _dt==0. clocks(msec)==2041
+ OnRender: clocks(msec)==2046
+ OnUpdate: _dt==0. clocks(msec)==604
+ OnRender: clocks(msec)==601
+ OnUpdate: _dt==0. clocks(msec)==2043
+ OnRender: clocks(msec)==2049
+ OnUpdate: _dt==0. clocks(msec)==607
+ OnRender: clocks(msec)==603
+ OnUpdate: _dt==15. clocks(msec)==2045
+ OnRender: clocks(msec)==2052
+ OnUpdate: _dt==0. clocks(msec)==610
+ OnRender: clocks(msec)==605
+ OnUpdate: _dt==0. clocks(msec)==2048
+ OnRender: clocks(msec)==2055
+ OnUpdate: _dt==0. clocks(msec)==612
+ OnRender: clocks(msec)==608
+ OnUpdate: _dt==0. clocks(msec)==2051
+ OnRender: clocks(msec)==2057
+ OnUpdate: _dt==0. clocks(msec)==615
+ OnRender: clocks(msec)==611
+ OnUpdate: _dt==16. clocks(msec)==2053
+ OnRender: clocks(msec)==2060
+ OnUpdate: _dt==0. clocks(msec)==618
+ OnRender: clocks(msec)==613
+ OnUpdate: _dt==0. clocks(msec)==2056
+ OnRender: clocks(msec)==2063
+ OnUpdate: _dt==0. clocks(msec)==620
+ OnRender: clocks(msec)==616
+ OnUpdate: _dt==0. clocks(msec)==2059
+ OnRender: clocks(msec)==2065
+ OnUpdate: _dt==0. clocks(msec)==622
+ OnRender: clocks(msec)==619
+ OnUpdate: _dt==16. clocks(msec)==2062
+ OnRender: clocks(msec)==2068
+ OnUpdate: _dt==0. clocks(msec)==625
+ OnRender: clocks(msec)==621
+ OnUpdate: _dt==0. clocks(msec)==2065
+ OnRender: clocks(msec)==2071
+ OnUpdate: _dt==0. clocks(msec)==627
+ OnRender: clocks(msec)==624
+ OnUpdate: _dt==0. clocks(msec)==2068
+ OnRender: clocks(msec)==2073
+ OnUpdate: _dt==0. clocks(msec)==629
+ OnRender: clocks(msec)==627
+ OnUpdate: _dt==15. clocks(msec)==2071
+ OnRender: clocks(msec)==2075
+ OnUpdate: _dt==0. clocks(msec)==632
+ OnRender: clocks(msec)==630
+ OnUpdate: _dt==0. clocks(msec)==2073
+ OnRender: clocks(msec)==2078
+ OnUpdate: _dt==0. clocks(msec)==635
+ OnRender: clocks(msec)==632
+ OnUpdate: _dt==0. clocks(msec)==2076
+ OnRender: clocks(msec)==2081
+ OnUpdate: _dt==0. clocks(msec)==637
+ OnRender: clocks(msec)==635
+ OnUpdate: _dt==16. clocks(msec)==2079
+ OnRender: clocks(msec)==2083
+ OnUpdate: _dt==0. clocks(msec)==640
+ OnRender: clocks(msec)==638
+ OnUpdate: _dt==0. clocks(msec)==2081
+ OnRender: clocks(msec)==2085
+ OnUpdate: _dt==0. clocks(msec)==643
+ OnRender: clocks(msec)==641
+ OnUpdate: _dt==0. clocks(msec)==2083
+ OnRender: clocks(msec)==2088
+ OnUpdate: _dt==0. clocks(msec)==646
+ OnRender: clocks(msec)==643
+ OnUpdate: _dt==15. clocks(msec)==2086
+ OnRender: clocks(msec)==2091
+ OnUpdate: _dt==0. clocks(msec)==648
+ OnRender: clocks(msec)==646
+ OnUpdate: _dt==0. clocks(msec)==2089
+ OnRender: clocks(msec)==2093
+ OnUpdate: _dt==0. clocks(msec)==650
+ OnRender: clocks(msec)==649
+ OnUpdate: _dt==0. clocks(msec)==2092
+ OnRender: clocks(msec)==2095
+ OnUpdate: _dt==0. clocks(msec)==653
+ OnRender: clocks(msec)==652
+ OnUpdate: _dt==0. clocks(msec)==2094
+ OnRender: clocks(msec)==2097
+ OnUpdate: _dt==0. clocks(msec)==656
+ OnRender: clocks(msec)==655
+ OnUpdate: _dt==0. clocks(msec)==2096
+ OnRender: clocks(msec)==2099
+ OnUpdate: _dt==0. clocks(msec)==659
+ OnRender: clocks(msec)==658
+ OnUpdate: _dt==0. clocks(msec)==2098
+ OnRender: clocks(msec)==2101
+ OnUpdate: _dt==0. clocks(msec)==662
+ OnRender: clocks(msec)==661
+ OnUpdate: _dt==16. clocks(msec)==2100
+ OnRender: clocks(msec)==2104
+ OnUpdate: _dt==0. clocks(msec)==665
+ OnRender: clocks(msec)==663
+ OnUpdate: _dt==0. clocks(msec)==2102
+ OnRender: clocks(msec)==2107
+ OnUpdate: _dt==0. clocks(msec)==668
+ OnRender: clocks(msec)==665
+ OnUpdate: _dt==0. clocks(msec)==2105
+ OnRender: clocks(msec)==2110
+ OnUpdate: _dt==0. clocks(msec)==670
+ OnRender: clocks(msec)==667
+ OnUpdate: _dt==15. clocks(msec)==2108
+ OnRender: clocks(msec)==2113
+ OnUpdate: _dt==0. clocks(msec)==672
+ OnRender: clocks(msec)==669
+ OnUpdate: _dt==0. clocks(msec)==2111
+ OnRender: clocks(msec)==2116
+ OnUpdate: _dt==0. clocks(msec)==675
+ OnRender: clocks(msec)==672
+ OnUpdate: _dt==0. clocks(msec)==2113
+ OnRender: clocks(msec)==2119
+ OnUpdate: _dt==16. clocks(msec)==679
+ OnRender: clocks(msec)==675
+ OnUpdate: _dt==0. clocks(msec)==2116
+ OnRender: clocks(msec)==2122
+ OnUpdate: _dt==0. clocks(msec)==682
+ OnRender: clocks(msec)==678
+ OnUpdate: _dt==0. clocks(msec)==2118
+ OnRender: clocks(msec)==2125
+ OnUpdate: _dt==0. clocks(msec)==685
+ OnRender: clocks(msec)==680
+ OnUpdate: _dt==0. clocks(msec)==2120
+ OnRender: clocks(msec)==2128
+ OnUpdate: _dt==15. clocks(msec)==688
+ OnRender: clocks(msec)==682
+ OnUpdate: _dt==0. clocks(msec)==2123
+ OnRender: clocks(msec)==2131
+ OnUpdate: _dt==0. clocks(msec)==690
+ OnRender: clocks(msec)==684
+ OnUpdate: _dt==0. clocks(msec)==2126
+ OnRender: clocks(msec)==2134
+ OnUpdate: _dt==0. clocks(msec)==692
+ OnRender: clocks(msec)==686
+ OnUpdate: _dt==0. clocks(msec)==2129
+ OnRender: clocks(msec)==2137
+ OnUpdate: _dt==16. clocks(msec)==695
+ OnRender: clocks(msec)==689
+ OnUpdate: _dt==0. clocks(msec)==2131
+ OnRender: clocks(msec)==2140
+ OnUpdate: _dt==0. clocks(msec)==698
+ OnRender: clocks(msec)==691
+ OnUpdate: _dt==0. clocks(msec)==2134
+ OnRender: clocks(msec)==2143
+ OnUpdate: _dt==0. clocks(msec)==701
+ OnRender: clocks(msec)==694
+ OnUpdate: _dt==0. clocks(msec)==2137
+ OnRender: clocks(msec)==2146
+ OnUpdate: _dt==16. clocks(msec)==703
+ OnRender: clocks(msec)==696
+ OnUpdate: _dt==0. clocks(msec)==2140
+ OnRender: clocks(msec)==2149
+ OnUpdate: _dt==0. clocks(msec)==705
+ OnRender: clocks(msec)==698
+ OnUpdate: _dt==0. clocks(msec)==2143
+ OnRender: clocks(msec)==2152
+ OnUpdate: _dt==0. clocks(msec)==707
+ OnRender: clocks(msec)==700
+ OnUpdate: _dt==0. clocks(msec)==2146
+ OnRender: clocks(msec)==2155
+ OnUpdate: _dt==15. clocks(msec)==709
+ OnRender: clocks(msec)==702
+ OnUpdate: _dt==0. clocks(msec)==2149
+ OnRender: clocks(msec)==2158
+ OnUpdate: _dt==0. clocks(msec)==711
+ OnRender: clocks(msec)==704
+ OnUpdate: _dt==0. clocks(msec)==2152
+ OnRender: clocks(msec)==2161
+ OnUpdate: _dt==0. clocks(msec)==713
+ OnRender: clocks(msec)==706
+ OnUpdate: _dt==0. clocks(msec)==2155
+ OnRender: clocks(msec)==2164
+ OnUpdate: _dt==16. clocks(msec)==715
+ OnRender: clocks(msec)==708
+ OnUpdate: _dt==0. clocks(msec)==2158
+ OnRender: clocks(msec)==2167
+ OnUpdate: _dt==0. clocks(msec)==717
+ OnRender: clocks(msec)==710
+ OnUpdate: _dt==0. clocks(msec)==2161
+ OnRender: clocks(msec)==2170
+ OnUpdate: _dt==0. clocks(msec)==719
+ OnRender: clocks(msec)==712
+ OnUpdate: _dt==0. clocks(msec)==2164
+ OnRender: clocks(msec)==2173
+ OnUpdate: _dt==0. clocks(msec)==721
+ OnRender: clocks(msec)==714
+ OnUpdate: _dt==15. clocks(msec)==2167
+ OnRender: clocks(msec)==2176
+ OnUpdate: _dt==0. clocks(msec)==723
+ OnRender: clocks(msec)==716
+ OnUpdate: _dt==0. clocks(msec)==2170
+ OnRender: clocks(msec)==2179
+ OnUpdate: _dt==0. clocks(msec)==725
+ OnRender: clocks(msec)==718
+ OnUpdate: _dt==0. clocks(msec)==2173
+ OnRender: clocks(msec)==2182
+ OnUpdate: _dt==0. clocks(msec)==727
+ OnRender: clocks(msec)==720
+ OnUpdate: _dt==16. clocks(msec)==2176
+ OnRender: clocks(msec)==2185
+ OnUpdate: _dt==0. clocks(msec)==729
+ OnRender: clocks(msec)==722
+ OnUpdate: _dt==0. clocks(msec)==2179
+ OnRender: clocks(msec)==2188
+ OnUpdate: _dt==0. clocks(msec)==731
+ OnRender: clocks(msec)==724
+ OnUpdate: _dt==0. clocks(msec)==2182
+ OnRender: clocks(msec)==2191
+ OnUpdate: _dt==0. clocks(msec)==733
+ OnRender: clocks(msec)==726
+ OnUpdate: _dt==16. clocks(msec)==2185
+ OnRender: clocks(msec)==2194
+ OnUpdate: _dt==0. clocks(msec)==735
+ OnRender: clocks(msec)==728
+ OnUpdate: _dt==0. clocks(msec)==2188
+ OnRender: clocks(msec)==2197
+ OnUpdate: _dt==0. clocks(msec)==737
+ OnRender: clocks(msec)==730
+ OnUpdate: _dt==0. clocks(msec)==2191
+ OnRender: clocks(msec)==2200
+ OnUpdate: _dt==0. clocks(msec)==739
+ OnRender: clocks(msec)==732
+ OnUpdate: _dt==15. clocks(msec)==2194
+ OnRender: clocks(msec)==2203
+ OnUpdate: _dt==0. clocks(msec)==741
+ OnRender: clocks(msec)==735
+ OnUpdate: _dt==0. clocks(msec)==2197
+ OnRender: clocks(msec)==2205
+ OnUpdate: _dt==0. clocks(msec)==743
+ OnRender: clocks(msec)==738
+ OnUpdate: _dt==0. clocks(msec)==2200
+ OnRender: clocks(msec)==2207
+ OnUpdate: _dt==0. clocks(msec)==746
+ OnRender: clocks(msec)==741
+ OnUpdate: _dt==16. clocks(msec)==2202
+ OnRender: clocks(msec)==2209
+ OnUpdate: _dt==0. clocks(msec)==749
+ OnRender: clocks(msec)==744
+ OnUpdate: _dt==0. clocks(msec)==2204
+ OnRender: clocks(msec)==2211
+ OnUpdate: _dt==0. clocks(msec)==752
+ OnRender: clocks(msec)==747
+ OnUpdate: _dt==0. clocks(msec)==2206
+ OnRender: clocks(msec)==2214
+ OnUpdate: _dt==0. clocks(msec)==755
+ OnRender: clocks(msec)==749
+ OnUpdate: _dt==0. clocks(msec)==2208
+ OnRender: clocks(msec)==2217
+ OnUpdate: _dt==0. clocks(msec)==758
+ OnRender: clocks(msec)==751
+ OnUpdate: _dt==0. clocks(msec)==2211
+ OnRender: clocks(msec)==2220
+ OnUpdate: _dt==0. clocks(msec)==760
+ OnRender: clocks(msec)==753
+ OnUpdate: _dt==0. clocks(msec)==2214
+ OnRender: clocks(msec)==2223
+ OnUpdate: _dt==0. clocks(msec)==762
+ OnRender: clocks(msec)==756
+ OnUpdate: _dt==16. clocks(msec)==2217
+ OnRender: clocks(msec)==2225
+ OnUpdate: _dt==0. clocks(msec)==764
+ OnRender: clocks(msec)==759
+ OnUpdate: _dt==0. clocks(msec)==2220
+ OnRender: clocks(msec)==2227
+ OnUpdate: _dt==0. clocks(msec)==767
+ OnRender: clocks(msec)==762
+ OnUpdate: _dt==0. clocks(msec)==2222
+ OnRender: clocks(msec)==2230
+ OnUpdate: _dt==0. clocks(msec)==770
+ OnRender: clocks(msec)==764
+ OnUpdate: _dt==0. clocks(msec)==2224
+ OnRender: clocks(msec)==2233
+ OnUpdate: _dt==16. clocks(msec)==773
+ OnRender: clocks(msec)==766
+ OnUpdate: _dt==0. clocks(msec)==2227
+ OnRender: clocks(msec)==2236
+ OnUpdate: _dt==0. clocks(msec)==775
+ OnRender: clocks(msec)==768
+ OnUpdate: _dt==0. clocks(msec)==2230
+ OnRender: clocks(msec)==2239
+ OnUpdate: _dt==0. clocks(msec)==777
+ OnRender: clocks(msec)==771
+ OnUpdate: _dt==0. clocks(msec)==2233
+ OnRender: clocks(msec)==2241
+ OnUpdate: _dt==15. clocks(msec)==779
+ OnRender: clocks(msec)==774
+ OnUpdate: _dt==0. clocks(msec)==2236
+ OnRender: clocks(msec)==2243
+ OnUpdate: _dt==0. clocks(msec)==782
+ OnRender: clocks(msec)==777
+ OnUpdate: _dt==0. clocks(msec)==2238
+ OnRender: clocks(msec)==2245
+ OnUpdate: _dt==0. clocks(msec)==785
+ OnRender: clocks(msec)==780
+ OnUpdate: _dt==0. clocks(msec)==2240
+ OnRender: clocks(msec)==2248
+ OnUpdate: _dt==16. clocks(msec)==788
+ OnRender: clocks(msec)==782
+ OnUpdate: _dt==0. clocks(msec)==2242
+ OnRender: clocks(msec)==2251
+ OnUpdate: _dt==0. clocks(msec)==791
+ OnRender: clocks(msec)==784
+ OnUpdate: _dt==0. clocks(msec)==2245
+ OnRender: clocks(msec)==2254
+ OnUpdate: _dt==0. clocks(msec)==793
+ OnRender: clocks(msec)==786
+ OnUpdate: _dt==0. clocks(msec)==2248
+ OnRender: clocks(msec)==2257
+ OnUpdate: _dt==15. clocks(msec)==796
+ OnRender: clocks(msec)==789
+ OnUpdate: _dt==0. clocks(msec)==2250
+ OnRender: clocks(msec)==2259
+ OnUpdate: _dt==0. clocks(msec)==799
+ OnRender: clocks(msec)==792
+ OnUpdate: _dt==0. clocks(msec)==2252
+ OnRender: clocks(msec)==2261
+ OnUpdate: _dt==0. clocks(msec)==802
+ OnRender: clocks(msec)==795
+ OnUpdate: _dt==0. clocks(msec)==2254
+ OnRender: clocks(msec)==2264
+ OnUpdate: _dt==16. clocks(msec)==805
+ OnRender: clocks(msec)==797
+ OnUpdate: _dt==0. clocks(msec)==2256
+ OnRender: clocks(msec)==2267
+ OnUpdate: _dt==0. clocks(msec)==808
+ OnRender: clocks(msec)==799
+ OnUpdate: _dt==0. clocks(msec)==2258
+ OnRender: clocks(msec)==2270
+ OnUpdate: _dt==0. clocks(msec)==811
+ OnRender: clocks(msec)==801
+ OnUpdate: _dt==0. clocks(msec)==2261
+ OnRender: clocks(msec)==2273
+ OnUpdate: _dt==16. clocks(msec)==813
+ OnRender: clocks(msec)==803
+ OnUpdate: _dt==0. clocks(msec)==2264
+ OnRender: clocks(msec)==2276
+ OnUpdate: _dt==0. clocks(msec)==815
+ OnRender: clocks(msec)==805
+ OnUpdate: _dt==0. clocks(msec)==2267
+ OnRender: clocks(msec)==2279
+ OnUpdate: _dt==0. clocks(msec)==817
+ OnRender: clocks(msec)==808
+ OnUpdate: _dt==0. clocks(msec)==2270
+ OnRender: clocks(msec)==2281
+ OnUpdate: _dt==15. clocks(msec)==819
+ OnRender: clocks(msec)==811
+ OnUpdate: _dt==0. clocks(msec)==2273
+ OnRender: clocks(msec)==2283
+ OnUpdate: _dt==0. clocks(msec)==821
+ OnRender: clocks(msec)==814
+ OnUpdate: _dt==0. clocks(msec)==2276
+ OnRender: clocks(msec)==2285
+ OnUpdate: _dt==0. clocks(msec)==824
+ OnRender: clocks(msec)==817
+ OnUpdate: _dt==0. clocks(msec)==2278
+ OnRender: clocks(msec)==2287
+ OnUpdate: _dt==16. clocks(msec)==827
+ OnRender: clocks(msec)==820
+ OnUpdate: _dt==0. clocks(msec)==2280
+ OnRender: clocks(msec)==2289
+ OnUpdate: _dt==0. clocks(msec)==830
+ OnRender: clocks(msec)==823
+ OnUpdate: _dt==0. clocks(msec)==2282
+ OnRender: clocks(msec)==2292
+ OnUpdate: _dt==0. clocks(msec)==833
+ OnRender: clocks(msec)==825
+ OnUpdate: _dt==0. clocks(msec)==2284
+ OnRender: clocks(msec)==2295
+ OnUpdate: _dt==15. clocks(msec)==836
+ OnRender: clocks(msec)==827
+ OnUpdate: _dt==0. clocks(msec)==2287
+ OnRender: clocks(msec)==2298
+ OnUpdate: _dt==0. clocks(msec)==838
+ OnRender: clocks(msec)==829
+ OnUpdate: _dt==0. clocks(msec)==2290
+ OnRender: clocks(msec)==2301
+ OnUpdate: _dt==0. clocks(msec)==840
+ OnRender: clocks(msec)==831
+ OnUpdate: _dt==0. clocks(msec)==2293
+ OnRender: clocks(msec)==2304
+ OnUpdate: _dt==16. clocks(msec)==842
+ OnRender: clocks(msec)==833
+ OnUpdate: _dt==0. clocks(msec)==2296
+ OnRender: clocks(msec)==2307
+ OnUpdate: _dt==0. clocks(msec)==844
+ OnRender: clocks(msec)==836
+ OnUpdate: _dt==0. clocks(msec)==2299
+ OnRender: clocks(msec)==2309
+ OnUpdate: _dt==0. clocks(msec)==846
+ OnRender: clocks(msec)==839
+ OnUpdate: _dt==0. clocks(msec)==2302
+ OnRender: clocks(msec)==2311
+ OnUpdate: _dt==0. clocks(msec)==848
+ OnRender: clocks(msec)==841
+ OnUpdate: _dt==16. clocks(msec)==2305
+ OnRender: clocks(msec)==2314
+ OnUpdate: _dt==0. clocks(msec)==850
+ OnRender: clocks(msec)==844
+ OnUpdate: _dt==0. clocks(msec)==2308
+ OnRender: clocks(msec)==2316
+ OnUpdate: _dt==0. clocks(msec)==852
+ OnRender: clocks(msec)==847
+ OnUpdate: _dt==0. clocks(msec)==2311
+ OnRender: clocks(msec)==2318
+ OnUpdate: _dt==0. clocks(msec)==854
+ OnRender: clocks(msec)==849
+ OnUpdate: _dt==15. clocks(msec)==2314
+ OnRender: clocks(msec)==2321
+ OnUpdate: _dt==0. clocks(msec)==856
+ OnRender: clocks(msec)==851
+ OnUpdate: _dt==0. clocks(msec)==2317
+ OnRender: clocks(msec)==2324
+ OnUpdate: _dt==0. clocks(msec)==858
+ OnRender: clocks(msec)==853
+ OnUpdate: _dt==0. clocks(msec)==2320
+ OnRender: clocks(msec)==2327
+ OnUpdate: _dt==0. clocks(msec)==860
+ OnRender: clocks(msec)==855
+ OnUpdate: _dt==16. clocks(msec)==2322
+ OnRender: clocks(msec)==2330
+ OnUpdate: _dt==0. clocks(msec)==863
+ OnRender: clocks(msec)==857
+ OnUpdate: _dt==0. clocks(msec)==2324
+ OnRender: clocks(msec)==2332
+ OnUpdate: _dt==0. clocks(msec)==866
+ OnRender: clocks(msec)==860
+ OnUpdate: _dt==0. clocks(msec)==2326
+ OnRender: clocks(msec)==2334
+ OnUpdate: _dt==0. clocks(msec)==869
+ OnRender: clocks(msec)==863
+ OnUpdate: _dt==0. clocks(msec)==2328
+ OnRender: clocks(msec)==2336
+ OnUpdate: _dt==15. clocks(msec)==871
+ OnRender: clocks(msec)==866
+ OnUpdate: _dt==0. clocks(msec)==2331
+ OnRender: clocks(msec)==2338
+ OnUpdate: _dt==0. clocks(msec)==873
+ OnRender: clocks(msec)==868
+ OnUpdate: _dt==0. clocks(msec)==2334
+ OnRender: clocks(msec)==2341
+ OnUpdate: _dt==0. clocks(msec)==875
+ OnRender: clocks(msec)==870
+ OnUpdate: _dt==0. clocks(msec)==2337
+ OnRender: clocks(msec)==2344
+ OnUpdate: _dt==16. clocks(msec)==877
+ OnRender: clocks(msec)==872
+ OnUpdate: _dt==0. clocks(msec)==2339
+ OnRender: clocks(msec)==2346
+ OnUpdate: _dt==0. clocks(msec)==880
+ OnRender: clocks(msec)==875
+ OnUpdate: _dt==0. clocks(msec)==2341
+ OnRender: clocks(msec)==2348
+ OnUpdate: _dt==0. clocks(msec)==883
+ OnRender: clocks(msec)==878
+ OnUpdate: _dt==0. clocks(msec)==2343
+ OnRender: clocks(msec)==2350
+ OnUpdate: _dt==0. clocks(msec)==885
+ OnRender: clocks(msec)==881
+ OnUpdate: _dt==0. clocks(msec)==2346
+ OnRender: clocks(msec)==2352
+ OnUpdate: _dt==0. clocks(msec)==887
+ OnRender: clocks(msec)==884
+ OnUpdate: _dt==0. clocks(msec)==2349
+ OnRender: clocks(msec)==2354
+ OnUpdate: _dt==0. clocks(msec)==889
+ OnRender: clocks(msec)==886
+ OnUpdate: _dt==0. clocks(msec)==2352
+ OnRender: clocks(msec)==2357
+ OnUpdate: _dt==0. clocks(msec)==891
+ OnRender: clocks(msec)==888
+ OnUpdate: _dt==15. clocks(msec)==2354
+ OnRender: clocks(msec)==2360
+ OnUpdate: _dt==0. clocks(msec)==894
+ OnRender: clocks(msec)==890
+ OnUpdate: _dt==0. clocks(msec)==2356
+ OnRender: clocks(msec)==2362
+ OnUpdate: _dt==0. clocks(msec)==897
+ OnRender: clocks(msec)==893
+ OnUpdate: _dt==0. clocks(msec)==2358
+ OnRender: clocks(msec)==2364
+ OnUpdate: _dt==0. clocks(msec)==900
+ OnRender: clocks(msec)==896
+ OnUpdate: _dt==16. clocks(msec)==2360
+ OnRender: clocks(msec)==2366
+ OnUpdate: _dt==0. clocks(msec)==902
+ OnRender: clocks(msec)==898
+ OnUpdate: _dt==0. clocks(msec)==2363
+ OnRender: clocks(msec)==2369
+ OnUpdate: _dt==0. clocks(msec)==904
+ OnRender: clocks(msec)==900
+ OnUpdate: _dt==0. clocks(msec)==2366
+ OnRender: clocks(msec)==2372
+ OnUpdate: _dt==0. clocks(msec)==906
+ OnRender: clocks(msec)==902
+ OnUpdate: _dt==0. clocks(msec)==2368
+ OnRender: clocks(msec)==2374
+ OnUpdate: _dt==15. clocks(msec)==909
+ OnRender: clocks(msec)==905
+ OnUpdate: _dt==0. clocks(msec)==2370
+ OnRender: clocks(msec)==2376
+ OnUpdate: _dt==0. clocks(msec)==912
+ OnRender: clocks(msec)==908
+ OnUpdate: _dt==0. clocks(msec)==2372
+ OnRender: clocks(msec)==2378
+ OnUpdate: _dt==0. clocks(msec)==914
+ OnRender: clocks(msec)==911
+ OnUpdate: _dt==0. clocks(msec)==2375
+ OnRender: clocks(msec)==2380
+ OnUpdate: _dt==16. clocks(msec)==916
+ OnRender: clocks(msec)==913
+ OnUpdate: _dt==0. clocks(msec)==2378
+ OnRender: clocks(msec)==2383
+ OnUpdate: _dt==0. clocks(msec)==918
+ OnRender: clocks(msec)==915
+ OnUpdate: _dt==0. clocks(msec)==2380
+ OnRender: clocks(msec)==2386
+ OnUpdate: _dt==0. clocks(msec)==921
+ OnRender: clocks(msec)==917
+ OnUpdate: _dt==0. clocks(msec)==2382
+ OnRender: clocks(msec)==2388
+ OnUpdate: _dt==0. clocks(msec)==924
+ OnRender: clocks(msec)==920
+ OnUpdate: _dt==16. clocks(msec)==2384
+ OnRender: clocks(msec)==2390
+ OnUpdate: _dt==0. clocks(msec)==927
+ OnRender: clocks(msec)==923
+ OnUpdate: _dt==0. clocks(msec)==2386
+ OnRender: clocks(msec)==2392
+ OnUpdate: _dt==0. clocks(msec)==930
+ OnRender: clocks(msec)==926
+ OnUpdate: _dt==0. clocks(msec)==2388
+ OnRender: clocks(msec)==2394
+ OnUpdate: _dt==0. clocks(msec)==932
+ OnRender: clocks(msec)==929
+ OnUpdate: _dt==15. clocks(msec)==2391
+ OnRender: clocks(msec)==2396
+ OnUpdate: _dt==0. clocks(msec)==934
+ OnRender: clocks(msec)==931
+ OnUpdate: _dt==0. clocks(msec)==2394
+ OnRender: clocks(msec)==2399
+ OnUpdate: _dt==0. clocks(msec)==936
+ OnRender: clocks(msec)==933
+ OnUpdate: _dt==0. clocks(msec)==2396
+ OnRender: clocks(msec)==2402
+ OnUpdate: _dt==0. clocks(msec)==939
+ OnRender: clocks(msec)==935
+ OnUpdate: _dt==0. clocks(msec)==2398
+ OnRender: clocks(msec)==2405
+ OnUpdate: _dt==16. clocks(msec)==942
+ OnRender: clocks(msec)==937
+ OnUpdate: _dt==0. clocks(msec)==2400
+ OnRender: clocks(msec)==2408
+ OnUpdate: _dt==0. clocks(msec)==945
+ OnRender: clocks(msec)==939
+ OnUpdate: _dt==0. clocks(msec)==2402
+ OnRender: clocks(msec)==2411
+ OnUpdate: _dt==0. clocks(msec)==948
+ OnRender: clocks(msec)==941
+ OnUpdate: _dt==0. clocks(msec)==2404
+ OnRender: clocks(msec)==2413
+ OnUpdate: _dt==15. clocks(msec)==951
+ OnRender: clocks(msec)==944
+ OnUpdate: _dt==0. clocks(msec)==2406
+ OnRender: clocks(msec)==2415
+ OnUpdate: _dt==0. clocks(msec)==953
+ OnRender: clocks(msec)==947
+ OnUpdate: _dt==0. clocks(msec)==2409
+ OnRender: clocks(msec)==2417
+ OnUpdate: _dt==0. clocks(msec)==955
+ OnRender: clocks(msec)==950
+ OnUpdate: _dt==0. clocks(msec)==2412
+ OnRender: clocks(msec)==2419
+ OnUpdate: _dt==16. clocks(msec)==957
+ OnRender: clocks(msec)==952
+ OnUpdate: _dt==0. clocks(msec)==2415
+ OnRender: clocks(msec)==2422
+ OnUpdate: _dt==0. clocks(msec)==959
+ OnRender: clocks(msec)==954
+ OnUpdate: _dt==0. clocks(msec)==2418
+ OnRender: clocks(msec)==2425
+ OnUpdate: _dt==0. clocks(msec)==961
+ OnRender: clocks(msec)==957
+ OnUpdate: _dt==0. clocks(msec)==2421
+ OnRender: clocks(msec)==2427
+ OnUpdate: _dt==0. clocks(msec)==964
+ OnRender: clocks(msec)==960
+ OnUpdate: _dt==0. clocks(msec)==2423
+ OnRender: clocks(msec)==2430
+ OnUpdate: _dt==0. clocks(msec)==968
+ OnRender: clocks(msec)==963
+ OnUpdate: _dt==0. clocks(msec)==2426
+ OnRender: clocks(msec)==2433
+ OnUpdate: _dt==0. clocks(msec)==971
+ OnRender: clocks(msec)==966
+ OnUpdate: _dt==0. clocks(msec)==2429
+ OnRender: clocks(msec)==2436
+ OnUpdate: _dt==15. clocks(msec)==973
+ OnRender: clocks(msec)==968
+ OnUpdate: _dt==0. clocks(msec)==2432
+ OnRender: clocks(msec)==2439
+ OnUpdate: _dt==0. clocks(msec)==975
+ OnRender: clocks(msec)==970
+ OnUpdate: _dt==0. clocks(msec)==2435
+ OnRender: clocks(msec)==2442
+ OnUpdate: _dt==0. clocks(msec)==977
+ OnRender: clocks(msec)==973
+ OnUpdate: _dt==0. clocks(msec)==2438
+ OnRender: clocks(msec)==2444
+ OnUpdate: _dt==16. clocks(msec)==979
+ OnRender: clocks(msec)==975
+ OnUpdate: _dt==0. clocks(msec)==2441
+ OnRender: clocks(msec)==2447
+ OnUpdate: _dt==0. clocks(msec)==981
+ OnRender: clocks(msec)==977
+ OnUpdate: _dt==0. clocks(msec)==2444
+ OnRender: clocks(msec)==2450
+ OnUpdate: _dt==0. clocks(msec)==983
+ OnRender: clocks(msec)==979
+ OnUpdate: _dt==0. clocks(msec)==2447
+ OnRender: clocks(msec)==2453
+ OnUpdate: _dt==15. clocks(msec)==985
+ OnRender: clocks(msec)==981
+ OnUpdate: _dt==0. clocks(msec)==2450
+ OnRender: clocks(msec)==2456
+ OnUpdate: _dt==0. clocks(msec)==987
+ OnRender: clocks(msec)==983
+ OnUpdate: _dt==0. clocks(msec)==2453
+ OnRender: clocks(msec)==2459
+ OnUpdate: _dt==0. clocks(msec)==989
+ OnRender: clocks(msec)==985
+ OnUpdate: _dt==0. clocks(msec)==2456
+ OnRender: clocks(msec)==2462
+ OnUpdate: _dt==16. clocks(msec)==991
+ OnRender: clocks(msec)==987
+ OnUpdate: _dt==0. clocks(msec)==2458
+ OnRender: clocks(msec)==2465
+ OnUpdate: _dt==0. clocks(msec)==994
+ OnRender: clocks(msec)==989
+ OnUpdate: _dt==0. clocks(msec)==2460
+ OnRender: clocks(msec)==2467
+ OnUpdate: _dt==0. clocks(msec)==997
+ OnRender: clocks(msec)==992
+ OnUpdate: _dt==0. clocks(msec)==2462
+ OnRender: clocks(msec)==2469
+ OnUpdate: _dt==0. clocks(msec)==1000
+ OnRender: clocks(msec)==995
+ OnUpdate: _dt==16. clocks(msec)==2464
+ OnRender: clocks(msec)==2471
+ OnUpdate: _dt==0. clocks(msec)==1002
+ OnRender: clocks(msec)==998
+ OnUpdate: _dt==0. clocks(msec)==2467
+ OnRender: clocks(msec)==2473
+ OnUpdate: _dt==0. clocks(msec)==1004
+ OnRender: clocks(msec)==1000
+ OnUpdate: _dt==0. clocks(msec)==2470
+ OnRender: clocks(msec)==2476
+ OnUpdate: _dt==0. clocks(msec)==1006
+ OnRender: clocks(msec)==1002
+ OnUpdate: _dt==15. clocks(msec)==2473
+ OnRender: clocks(msec)==2479
+ OnUpdate: _dt==0. clocks(msec)==1008
+ OnRender: clocks(msec)==1004
+ OnUpdate: _dt==0. clocks(msec)==2475
+ OnRender: clocks(msec)==2482
+ OnUpdate: _dt==0. clocks(msec)==1011
+ OnRender: clocks(msec)==1006
+ OnUpdate: _dt==0. clocks(msec)==2477
+ OnRender: clocks(msec)==2484
+ OnUpdate: _dt==0. clocks(msec)==1014
+ OnRender: clocks(msec)==1009
+ OnUpdate: _dt==0. clocks(msec)==2479
+ OnRender: clocks(msec)==2486
+ OnUpdate: _dt==16. clocks(msec)==1017
+ OnRender: clocks(msec)==1012
+ OnUpdate: _dt==0. clocks(msec)==2481
+ OnRender: clocks(msec)==2488
+ OnUpdate: _dt==0. clocks(msec)==1019
+ OnRender: clocks(msec)==1014
+ OnUpdate: _dt==0. clocks(msec)==2484
+ OnRender: clocks(msec)==2491
+ OnUpdate: _dt==0. clocks(msec)==1021
+ OnRender: clocks(msec)==1016
+ OnUpdate: _dt==0. clocks(msec)==2487
+ OnRender: clocks(msec)==2494
+ OnUpdate: _dt==15. clocks(msec)==1023
+ OnRender: clocks(msec)==1018
+ OnUpdate: _dt==0. clocks(msec)==2489
+ OnRender: clocks(msec)==2499
+ OnUpdate: _dt==0. clocks(msec)==1028
+ OnRender: clocks(msec)==1020
+ OnUpdate: _dt==0. clocks(msec)==2492
+ OnRender: clocks(msec)==2502
+ OnUpdate: _dt==0. clocks(msec)==1030
+ OnRender: clocks(msec)==1022
+ OnUpdate: _dt==0. clocks(msec)==2495
+ OnRender: clocks(msec)==2505
+ OnUpdate: _dt==0. clocks(msec)==1032
+ OnRender: clocks(msec)==1024
+ OnUpdate: _dt==0. clocks(msec)==2497
+ OnRender: clocks(msec)==2507
+ OnUpdate: _dt==0. clocks(msec)==1035
+ OnRender: clocks(msec)==1027
+ OnUpdate: _dt==0. clocks(msec)==2499
+ OnRender: clocks(msec)==2509
+ OnUpdate: _dt==0. clocks(msec)==1038
+ OnRender: clocks(msec)==1030
+ OnUpdate: _dt==0. clocks(msec)==2501
+ OnRender: clocks(msec)==2511
+ OnUpdate: _dt==16. clocks(msec)==1040
+ OnRender: clocks(msec)==1033
+ OnUpdate: _dt==0. clocks(msec)==2504
+ OnRender: clocks(msec)==2513
+ OnUpdate: _dt==0. clocks(msec)==1042
+ OnRender: clocks(msec)==1035
+ OnUpdate: _dt==0. clocks(msec)==2507
+ OnRender: clocks(msec)==2516
+ OnUpdate: _dt==0. clocks(msec)==1044
+ OnRender: clocks(msec)==1037
+ OnUpdate: _dt==0. clocks(msec)==2510
+ OnRender: clocks(msec)==2519
+ OnUpdate: _dt==0. clocks(msec)==1046
+ OnRender: clocks(msec)==1039
+ OnUpdate: _dt==15. clocks(msec)==2512
+ OnRender: clocks(msec)==2521
+ OnUpdate: _dt==0. clocks(msec)==1049
+ OnRender: clocks(msec)==1042
+ OnUpdate: _dt==0. clocks(msec)==2514
+ OnRender: clocks(msec)==2523
+ OnUpdate: _dt==0. clocks(msec)==1052
+ OnRender: clocks(msec)==1045
+ OnUpdate: _dt==0. clocks(msec)==2516
+ OnRender: clocks(msec)==2525
+ OnUpdate: _dt==0. clocks(msec)==1054
+ OnRender: clocks(msec)==1047
+ OnUpdate: _dt==16. clocks(msec)==2519
+ OnRender: clocks(msec)==2528
+ OnUpdate: _dt==0. clocks(msec)==1056
+ OnRender: clocks(msec)==1049
+ OnUpdate: _dt==0. clocks(msec)==2522
+ OnRender: clocks(msec)==2531
+ OnUpdate: _dt==0. clocks(msec)==1058
+ OnRender: clocks(msec)==1051
+ OnUpdate: _dt==0. clocks(msec)==2524
+ OnRender: clocks(msec)==2533
+ OnUpdate: _dt==0. clocks(msec)==1061
+ OnRender: clocks(msec)==1054
+ OnUpdate: _dt==0. clocks(msec)==2526
+ OnRender: clocks(msec)==2535
+ OnUpdate: _dt==15. clocks(msec)==1063
+ OnRender: clocks(msec)==1057
+ OnUpdate: _dt==0. clocks(msec)==2529
+ OnRender: clocks(msec)==2537
+ OnUpdate: _dt==0. clocks(msec)==1065
+ OnRender: clocks(msec)==1059
+ OnUpdate: _dt==0. clocks(msec)==2532
+ OnRender: clocks(msec)==2540
+ OnUpdate: _dt==0. clocks(msec)==1067
+ OnRender: clocks(msec)==1061
+ OnUpdate: _dt==0. clocks(msec)==2535
+ OnRender: clocks(msec)==2543
+ OnUpdate: _dt==16. clocks(msec)==1069
+ OnRender: clocks(msec)==1063
+ OnUpdate: _dt==0. clocks(msec)==2537
+ OnRender: clocks(msec)==2545
+ OnUpdate: _dt==0. clocks(msec)==1072
+ OnRender: clocks(msec)==1066
+ OnUpdate: _dt==0. clocks(msec)==2539
+ OnRender: clocks(msec)==2547
+ OnUpdate: _dt==0. clocks(msec)==1075
+ OnRender: clocks(msec)==1069
+ OnUpdate: _dt==0. clocks(msec)==2541
+ OnRender: clocks(msec)==2549
+ OnUpdate: _dt==0. clocks(msec)==1077
+ OnRender: clocks(msec)==1072
+ OnUpdate: _dt==0. clocks(msec)==2544
+ OnRender: clocks(msec)==2551
+ OnUpdate: _dt==0. clocks(msec)==1079
+ OnRender: clocks(msec)==1075
+ OnUpdate: _dt==0. clocks(msec)==2547
+ OnRender: clocks(msec)==2554
+ OnUpdate: _dt==0. clocks(msec)==1082
+ OnRender: clocks(msec)==1077
+ OnUpdate: _dt==0. clocks(msec)==2549
+ OnRender: clocks(msec)==2556
+ OnUpdate: _dt==0. clocks(msec)==1085
+ OnRender: clocks(msec)==1080
+ OnUpdate: _dt==15. clocks(msec)==2551
+ OnRender: clocks(msec)==2558
+ OnUpdate: _dt==0. clocks(msec)==1088
+ OnRender: clocks(msec)==1083
+ OnUpdate: _dt==0. clocks(msec)==2553
+ OnRender: clocks(msec)==2560
+ OnUpdate: _dt==0. clocks(msec)==1090
+ OnRender: clocks(msec)==1085
+ OnUpdate: _dt==0. clocks(msec)==2556
+ OnRender: clocks(msec)==2563
+ OnUpdate: _dt==0. clocks(msec)==1092
+ OnRender: clocks(msec)==1087
+ OnUpdate: _dt==16. clocks(msec)==2559
+ OnRender: clocks(msec)==2566
+ OnUpdate: _dt==0. clocks(msec)==1094
+ OnRender: clocks(msec)==1089
+ OnUpdate: _dt==0. clocks(msec)==2561
+ OnRender: clocks(msec)==2569
+ OnUpdate: _dt==0. clocks(msec)==1097
+ OnRender: clocks(msec)==1091
+ OnUpdate: _dt==0. clocks(msec)==2563
+ OnRender: clocks(msec)==2571
+ OnUpdate: _dt==0. clocks(msec)==1100
+ OnRender: clocks(msec)==1094
+ OnUpdate: _dt==0. clocks(msec)==2565
+ OnRender: clocks(msec)==2573
+ OnUpdate: _dt==15. clocks(msec)==1103
+ OnRender: clocks(msec)==1097
+ OnUpdate: _dt==0. clocks(msec)==2567
+ OnRender: clocks(msec)==2575
+ OnUpdate: _dt==0. clocks(msec)==1105
+ OnRender: clocks(msec)==1099
+ OnUpdate: _dt==0. clocks(msec)==2570
+ OnRender: clocks(msec)==2578
+ OnUpdate: _dt==0. clocks(msec)==1107
+ OnRender: clocks(msec)==1101
+ OnUpdate: _dt==0. clocks(msec)==2572
+ OnRender: clocks(msec)==2580
+ OnUpdate: _dt==16. clocks(msec)==1110
+ OnRender: clocks(msec)==1104
+ OnUpdate: _dt==0. clocks(msec)==2574
+ OnRender: clocks(msec)==2582
+ OnUpdate: _dt==0. clocks(msec)==1113
+ OnRender: clocks(msec)==1107
+ OnUpdate: _dt==0. clocks(msec)==2576
+ OnRender: clocks(msec)==2584
+ OnUpdate: _dt==0. clocks(msec)==1116
+ OnRender: clocks(msec)==1110
+ OnUpdate: _dt==0. clocks(msec)==2578
+ OnRender: clocks(msec)==2586
+ OnUpdate: _dt==0. clocks(msec)==1118
+ OnRender: clocks(msec)==1112
+ OnUpdate: _dt==16. clocks(msec)==2581
+ OnRender: clocks(msec)==2589
+ OnUpdate: _dt==0. clocks(msec)==1120
+ OnRender: clocks(msec)==1114
+ OnUpdate: _dt==0. clocks(msec)==2583
+ OnRender: clocks(msec)==2591
+ OnUpdate: _dt==0. clocks(msec)==1123
+ OnRender: clocks(msec)==1117
+ OnUpdate: _dt==0. clocks(msec)==2585
+ OnRender: clocks(msec)==2593
+ OnUpdate: _dt==0. clocks(msec)==1126
+ OnRender: clocks(msec)==1120
+ OnUpdate: _dt==15. clocks(msec)==2587
+ OnRender: clocks(msec)==2595
+ OnUpdate: _dt==0. clocks(msec)==1129
+ OnRender: clocks(msec)==1123
+ OnUpdate: _dt==0. clocks(msec)==2589
+ OnRender: clocks(msec)==2597
+ OnUpdate: _dt==0. clocks(msec)==1131
+ OnRender: clocks(msec)==1125
+ OnUpdate: _dt==0. clocks(msec)==2592
+ OnRender: clocks(msec)==2600
+ OnUpdate: _dt==0. clocks(msec)==1133
+ OnRender: clocks(msec)==1127
+ OnUpdate: _dt==0. clocks(msec)==2594
+ OnRender: clocks(msec)==2602
+ OnUpdate: _dt==0. clocks(msec)==1136
+ OnRender: clocks(msec)==1130
+ OnUpdate: _dt==0. clocks(msec)==2596
+ OnRender: clocks(msec)==2604
+ OnUpdate: _dt==0. clocks(msec)==1139
+ OnRender: clocks(msec)==1133
+ OnUpdate: _dt==0. clocks(msec)==2598
+ OnRender: clocks(msec)==2606
+ OnUpdate: _dt==0. clocks(msec)==1141
+ OnRender: clocks(msec)==1135
+ OnUpdate: _dt==0. clocks(msec)==2601
+ OnRender: clocks(msec)==2609
+ OnUpdate: _dt==15. clocks(msec)==1143
+ OnRender: clocks(msec)==1137
+ OnUpdate: _dt==0. clocks(msec)==2604
+ OnRender: clocks(msec)==2612
+ OnUpdate: _dt==0. clocks(msec)==1145
+ OnRender: clocks(msec)==1139
+ OnUpdate: _dt==0. clocks(msec)==2606
+ OnRender: clocks(msec)==2614
+ OnUpdate: _dt==0. clocks(msec)==1148
+ OnRender: clocks(msec)==1142
+ OnUpdate: _dt==0. clocks(msec)==2608
+ OnRender: clocks(msec)==2616
+ OnUpdate: _dt==0. clocks(msec)==1151
+ OnRender: clocks(msec)==1145
+ OnUpdate: _dt==0. clocks(msec)==2610
+ OnRender: clocks(msec)==2618
+ OnUpdate: _dt==0. clocks(msec)==1153
+ OnRender: clocks(msec)==1147
+ OnUpdate: _dt==0. clocks(msec)==2613
+ OnRender: clocks(msec)==2621
+ OnUpdate: _dt==0. clocks(msec)==1155
+ OnRender: clocks(msec)==1149
+ OnUpdate: _dt==0. clocks(msec)==2615
+ OnRender: clocks(msec)==2623
+ OnUpdate: _dt==0. clocks(msec)==1158
+ OnRender: clocks(msec)==1152
+ OnUpdate: _dt==16. clocks(msec)==2617
+ OnRender: clocks(msec)==2625
+ OnUpdate: _dt==0. clocks(msec)==1161
+ OnRender: clocks(msec)==1155
+ OnUpdate: _dt==0. clocks(msec)==2619
+ OnRender: clocks(msec)==2627
+ OnUpdate: _dt==0. clocks(msec)==1163
+ OnRender: clocks(msec)==1157
+ OnUpdate: _dt==0. clocks(msec)==2622
+ OnRender: clocks(msec)==2630
+ OnUpdate: _dt==0. clocks(msec)==1165
+ OnRender: clocks(msec)==1159
+ OnUpdate: _dt==0. clocks(msec)==2625
+ OnRender: clocks(msec)==2633
+ OnUpdate: _dt==15. clocks(msec)==1167
+ OnRender: clocks(msec)==1161
+ OnUpdate: _dt==0. clocks(msec)==2627
+ OnRender: clocks(msec)==2635
+ OnUpdate: _dt==0. clocks(msec)==1170
+ OnRender: clocks(msec)==1164
+ OnUpdate: _dt==0. clocks(msec)==2629
+ OnRender: clocks(msec)==2637
+ OnUpdate: _dt==0. clocks(msec)==1172
+ OnRender: clocks(msec)==1166
+ OnUpdate: _dt==0. clocks(msec)==2632
+ OnRender: clocks(msec)==2640
+ OnUpdate: _dt==16. clocks(msec)==1174
+ OnRender: clocks(msec)==1168
+ OnUpdate: _dt==0. clocks(msec)==2634
+ OnRender: clocks(msec)==2642
+ OnUpdate: _dt==0. clocks(msec)==1177
+ OnRender: clocks(msec)==1171
+ OnUpdate: _dt==0. clocks(msec)==2636
+ OnRender: clocks(msec)==2644
+ OnUpdate: _dt==0. clocks(msec)==1179
+ OnRender: clocks(msec)==1173
+ OnUpdate: _dt==0. clocks(msec)==2639
+ OnRender: clocks(msec)==2647
+ OnUpdate: _dt==0. clocks(msec)==1181
+ OnRender: clocks(msec)==1175
+ OnUpdate: _dt==15. clocks(msec)==2641
+ OnRender: clocks(msec)==2649
+ OnUpdate: _dt==0. clocks(msec)==1184
+ OnRender: clocks(msec)==1178
+ OnUpdate: _dt==0. clocks(msec)==2643
+ OnRender: clocks(msec)==2651
+ OnUpdate: _dt==0. clocks(msec)==1187
+ OnRender: clocks(msec)==1181
+ OnUpdate: _dt==0. clocks(msec)==2645
+ OnRender: clocks(msec)==2653
+ OnUpdate: _dt==0. clocks(msec)==1190
+ OnRender: clocks(msec)==1184
+ OnUpdate: _dt==16. clocks(msec)==2648
+ OnRender: clocks(msec)==2657
+ OnUpdate: _dt==0. clocks(msec)==1193
+ OnRender: clocks(msec)==1186
+ OnUpdate: _dt==0. clocks(msec)==2651
+ OnRender: clocks(msec)==2660
+ OnUpdate: _dt==0. clocks(msec)==1195
+ OnRender: clocks(msec)==1188
+ OnUpdate: _dt==0. clocks(msec)==2653
+ OnRender: clocks(msec)==2662
+ OnUpdate: _dt==0. clocks(msec)==1198
+ OnRender: clocks(msec)==1191
+ OnUpdate: _dt==16. clocks(msec)==2655
+ OnRender: clocks(msec)==2664
+ OnUpdate: _dt==0. clocks(msec)==1201
+ OnRender: clocks(msec)==1194
+ OnUpdate: _dt==0. clocks(msec)==2657
+ OnRender: clocks(msec)==2666
+ OnUpdate: _dt==0. clocks(msec)==1204
+ OnRender: clocks(msec)==1197
+ OnUpdate: _dt==0. clocks(msec)==2659
+ OnRender: clocks(msec)==2668
+ OnUpdate: _dt==0. clocks(msec)==1206
+ OnRender: clocks(msec)==1199
+ OnUpdate: _dt==0. clocks(msec)==2662
+ OnRender: clocks(msec)==2671
+ OnUpdate: _dt==15. clocks(msec)==1208
+ OnRender: clocks(msec)==1201
+ OnUpdate: _dt==0. clocks(msec)==2665
+ OnRender: clocks(msec)==2674
+ OnUpdate: _dt==0. clocks(msec)==1210
+ OnRender: clocks(msec)==1203
+ OnUpdate: _dt==0. clocks(msec)==2667
+ OnRender: clocks(msec)==2676
+ OnUpdate: _dt==0. clocks(msec)==1213
+ OnRender: clocks(msec)==1206
+ OnUpdate: _dt==0. clocks(msec)==2669
+ OnRender: clocks(msec)==2678
+ OnUpdate: _dt==16. clocks(msec)==1215
+ OnRender: clocks(msec)==1208
+ OnUpdate: _dt==0. clocks(msec)==2672
+ OnRender: clocks(msec)==2681
+ OnUpdate: _dt==0. clocks(msec)==1217
+ OnRender: clocks(msec)==1210
+ OnUpdate: _dt==0. clocks(msec)==2675
+ OnRender: clocks(msec)==2684
+ OnUpdate: _dt==0. clocks(msec)==1219
+ OnRender: clocks(msec)==1212
+ OnUpdate: _dt==0. clocks(msec)==2677
+ OnRender: clocks(msec)==2686
+ OnUpdate: _dt==0. clocks(msec)==1222
+ OnRender: clocks(msec)==1215
+ OnUpdate: _dt==15. clocks(msec)==2679
+ OnRender: clocks(msec)==2688
+ OnUpdate: _dt==0. clocks(msec)==1224
+ OnRender: clocks(msec)==1217
+ OnUpdate: _dt==0. clocks(msec)==2682
+ OnRender: clocks(msec)==2691
+ OnUpdate: _dt==0. clocks(msec)==1226
+ OnRender: clocks(msec)==1219
+ OnUpdate: _dt==0. clocks(msec)==2684
+ OnRender: clocks(msec)==2693
+ OnUpdate: _dt==0. clocks(msec)==1229
+ OnRender: clocks(msec)==1222
+ OnUpdate: _dt==16. clocks(msec)==2686
+ OnRender: clocks(msec)==2695
+ OnUpdate: _dt==0. clocks(msec)==1231
+ OnRender: clocks(msec)==1224
+ OnUpdate: _dt==0. clocks(msec)==2689
+ OnRender: clocks(msec)==2698
+ OnUpdate: _dt==0. clocks(msec)==1233
+ OnRender: clocks(msec)==1226
+ OnUpdate: _dt==0. clocks(msec)==2691
+ OnRender: clocks(msec)==2700
+ OnUpdate: _dt==0. clocks(msec)==1236
+ OnRender: clocks(msec)==1229
+ OnUpdate: _dt==0. clocks(msec)==2693
+ OnRender: clocks(msec)==2702
+ OnUpdate: _dt==16. clocks(msec)==1238
+ OnRender: clocks(msec)==1231
+ OnUpdate: _dt==0. clocks(msec)==2696
+ OnRender: clocks(msec)==2704
+ OnUpdate: _dt==0. clocks(msec)==1240
+ OnRender: clocks(msec)==1234
+ OnUpdate: _dt==0. clocks(msec)==2698
+ OnRender: clocks(msec)==2706
+ OnUpdate: _dt==0. clocks(msec)==1242
+ OnRender: clocks(msec)==1236
+ OnUpdate: _dt==0. clocks(msec)==2701
+ OnRender: clocks(msec)==2709
+ OnUpdate: _dt==0. clocks(msec)==1244
+ OnRender: clocks(msec)==1238
+ OnUpdate: _dt==15. clocks(msec)==2703
+ OnRender: clocks(msec)==2711
+ OnUpdate: _dt==0. clocks(msec)==1247
+ OnRender: clocks(msec)==1241
+ OnUpdate: _dt==0. clocks(msec)==2705
+ OnRender: clocks(msec)==2713
+ OnUpdate: _dt==0. clocks(msec)==1249
+ OnRender: clocks(msec)==1243
+ OnUpdate: _dt==0. clocks(msec)==2708
+ OnRender: clocks(msec)==2716
+ OnUpdate: _dt==0. clocks(msec)==1251
+ OnRender: clocks(msec)==1245
+ OnUpdate: _dt==0. clocks(msec)==2710
+ OnRender: clocks(msec)==2718
+ OnUpdate: _dt==16. clocks(msec)==1254
+ OnRender: clocks(msec)==1248
+ OnUpdate: _dt==0. clocks(msec)==2712
+ OnRender: clocks(msec)==2720
+ OnUpdate: _dt==0. clocks(msec)==1256
+ OnRender: clocks(msec)==1250
+ OnUpdate: _dt==0. clocks(msec)==2715
+ OnRender: clocks(msec)==2723
+ OnUpdate: _dt==0. clocks(msec)==1258
+ OnRender: clocks(msec)==1252
+ OnUpdate: _dt==0. clocks(msec)==2717
+ OnRender: clocks(msec)==2725
+ OnUpdate: _dt==15. clocks(msec)==1261
+ OnRender: clocks(msec)==1255
+ OnUpdate: _dt==0. clocks(msec)==2719
+ OnRender: clocks(msec)==2727
+ OnUpdate: _dt==0. clocks(msec)==1263
+ OnRender: clocks(msec)==1257
+ OnUpdate: _dt==0. clocks(msec)==2722
+ OnRender: clocks(msec)==2730
+ OnUpdate: _dt==0. clocks(msec)==1265
+ OnRender: clocks(msec)==1259
+ OnUpdate: _dt==0. clocks(msec)==2724
+ OnRender: clocks(msec)==2732
+ OnUpdate: _dt==0. clocks(msec)==1268
+ OnRender: clocks(msec)==1262
+ OnUpdate: _dt==16. clocks(msec)==2726
+ OnRender: clocks(msec)==2734
+ OnUpdate: _dt==0. clocks(msec)==1270
+ OnRender: clocks(msec)==1264
+ OnUpdate: _dt==0. clocks(msec)==2729
+ OnRender: clocks(msec)==2737
+ OnUpdate: _dt==0. clocks(msec)==1272
+ OnRender: clocks(msec)==1266
+ OnUpdate: _dt==0. clocks(msec)==2731
+ OnRender: clocks(msec)==2739
+ OnUpdate: _dt==0. clocks(msec)==1275
+ OnRender: clocks(msec)==1269
+ OnUpdate: _dt==0. clocks(msec)==2733
+ OnRender: clocks(msec)==2741
+ OnUpdate: _dt==16. clocks(msec)==1277
+ OnRender: clocks(msec)==1271
+ OnUpdate: _dt==0. clocks(msec)==2736
+ OnRender: clocks(msec)==2743
+ OnUpdate: _dt==0. clocks(msec)==1279
+ OnRender: clocks(msec)==1274
+ OnUpdate: _dt==0. clocks(msec)==2738
+ OnRender: clocks(msec)==2745
+ OnUpdate: _dt==0. clocks(msec)==1281
+ OnRender: clocks(msec)==1276
+ OnUpdate: _dt==0. clocks(msec)==2741
+ OnRender: clocks(msec)==2748
+ OnUpdate: _dt==0. clocks(msec)==1283
+ OnRender: clocks(msec)==1278
+ OnUpdate: _dt==15. clocks(msec)==2743
+ OnRender: clocks(msec)==2750
+ OnUpdate: _dt==0. clocks(msec)==1286
+ OnRender: clocks(msec)==1280
+ OnUpdate: _dt==0. clocks(msec)==2745
+ OnRender: clocks(msec)==2753
+ OnUpdate: _dt==0. clocks(msec)==1288
+ OnRender: clocks(msec)==1282
+ OnUpdate: _dt==0. clocks(msec)==2747
+ OnRender: clocks(msec)==2755
+ OnUpdate: _dt==0. clocks(msec)==1291
+ OnRender: clocks(msec)==1285
+ OnUpdate: _dt==16. clocks(msec)==2749
+ OnRender: clocks(msec)==2757
+ OnUpdate: _dt==0. clocks(msec)==1293
+ OnRender: clocks(msec)==1287
+ OnUpdate: _dt==0. clocks(msec)==2752
+ OnRender: clocks(msec)==2760
+ OnUpdate: _dt==0. clocks(msec)==1295
+ OnRender: clocks(msec)==1289
+ OnUpdate: _dt==0. clocks(msec)==2754
+ OnRender: clocks(msec)==2762
+ OnUpdate: _dt==0. clocks(msec)==1297
+ OnRender: clocks(msec)==1291
+ OnUpdate: _dt==0. clocks(msec)==2757
+ OnRender: clocks(msec)==2765
+ OnUpdate: _dt==15. clocks(msec)==1299
+ OnRender: clocks(msec)==1293
+ OnUpdate: _dt==0. clocks(msec)==2759
+ OnRender: clocks(msec)==2767
+ OnUpdate: _dt==0. clocks(msec)==1302
+ OnRender: clocks(msec)==1296
+ OnUpdate: _dt==0. clocks(msec)==2761
+ OnRender: clocks(msec)==2769
+ OnUpdate: _dt==0. clocks(msec)==1304
+ OnRender: clocks(msec)==1298
+ OnUpdate: _dt==0. clocks(msec)==2764
+ OnRender: clocks(msec)==2772
+ OnUpdate: _dt==0. clocks(msec)==1306
+ OnRender: clocks(msec)==1300
+ OnUpdate: _dt==16. clocks(msec)==2766
+ OnRender: clocks(msec)==2774
+ OnUpdate: _dt==0. clocks(msec)==1308
+ OnRender: clocks(msec)==1302
+ OnUpdate: _dt==0. clocks(msec)==2769
+ OnRender: clocks(msec)==2777
+ OnUpdate: _dt==0. clocks(msec)==1310
+ OnRender: clocks(msec)==1304
+ OnUpdate: _dt==0. clocks(msec)==2771
+ OnRender: clocks(msec)==2779
+ OnUpdate: _dt==0. clocks(msec)==1313
+ OnRender: clocks(msec)==1307
+ OnUpdate: _dt==0. clocks(msec)==2773
+ OnRender: clocks(msec)==2781
+ OnUpdate: _dt==16. clocks(msec)==1315
+ OnRender: clocks(msec)==1309
+ OnUpdate: _dt==0. clocks(msec)==2776
+ OnRender: clocks(msec)==2784
+ OnUpdate: _dt==0. clocks(msec)==1317
+ OnRender: clocks(msec)==1311
+ OnUpdate: _dt==0. clocks(msec)==2778
+ OnRender: clocks(msec)==2786
+ OnUpdate: _dt==0. clocks(msec)==1320
+ OnRender: clocks(msec)==1314
+ OnUpdate: _dt==0. clocks(msec)==2780
+ OnRender: clocks(msec)==2788
+ OnUpdate: _dt==15. clocks(msec)==1323
+ OnRender: clocks(msec)==1317
+ OnUpdate: _dt==0. clocks(msec)==2783
+ OnRender: clocks(msec)==2791
+ OnUpdate: _dt==0. clocks(msec)==1326
+ OnRender: clocks(msec)==1320
+ OnUpdate: _dt==0. clocks(msec)==2785
+ OnRender: clocks(msec)==2793
+ OnUpdate: _dt==0. clocks(msec)==1328
+ OnRender: clocks(msec)==1324
+ OnUpdate: _dt==0. clocks(msec)==2789
+ OnRender: clocks(msec)==2795
+ OnUpdate: _dt==16. clocks(msec)==1331
+ OnRender: clocks(msec)==1326
+ OnUpdate: _dt==0. clocks(msec)==2791
+ OnRender: clocks(msec)==2798
+ OnUpdate: _dt==0. clocks(msec)==1333
+ OnRender: clocks(msec)==1328
+ OnUpdate: _dt==0. clocks(msec)==2793
+ OnRender: clocks(msec)==2800
+ OnUpdate: _dt==0. clocks(msec)==1336
+ OnRender: clocks(msec)==1331
+ OnUpdate: _dt==0. clocks(msec)==2795
+ OnRender: clocks(msec)==2802
+ OnUpdate: _dt==0. clocks(msec)==1338
+ OnRender: clocks(msec)==1333
+ OnUpdate: _dt==15. clocks(msec)==2798
+ OnRender: clocks(msec)==2805
+ OnUpdate: _dt==0. clocks(msec)==1340
+ OnRender: clocks(msec)==1335
+ OnUpdate: _dt==0. clocks(msec)==2800
+ OnRender: clocks(msec)==2807
+ OnUpdate: _dt==0. clocks(msec)==1342
+ OnRender: clocks(msec)==1337
+ OnUpdate: _dt==0. clocks(msec)==2803
+ OnRender: clocks(msec)==2810
+ OnUpdate: _dt==0. clocks(msec)==1344
+ OnRender: clocks(msec)==1339
+ OnUpdate: _dt==16. clocks(msec)==2805
+ OnRender: clocks(msec)==2812
+ OnUpdate: _dt==0. clocks(msec)==1347
+ OnRender: clocks(msec)==1342
+ OnUpdate: _dt==0. clocks(msec)==2807
+ OnRender: clocks(msec)==2828
+ OnUpdate: _dt==16. clocks(msec)==1363
+ OnRender: clocks(msec)==1349
+ OnUpdate: _dt==0. clocks(msec)==2814
+ OnRender: clocks(msec)==2835
+ OnUpdate: _dt==15. clocks(msec)==1370
+ OnRender: clocks(msec)==1356
+ OnUpdate: _dt==0. clocks(msec)==2821
+ OnRender: clocks(msec)==2843
+ OnUpdate: _dt==16. clocks(msec)==1378
+ OnRender: clocks(msec)==1364
+ OnUpdate: _dt==0. clocks(msec)==2829
+ OnRender: clocks(msec)==2851
+ OnUpdate: _dt==15. clocks(msec)==1387
+ OnRender: clocks(msec)==1372
+ OnUpdate: _dt==0. clocks(msec)==2837
+ OnRender: clocks(msec)==2860
+ OnUpdate: _dt==16. clocks(msec)==1395
+ OnRender: clocks(msec)==1380
+ OnUpdate: _dt==0. clocks(msec)==2845
+ OnRender: clocks(msec)==2869
+ OnUpdate: _dt==16. clocks(msec)==1404
+ OnRender: clocks(msec)==1389
+ OnUpdate: _dt==0. clocks(msec)==2854
+ OnRender: clocks(msec)==2878
+ OnUpdate: _dt==15. clocks(msec)==1413
+ OnRender: clocks(msec)==1398
+ OnUpdate: _dt==16. clocks(msec)==2864
+ OnRender: clocks(msec)==2888
+ OnUpdate: _dt==0. clocks(msec)==1422
+ OnRender: clocks(msec)==1408
+ OnUpdate: _dt==15. clocks(msec)==2874
+ OnRender: clocks(msec)==2898
+ OnUpdate: _dt==16. clocks(msec)==1432
+ OnRender: clocks(msec)==1418
+ OnUpdate: _dt==0. clocks(msec)==2885
+ OnRender: clocks(msec)==2909
+ OnUpdate: _dt==16. clocks(msec)==1442
+ OnRender: clocks(msec)==1428
+ OnUpdate: _dt==15. clocks(msec)==2896
+ OnRender: clocks(msec)==2920
+ OnUpdate: _dt==0. clocks(msec)==1452
+ OnRender: clocks(msec)==1439
+ OnUpdate: _dt==16. clocks(msec)==2907
+ OnRender: clocks(msec)==2931
+ OnUpdate: _dt==15. clocks(msec)==1463
+ OnRender: clocks(msec)==1450
+ OnUpdate: _dt==0. clocks(msec)==2919
+ OnRender: clocks(msec)==2943
+ OnUpdate: _dt==16. clocks(msec)==1475
+ OnRender: clocks(msec)==1463
+ OnUpdate: _dt==16. clocks(msec)==2932
+ OnRender: clocks(msec)==2956
+ OnUpdate: _dt==15. clocks(msec)==1487
+ OnRender: clocks(msec)==1476
+ OnUpdate: _dt==16. clocks(msec)==2945
+ OnRender: clocks(msec)==2973
+ OnUpdate: _dt==15. clocks(msec)==1505
+ OnRender: clocks(msec)==1491
+ OnUpdate: _dt==16. clocks(msec)==2959
+ OnRender: clocks(msec)==2986
+ OnUpdate: _dt==16. clocks(msec)==1519
+ OnRender: clocks(msec)==1505
+ OnUpdate: _dt==0. clocks(msec)==2973
+ OnRender: clocks(msec)==3000
+ OnUpdate: _dt==15. clocks(msec)==1533
+ OnRender: clocks(msec)==1519
+ OnUpdate: _dt==16. clocks(msec)==2986
+ OnRender: clocks(msec)==3016
+ OnUpdate: _dt==15. clocks(msec)==1550
+ OnRender: clocks(msec)==1542
+ OnUpdate: _dt==32. clocks(msec)==3009
+ OnRender: clocks(msec)==3039
+ OnUpdate: _dt==15. clocks(msec)==1573
+ OnRender: clocks(msec)==1566
+ OnUpdate: _dt==31. clocks(msec)==3032
+ OnRender: clocks(msec)==3059
+ OnUpdate: _dt==16. clocks(msec)==1593
+ OnRender: clocks(msec)==1582
+ OnUpdate: _dt==16. clocks(msec)==3049
+ OnRender: clocks(msec)==3077
+ OnUpdate: _dt==15. clocks(msec)==1610
+ OnRender: clocks(msec)==1596
+ OnUpdate: _dt==16. clocks(msec)==3063
+ OnRender: clocks(msec)==3090
+ OnUpdate: _dt==15. clocks(msec)==1624
+ OnRender: clocks(msec)==1610
+ OnUpdate: _dt==16. clocks(msec)==3076
+ OnRender: clocks(msec)==3104
+ OnUpdate: _dt==16. clocks(msec)==1638
+ OnRender: clocks(msec)==1623
+ OnUpdate: _dt==15. clocks(msec)==3090
+ OnRender: clocks(msec)==3118
+ OnUpdate: _dt==0. clocks(msec)==1651
+ OnRender: clocks(msec)==1645
+ OnUpdate: _dt==31. clocks(msec)==3112
+ OnRender: clocks(msec)==3140
+ OnUpdate: _dt==16. clocks(msec)==1673
+ OnRender: clocks(msec)==1666
+ OnUpdate: _dt==31. clocks(msec)==3134
+ OnRender: clocks(msec)==3161
+ OnUpdate: _dt==16. clocks(msec)==1694
+ OnRender: clocks(msec)==1680
+ OnUpdate: _dt==15. clocks(msec)==3148
+ OnRender: clocks(msec)==3174
+ OnUpdate: _dt==16. clocks(msec)==1707
+ OnRender: clocks(msec)==1693
+ OnUpdate: _dt==16. clocks(msec)==3161
+ OnRender: clocks(msec)==3187
+ OnUpdate: _dt==0. clocks(msec)==1720
+ OnRender: clocks(msec)==1706
+ OnUpdate: _dt==15. clocks(msec)==3174
+ OnRender: clocks(msec)==3201
+ OnUpdate: _dt==16. clocks(msec)==1733
+ OnRender: clocks(msec)==1722
+ OnUpdate: _dt==15. clocks(msec)==3190
+ OnRender: clocks(msec)==3214
+ OnUpdate: _dt==16. clocks(msec)==1747
+ OnRender: clocks(msec)==1736
+ OnUpdate: _dt==16. clocks(msec)==3203
+ OnRender: clocks(msec)==3227
+ OnUpdate: _dt==15. clocks(msec)==1760
+ OnRender: clocks(msec)==1749
+ OnUpdate: _dt==16. clocks(msec)==3216
+ OnRender: clocks(msec)==3240
+ OnUpdate: _dt==0. clocks(msec)==1773
+ OnRender: clocks(msec)==1762
+ OnUpdate: _dt==15. clocks(msec)==3229
+ OnRender: clocks(msec)==3253
+ OnUpdate: _dt==16. clocks(msec)==1786
+ OnRender: clocks(msec)==1775
+ OnUpdate: _dt==16. clocks(msec)==3243
+ OnRender: clocks(msec)==3267
+ OnUpdate: _dt==15. clocks(msec)==1799
+ OnRender: clocks(msec)==1787
+ OnUpdate: _dt==16. clocks(msec)==3256
+ OnRender: clocks(msec)==3280
+ OnUpdate: _dt==0. clocks(msec)==1812
+ OnRender: clocks(msec)==1800
+ OnUpdate: _dt==15. clocks(msec)==3269
+ OnRender: clocks(msec)==3293
+ OnUpdate: _dt==16. clocks(msec)==1825
+ OnRender: clocks(msec)==1814
+ OnUpdate: _dt==16. clocks(msec)==3283
+ OnRender: clocks(msec)==3306
+ OnUpdate: _dt==15. clocks(msec)==1838
+ OnRender: clocks(msec)==1827
+ OnUpdate: _dt==16. clocks(msec)==3296
+ OnRender: clocks(msec)==3321
+ OnUpdate: _dt==15. clocks(msec)==1852
+ OnRender: clocks(msec)==1840
+ OnUpdate: _dt==0. clocks(msec)==3310
+ OnRender: clocks(msec)==3335
+ OnUpdate: _dt==16. clocks(msec)==1866
+ OnRender: clocks(msec)==1855
+ OnUpdate: _dt==16. clocks(msec)==3325
+ OnRender: clocks(msec)==3349
+ OnUpdate: _dt==15. clocks(msec)==1879
+ OnRender: clocks(msec)==1868
+ OnUpdate: _dt==16. clocks(msec)==3338
+ OnRender: clocks(msec)==3362
+ OnUpdate: _dt==15. clocks(msec)==1892
+ OnRender: clocks(msec)==1881
+ OnUpdate: _dt==16. clocks(msec)==3351
+ OnRender: clocks(msec)==3375
+ OnUpdate: _dt==0. clocks(msec)==1905
+ OnRender: clocks(msec)==1893
+ OnUpdate: _dt==16. clocks(msec)==3364
+ OnRender: clocks(msec)==3391
+ OnUpdate: _dt==15. clocks(msec)==1920
+ OnRender: clocks(msec)==1905
+ OnUpdate: _dt==16. clocks(msec)==3377
+ OnRender: clocks(msec)==3405
+ OnUpdate: _dt==15. clocks(msec)==1933
+ OnRender: clocks(msec)==1919
+ OnUpdate: _dt==16. clocks(msec)==3391
+ OnRender: clocks(msec)==3418
+ OnUpdate: _dt==16. clocks(msec)==1947
+ OnRender: clocks(msec)==1933
+ OnUpdate: _dt==15. clocks(msec)==3404
+ OnRender: clocks(msec)==3431
+ OnUpdate: _dt==0. clocks(msec)==1961
+ OnRender: clocks(msec)==1947
+ OnUpdate: _dt==16. clocks(msec)==3417
+ OnRender: clocks(msec)==3449
+ OnUpdate: _dt==31. clocks(msec)==1980
+ OnRender: clocks(msec)==1960
+ OnUpdate: _dt==0. clocks(msec)==3430
+ OnRender: clocks(msec)==3462
+ OnUpdate: _dt==16. clocks(msec)==1993
+ OnRender: clocks(msec)==1973
+ OnUpdate: _dt==15. clocks(msec)==3442
+ OnRender: clocks(msec)==3475
+ OnUpdate: _dt==16. clocks(msec)==2007
+ OnRender: clocks(msec)==1986
+ OnUpdate: _dt==15. clocks(msec)==3455
+ OnRender: clocks(msec)==3489
+ OnUpdate: _dt==16. clocks(msec)==2021
+ OnRender: clocks(msec)==2002
+ OnUpdate: _dt==16. clocks(msec)==3471
+ OnRender: clocks(msec)==3503
+ OnUpdate: _dt==0. clocks(msec)==2034
+ OnRender: clocks(msec)==2016
+ OnUpdate: _dt==15. clocks(msec)==3485
+ OnRender: clocks(msec)==3515
+ OnUpdate: _dt==16. clocks(msec)==2047
+ OnRender: clocks(msec)==2029
+ OnUpdate: _dt==15. clocks(msec)==3498
+ OnRender: clocks(msec)==3529
+ OnUpdate: _dt==16. clocks(msec)==2060
+ OnRender: clocks(msec)==2041
+ OnUpdate: _dt==16. clocks(msec)==3511
+ OnRender: clocks(msec)==3542
+ OnUpdate: _dt==15. clocks(msec)==2073
+ OnRender: clocks(msec)==2057
+ OnUpdate: _dt==16. clocks(msec)==3527
+ OnRender: clocks(msec)==3555
+ OnUpdate: _dt==0. clocks(msec)==2086
+ OnRender: clocks(msec)==2070
+ OnUpdate: _dt==15. clocks(msec)==3540
+ OnRender: clocks(msec)==3568
+ OnUpdate: _dt==16. clocks(msec)==2099
+ OnRender: clocks(msec)==2083
+ OnUpdate: _dt==16. clocks(msec)==3553
+ OnRender: clocks(msec)==3581
+ OnUpdate: _dt==15. clocks(msec)==2111
+ OnRender: clocks(msec)==2096
+ OnUpdate: _dt==0. clocks(msec)==3567
+ OnRender: clocks(msec)==3597
+ OnUpdate: _dt==0. clocks(msec)==2127
+ OnRender: clocks(msec)==2109
+ OnUpdate: _dt==0. clocks(msec)==3580
+ OnRender: clocks(msec)==3610
+ OnUpdate: _dt==16. clocks(msec)==2139
+ OnRender: clocks(msec)==2122
+ OnUpdate: _dt==16. clocks(msec)==3593
+ OnRender: clocks(msec)==3622
+ OnUpdate: _dt==15. clocks(msec)==2152
+ OnRender: clocks(msec)==2135
+ OnUpdate: _dt==16. clocks(msec)==3606
+ OnRender: clocks(msec)==3634
+ OnUpdate: _dt==0. clocks(msec)==2164
+ OnRender: clocks(msec)==2147
+ OnUpdate: _dt==15. clocks(msec)==3618
+ OnRender: clocks(msec)==3647
+ OnUpdate: _dt==16. clocks(msec)==2177
+ OnRender: clocks(msec)==2160
+ OnUpdate: _dt==16. clocks(msec)==3631
+ OnRender: clocks(msec)==3662
+ OnUpdate: _dt==15. clocks(msec)==2191
+ OnRender: clocks(msec)==2172
+ OnUpdate: _dt==16. clocks(msec)==3643
+ OnRender: clocks(msec)==3674
+ OnUpdate: _dt==0. clocks(msec)==2203
+ OnRender: clocks(msec)==2184
+ OnUpdate: _dt==15. clocks(msec)==3656
+ OnRender: clocks(msec)==3687
+ OnUpdate: _dt==16. clocks(msec)==2216
+ OnRender: clocks(msec)==2197
+ OnUpdate: _dt==16. clocks(msec)==3668
+ OnRender: clocks(msec)==3699
+ OnUpdate: _dt==15. clocks(msec)==2229
+ OnRender: clocks(msec)==2210
+ OnUpdate: _dt==0. clocks(msec)==3680
+ OnRender: clocks(msec)==3711
+ OnUpdate: _dt==16. clocks(msec)==2242
+ OnRender: clocks(msec)==2223
+ OnUpdate: _dt==15. clocks(msec)==3693
+ OnRender: clocks(msec)==3723
+ OnUpdate: _dt==16. clocks(msec)==2253
+ OnRender: clocks(msec)==2235
+ OnUpdate: _dt==0. clocks(msec)==3705
+ OnRender: clocks(msec)==3735
+ OnUpdate: _dt==16. clocks(msec)==2265
+ OnRender: clocks(msec)==2247
+ OnUpdate: _dt==15. clocks(msec)==3718
+ OnRender: clocks(msec)==3748
+ OnUpdate: _dt==16. clocks(msec)==2277
+ OnRender: clocks(msec)==2260
+ OnUpdate: _dt==15. clocks(msec)==3732
+ OnRender: clocks(msec)==3761
+ OnUpdate: _dt==16. clocks(msec)==2289
+ OnRender: clocks(msec)==2272
+ OnUpdate: _dt==0. clocks(msec)==3745
+ OnRender: clocks(msec)==3774
+ OnUpdate: _dt==16. clocks(msec)==2301
+ OnRender: clocks(msec)==2284
+ OnUpdate: _dt==15. clocks(msec)==3758
+ OnRender: clocks(msec)==3787
+ OnUpdate: _dt==16. clocks(msec)==2313
+ OnRender: clocks(msec)==2296
+ OnUpdate: _dt==0. clocks(msec)==3770
+ OnRender: clocks(msec)==3799
+ OnUpdate: _dt==15. clocks(msec)==2325
+ OnRender: clocks(msec)==2309
+ OnUpdate: _dt==16. clocks(msec)==3783
+ OnRender: clocks(msec)==3813
+ OnUpdate: _dt==16. clocks(msec)==2339
+ OnRender: clocks(msec)==2321
+ OnUpdate: _dt==15. clocks(msec)==3795
+ OnRender: clocks(msec)==3825
+ OnUpdate: _dt==16. clocks(msec)==2351
+ OnRender: clocks(msec)==2333
+ OnUpdate: _dt==0. clocks(msec)==3807
+ OnRender: clocks(msec)==3837
+ OnUpdate: _dt==15. clocks(msec)==2363
+ OnRender: clocks(msec)==2345
+ OnUpdate: _dt==16. clocks(msec)==3819
+ OnRender: clocks(msec)==3848
+ OnUpdate: _dt==16. clocks(msec)==2375
+ OnRender: clocks(msec)==2357
+ OnUpdate: _dt==0. clocks(msec)==3831
+ OnRender: clocks(msec)==3863
+ OnUpdate: _dt==15. clocks(msec)==2389
+ OnRender: clocks(msec)==2369
+ OnUpdate: _dt==16. clocks(msec)==3843
+ OnRender: clocks(msec)==3874
+ OnUpdate: _dt==15. clocks(msec)==2401
+ OnRender: clocks(msec)==2381
+ OnUpdate: _dt==16. clocks(msec)==3854
+ OnRender: clocks(msec)==3886
+ OnUpdate: _dt==0. clocks(msec)==2413
+ OnRender: clocks(msec)==2393
+ OnUpdate: _dt==16. clocks(msec)==3866
+ OnRender: clocks(msec)==3897
+ OnUpdate: _dt==15. clocks(msec)==2425
+ OnRender: clocks(msec)==2405
+ OnUpdate: _dt==16. clocks(msec)==3878
+ OnRender: clocks(msec)==3910
+ OnUpdate: _dt==0. clocks(msec)==2438
+ OnRender: clocks(msec)==2417
+ OnUpdate: _dt==15. clocks(msec)==3890
+ OnRender: clocks(msec)==3922
+ OnUpdate: _dt==16. clocks(msec)==2449
+ OnRender: clocks(msec)==2429
+ OnUpdate: _dt==16. clocks(msec)==3902
+ OnRender: clocks(msec)==3933
+ OnUpdate: _dt==0. clocks(msec)==2461
+ OnRender: clocks(msec)==2440
+ OnUpdate: _dt==15. clocks(msec)==3913
+ OnRender: clocks(msec)==3945
+ OnUpdate: _dt==16. clocks(msec)==2473
+ OnRender: clocks(msec)==2452
+ OnUpdate: _dt==15. clocks(msec)==3924
+ OnRender: clocks(msec)==3957
+ OnUpdate: _dt==0. clocks(msec)==2486
+ OnRender: clocks(msec)==2467
+ OnUpdate: _dt==16. clocks(msec)==3938
+ OnRender: clocks(msec)==3969
+ OnUpdate: _dt==16. clocks(msec)==2498
+ OnRender: clocks(msec)==2479
+ OnUpdate: _dt==15. clocks(msec)==3950
+ OnRender: clocks(msec)==3981
+ OnUpdate: _dt==16. clocks(msec)==2510
+ OnRender: clocks(msec)==2490
+ OnUpdate: _dt==0. clocks(msec)==3961
+ OnRender: clocks(msec)==3992
+ OnUpdate: _dt==15. clocks(msec)==2522
+ OnRender: clocks(msec)==2502
+ OnUpdate: _dt==16. clocks(msec)==3972
+ OnRender: clocks(msec)==4003
+ OnUpdate: _dt==16. clocks(msec)==2533
+ OnRender: clocks(msec)==2515
+ OnUpdate: _dt==0. clocks(msec)==3985
+ OnRender: clocks(msec)==4014
+ OnUpdate: _dt==15. clocks(msec)==2545
+ OnRender: clocks(msec)==2527
+ OnUpdate: _dt==16. clocks(msec)==3997
+ OnRender: clocks(msec)==4026
+ OnUpdate: _dt==15. clocks(msec)==2557
+ OnRender: clocks(msec)==2539
+ OnUpdate: _dt==0. clocks(msec)==4009
+ OnRender: clocks(msec)==4038
+ OnUpdate: _dt==16. clocks(msec)==2569
+ OnRender: clocks(msec)==2552
+ OnUpdate: _dt==16. clocks(msec)==4021
+ OnRender: clocks(msec)==4050
+ OnUpdate: _dt==15. clocks(msec)==2582
+ OnRender: clocks(msec)==2565
+ OnUpdate: _dt==16. clocks(msec)==4033
+ OnRender: clocks(msec)==4063
+ OnUpdate: _dt==0. clocks(msec)==2596
+ OnRender: clocks(msec)==2580
+ OnUpdate: _dt==15. clocks(msec)==4047
+ OnRender: clocks(msec)==4076
+ OnUpdate: _dt==16. clocks(msec)==2609
+ OnRender: clocks(msec)==2592
+ OnUpdate: _dt==16. clocks(msec)==4060
+ OnRender: clocks(msec)==4089
+ OnUpdate: _dt==15. clocks(msec)==2621
+ OnRender: clocks(msec)==2604
+ OnUpdate: _dt==16. clocks(msec)==4073
+ OnRender: clocks(msec)==4101
+ OnUpdate: _dt==0. clocks(msec)==2633
+ OnRender: clocks(msec)==2617
+ OnUpdate: _dt==15. clocks(msec)==4085
+ OnRender: clocks(msec)==4113
+ OnUpdate: _dt==16. clocks(msec)==2645
+ OnRender: clocks(msec)==2629
+ OnUpdate: _dt==16. clocks(msec)==4097
+ OnRender: clocks(msec)==4124
+ OnUpdate: _dt==0. clocks(msec)==2656
+ OnRender: clocks(msec)==2641
+ OnUpdate: _dt==15. clocks(msec)==4110
+ OnRender: clocks(msec)==4136
+ OnUpdate: _dt==16. clocks(msec)==2667
+ OnRender: clocks(msec)==2652
+ OnUpdate: _dt==15. clocks(msec)==4121
+ OnRender: clocks(msec)==4147
+ OnUpdate: _dt==0. clocks(msec)==2679
+ OnRender: clocks(msec)==2664
+ OnUpdate: _dt==16. clocks(msec)==4132
+ OnRender: clocks(msec)==4157
+ OnUpdate: _dt==16. clocks(msec)==2690
+ OnRender: clocks(msec)==2677
+ OnUpdate: _dt==15. clocks(msec)==4144
+ OnRender: clocks(msec)==4168
+ OnUpdate: _dt==0. clocks(msec)==2702
+ OnRender: clocks(msec)==2688
+ OnUpdate: _dt==16. clocks(msec)==4155
+ OnRender: clocks(msec)==4180
+ OnUpdate: _dt==15. clocks(msec)==2713
+ OnRender: clocks(msec)==2699
+ OnUpdate: _dt==16. clocks(msec)==4166
+ OnRender: clocks(msec)==4190
+ OnUpdate: _dt==0. clocks(msec)==2724
+ OnRender: clocks(msec)==2711
+ OnUpdate: _dt==16. clocks(msec)==4177
+ OnRender: clocks(msec)==4201
+ OnUpdate: _dt==15. clocks(msec)==2735
+ OnRender: clocks(msec)==2722
+ OnUpdate: _dt==0. clocks(msec)==4188
+ OnRender: clocks(msec)==4211
+ OnUpdate: _dt==16. clocks(msec)==2746
+ OnRender: clocks(msec)==2737
+ OnUpdate: _dt==15. clocks(msec)==4202
+ OnRender: clocks(msec)==4221
+ OnUpdate: _dt==16. clocks(msec)==2757
+ OnRender: clocks(msec)==2748
+ OnUpdate: _dt==0. clocks(msec)==4213
+ OnRender: clocks(msec)==4232
+ OnUpdate: _dt==16. clocks(msec)==2767
+ OnRender: clocks(msec)==2758
+ OnUpdate: _dt==15. clocks(msec)==4224
+ OnRender: clocks(msec)==4245
+ OnUpdate: _dt==0. clocks(msec)==2779
+ OnRender: clocks(msec)==2771
+ OnUpdate: _dt==16. clocks(msec)==4237
+ OnRender: clocks(msec)==4258
+ OnUpdate: _dt==15. clocks(msec)==2792
+ OnRender: clocks(msec)==2786
+ OnUpdate: _dt==16. clocks(msec)==4252
+ OnRender: clocks(msec)==4271
+ OnUpdate: _dt==16. clocks(msec)==2805
+ OnRender: clocks(msec)==2799
+ OnUpdate: _dt==15. clocks(msec)==4265
+ OnRender: clocks(msec)==4284
+ OnUpdate: _dt==16. clocks(msec)==2818
+ OnRender: clocks(msec)==2811
+ OnUpdate: _dt==0. clocks(msec)==4277
+ OnRender: clocks(msec)==4296
+ OnUpdate: _dt==15. clocks(msec)==2830
+ OnRender: clocks(msec)==2821
+ OnUpdate: _dt==16. clocks(msec)==4288
+ OnRender: clocks(msec)==4308
+ OnUpdate: _dt==16. clocks(msec)==2841
+ OnRender: clocks(msec)==2833
+ OnUpdate: _dt==0. clocks(msec)==4300
+ OnRender: clocks(msec)==4320
+ OnUpdate: _dt==15. clocks(msec)==2854
+ OnRender: clocks(msec)==2844
+ OnUpdate: _dt==16. clocks(msec)==4311
+ OnRender: clocks(msec)==4331
+ OnUpdate: _dt==0. clocks(msec)==2864
+ OnRender: clocks(msec)==2855
+ OnUpdate: _dt==15. clocks(msec)==4322
+ OnRender: clocks(msec)==4341
+ OnUpdate: _dt==16. clocks(msec)==2874
+ OnRender: clocks(msec)==2866
+ OnUpdate: _dt==16. clocks(msec)==4334
+ OnRender: clocks(msec)==4352
+ OnUpdate: _dt==0. clocks(msec)==2884
+ OnRender: clocks(msec)==2876
+ OnUpdate: _dt==15. clocks(msec)==4345
+ OnRender: clocks(msec)==4363
+ OnUpdate: _dt==16. clocks(msec)==2895
+ OnRender: clocks(msec)==2888
+ OnUpdate: _dt==0. clocks(msec)==4356
+ OnRender: clocks(msec)==4375
+ OnUpdate: _dt==15. clocks(msec)==2907
+ OnRender: clocks(msec)==2899
+ OnUpdate: _dt==16. clocks(msec)==4368
+ OnRender: clocks(msec)==4385
+ OnUpdate: _dt==16. clocks(msec)==2917
+ OnRender: clocks(msec)==2910
+ OnUpdate: _dt==0. clocks(msec)==4378
+ OnRender: clocks(msec)==4396
+ OnUpdate: _dt==15. clocks(msec)==2928
+ OnRender: clocks(msec)==2921
+ OnUpdate: _dt==16. clocks(msec)==4389
+ OnRender: clocks(msec)==4406
+ OnUpdate: _dt==0. clocks(msec)==2938
+ OnRender: clocks(msec)==2931
+ OnUpdate: _dt==15. clocks(msec)==4399
+ OnRender: clocks(msec)==4417
+ OnUpdate: _dt==16. clocks(msec)==2949
+ OnRender: clocks(msec)==2943
+ OnUpdate: _dt==0. clocks(msec)==4411
+ OnRender: clocks(msec)==4427
+ OnUpdate: _dt==16. clocks(msec)==2960
+ OnRender: clocks(msec)==2954
+ OnUpdate: _dt==15. clocks(msec)==4422
+ OnRender: clocks(msec)==4437
+ OnUpdate: _dt==0. clocks(msec)==2970
+ OnRender: clocks(msec)==2965
+ OnUpdate: _dt==16. clocks(msec)==4433
+ OnRender: clocks(msec)==4447
+ OnUpdate: _dt==15. clocks(msec)==2979
+ OnRender: clocks(msec)==2975
+ OnUpdate: _dt==0. clocks(msec)==4443
+ OnRender: clocks(msec)==4457
+ OnUpdate: _dt==16. clocks(msec)==2989
+ OnRender: clocks(msec)==2984
+ OnUpdate: _dt==16. clocks(msec)==4452
+ OnRender: clocks(msec)==4467
+ OnUpdate: _dt==0. clocks(msec)==2999
+ OnRender: clocks(msec)==2996
+ OnUpdate: _dt==15. clocks(msec)==4464
+ OnRender: clocks(msec)==4477
+ OnUpdate: _dt==16. clocks(msec)==3009
+ OnRender: clocks(msec)==3006
+ OnUpdate: _dt==0. clocks(msec)==4474
+ OnRender: clocks(msec)==4487
+ OnUpdate: _dt==15. clocks(msec)==3019
+ OnRender: clocks(msec)==3016
+ OnUpdate: _dt==16. clocks(msec)==4484
+ OnRender: clocks(msec)==4496
+ OnUpdate: _dt==16. clocks(msec)==3035
+ OnRender: clocks(msec)==3032
+ OnUpdate: _dt==0. clocks(msec)==4494
+ OnRender: clocks(msec)==4506
+ OnUpdate: _dt==15. clocks(msec)==3044
+ OnRender: clocks(msec)==3043
+ OnUpdate: _dt==0. clocks(msec)==4505
+ OnRender: clocks(msec)==4517
+ OnUpdate: _dt==16. clocks(msec)==3055
+ OnRender: clocks(msec)==3054
+ OnUpdate: _dt==15. clocks(msec)==4517
+ OnRender: clocks(msec)==4527
+ OnUpdate: _dt==16. clocks(msec)==3065
+ OnRender: clocks(msec)==3064
+ OnUpdate: _dt==0. clocks(msec)==4526
+ OnRender: clocks(msec)==4537
+ OnUpdate: _dt==16. clocks(msec)==3075
+ OnRender: clocks(msec)==3073
+ OnUpdate: _dt==0. clocks(msec)==4535
+ OnRender: clocks(msec)==4547
+ OnUpdate: _dt==15. clocks(msec)==3085
+ OnRender: clocks(msec)==3083
+ OnUpdate: _dt==16. clocks(msec)==4545
+ OnRender: clocks(msec)==4556
+ OnUpdate: _dt==0. clocks(msec)==3094
+ OnRender: clocks(msec)==3092
+ OnUpdate: _dt==15. clocks(msec)==4555
+ OnRender: clocks(msec)==4566
+ OnUpdate: _dt==16. clocks(msec)==3104
+ OnRender: clocks(msec)==3102
+ OnUpdate: _dt==0. clocks(msec)==4564
+ OnRender: clocks(msec)==4575
+ OnUpdate: _dt==16. clocks(msec)==3114
+ OnRender: clocks(msec)==3112
+ OnUpdate: _dt==0. clocks(msec)==4573
+ OnRender: clocks(msec)==4584
+ OnUpdate: _dt==15. clocks(msec)==3124
+ OnRender: clocks(msec)==3122
+ OnUpdate: _dt==16. clocks(msec)==4582
+ OnRender: clocks(msec)==4593
+ OnUpdate: _dt==0. clocks(msec)==3133
+ OnRender: clocks(msec)==3131
+ OnUpdate: _dt==15. clocks(msec)==4591
+ OnRender: clocks(msec)==4602
+ OnUpdate: _dt==0. clocks(msec)==3142
+ OnRender: clocks(msec)==3140
+ OnUpdate: _dt==16. clocks(msec)==4601
+ OnRender: clocks(msec)==4611
+ OnUpdate: _dt==0. clocks(msec)==3151
+ OnRender: clocks(msec)==3150
+ OnUpdate: _dt==16. clocks(msec)==4610
+ OnRender: clocks(msec)==4620
+ OnUpdate: _dt==15. clocks(msec)==3161
+ OnRender: clocks(msec)==3160
+ OnUpdate: _dt==0. clocks(msec)==4620
+ OnRender: clocks(msec)==4629
+ OnUpdate: _dt==16. clocks(msec)==3170
+ OnRender: clocks(msec)==3169
+ OnUpdate: _dt==0. clocks(msec)==4629
+ OnRender: clocks(msec)==4639
+ OnUpdate: _dt==15. clocks(msec)==3179
+ OnRender: clocks(msec)==3178
+ OnUpdate: _dt==16. clocks(msec)==4638
+ OnRender: clocks(msec)==4648
+ OnUpdate: _dt==0. clocks(msec)==3188
+ OnRender: clocks(msec)==3187
+ OnUpdate: _dt==16. clocks(msec)==4647
+ OnRender: clocks(msec)==4658
+ OnUpdate: _dt==0. clocks(msec)==3198
+ OnRender: clocks(msec)==3195
+ OnUpdate: _dt==15. clocks(msec)==4656
+ OnRender: clocks(msec)==4668
+ OnUpdate: _dt==16. clocks(msec)==3207
+ OnRender: clocks(msec)==3205
+ OnUpdate: _dt==0. clocks(msec)==4666
+ OnRender: clocks(msec)==4678
+ OnUpdate: _dt==15. clocks(msec)==3218
+ OnRender: clocks(msec)==3214
+ OnUpdate: _dt==16. clocks(msec)==4675
+ OnRender: clocks(msec)==4687
+ OnUpdate: _dt==0. clocks(msec)==3226
+ OnRender: clocks(msec)==3223
+ OnUpdate: _dt==16. clocks(msec)==4684
+ OnRender: clocks(msec)==4696
+ OnUpdate: _dt==0. clocks(msec)==3235
+ OnRender: clocks(msec)==3232
+ OnUpdate: _dt==15. clocks(msec)==4693
+ OnRender: clocks(msec)==4705
+ OnUpdate: _dt==0. clocks(msec)==3244
+ OnRender: clocks(msec)==3241
+ OnUpdate: _dt==16. clocks(msec)==4702
+ OnRender: clocks(msec)==4713
+ OnUpdate: _dt==0. clocks(msec)==3253
+ OnRender: clocks(msec)==3250
+ OnUpdate: _dt==15. clocks(msec)==4710
+ OnRender: clocks(msec)==4722
+ OnUpdate: _dt==16. clocks(msec)==3263
+ OnRender: clocks(msec)==3259
+ OnUpdate: _dt==0. clocks(msec)==4719
+ OnRender: clocks(msec)==4731
+ OnUpdate: _dt==16. clocks(msec)==3272
+ OnRender: clocks(msec)==3268
+ OnUpdate: _dt==0. clocks(msec)==4727
+ OnRender: clocks(msec)==4740
+ OnUpdate: _dt==15. clocks(msec)==3281
+ OnRender: clocks(msec)==3276
+ OnUpdate: _dt==0. clocks(msec)==4736
+ OnRender: clocks(msec)==4749
+ OnUpdate: _dt==16. clocks(msec)==3289
+ OnRender: clocks(msec)==3285
+ OnUpdate: _dt==15. clocks(msec)==4745
+ OnRender: clocks(msec)==4758
+ OnUpdate: _dt==0. clocks(msec)==3298
+ OnRender: clocks(msec)==3294
+ OnUpdate: _dt==16. clocks(msec)==4754
+ OnRender: clocks(msec)==4767
+ OnUpdate: _dt==0. clocks(msec)==3307
+ OnRender: clocks(msec)==3303
+ OnUpdate: _dt==16. clocks(msec)==4764
+ OnRender: clocks(msec)==4777
+ OnUpdate: _dt==15. clocks(msec)==3316
+ OnRender: clocks(msec)==3311
+ OnUpdate: _dt==0. clocks(msec)==4773
+ OnRender: clocks(msec)==4787
+ OnUpdate: _dt==16. clocks(msec)==3325
+ OnRender: clocks(msec)==3320
+ OnUpdate: _dt==0. clocks(msec)==4782
+ OnRender: clocks(msec)==4795
+ OnUpdate: _dt==15. clocks(msec)==3333
+ OnRender: clocks(msec)==3328
+ OnUpdate: _dt==0. clocks(msec)==4790
+ OnRender: clocks(msec)==4803
+ OnUpdate: _dt==16. clocks(msec)==3341
+ OnRender: clocks(msec)==3336
+ OnUpdate: _dt==0. clocks(msec)==4798
+ OnRender: clocks(msec)==4811
+ OnUpdate: _dt==16. clocks(msec)==3349
+ OnUpdate: _dt==0. clocks(msec)==4807
+ OnUpdate: _dt==15. clocks(msec)==3357
+ OnUpdate: _dt==0. clocks(msec)==4814
+ OnUpdate: _dt==16. clocks(msec)==3365
+ OnUpdate: _dt==0. clocks(msec)==4823
+ OnUpdate: _dt==15. clocks(msec)==3374
+ OnUpdate: _dt==16. clocks(msec)==4832
+ OnUpdate: _dt==0. clocks(msec)==3382
+ OnUpdate: _dt==16. clocks(msec)==4839
+ OnUpdate: _dt==0. clocks(msec)==3391
+ OnUpdate: _dt==15. clocks(msec)==4846
+ OnUpdate: _dt==0. clocks(msec)==3399
+ OnUpdate: _dt==16. clocks(msec)==4854
+ OnUpdate: _dt==0. clocks(msec)==3407
+ OnUpdate: _dt==15. clocks(msec)==4861
+ OnRender: clocks(msec)==3464
+ OnUpdate: _dt==0. clocks(msec)==3415
+ OnRender: clocks(msec)==4819
+ OnUpdate: _dt==16. clocks(msec)==4868
+ OnRender: clocks(msec)==3471
+ OnUpdate: _dt==0. clocks(msec)==3423
+ OnRender: clocks(msec)==4827
+ OnUpdate: _dt==0. clocks(msec)==4875
+ OnRender: clocks(msec)==3479
+ OnUpdate: _dt==0. clocks(msec)==3431
+ OnRender: clocks(msec)==4835
+ OnUpdate: _dt==15. clocks(msec)==4884
+ OnRender: clocks(msec)==3487
+ OnUpdate: _dt==0. clocks(msec)==3439
+ OnRender: clocks(msec)==4843
+ OnUpdate: _dt==16. clocks(msec)==4891
+ OnRender: clocks(msec)==3494
+ OnUpdate: _dt==0. clocks(msec)==3447
+ OnRender: clocks(msec)==4850
+ OnUpdate: _dt==0. clocks(msec)==4898
+ OnRender: clocks(msec)==3501
+ OnUpdate: _dt==15. clocks(msec)==3454
+ OnRender: clocks(msec)==4858
+ OnUpdate: _dt==0. clocks(msec)==4905
+ OnRender: clocks(msec)==3508
+ OnUpdate: _dt==16. clocks(msec)==3462
+ OnRender: clocks(msec)==4866
+ OnUpdate: _dt==0. clocks(msec)==4912
+ OnRender: clocks(msec)==3515
+ OnUpdate: _dt==16. clocks(msec)==3469
+ OnRender: clocks(msec)==4873
+ OnUpdate: _dt==0. clocks(msec)==4920
+ OnRender: clocks(msec)==3523
+ OnUpdate: _dt==15. clocks(msec)==3476
+ OnRender: clocks(msec)==4880
+ OnUpdate: _dt==0. clocks(msec)==4928
+ OnRender: clocks(msec)==3531
+ OnUpdate: _dt==16. clocks(msec)==3484
+ OnRender: clocks(msec)==4888
+ OnUpdate: _dt==0. clocks(msec)==4935
+ OnRender: clocks(msec)==3538
+ OnUpdate: _dt==15. clocks(msec)==3492
+ OnRender: clocks(msec)==4896
+ OnUpdate: _dt==0. clocks(msec)==4943
+ OnRender: clocks(msec)==3546
+ OnUpdate: _dt==16. clocks(msec)==3499
+ OnRender: clocks(msec)==4903
+ OnUpdate: _dt==0. clocks(msec)==4950
+ OnRender: clocks(msec)==3553
+ OnUpdate: _dt==16. clocks(msec)==3507
+ OnRender: clocks(msec)==4911
+ OnUpdate: _dt==0. clocks(msec)==4957
+ OnRender: clocks(msec)==3560
+ OnUpdate: _dt==15. clocks(msec)==3514
+ OnRender: clocks(msec)==4918
+ OnUpdate: _dt==0. clocks(msec)==4965
+ OnRender: clocks(msec)==3568
+ OnUpdate: _dt==16. clocks(msec)==3521
+ OnRender: clocks(msec)==4926
+ OnUpdate: _dt==0. clocks(msec)==4973
+ OnRender: clocks(msec)==3575
+ OnUpdate: _dt==15. clocks(msec)==3529
+ OnRender: clocks(msec)==4934
+ OnUpdate: _dt==0. clocks(msec)==4981
+ OnRender: clocks(msec)==3582
+ OnUpdate: _dt==16. clocks(msec)==3536
+ OnRender: clocks(msec)==4942
+ OnUpdate: _dt==0. clocks(msec)==4988
+ OnRender: clocks(msec)==3590
+ OnUpdate: _dt==0. clocks(msec)==3544
+ OnRender: clocks(msec)==4949
+ OnUpdate: _dt==16. clocks(msec)==4995
+ OnRender: clocks(msec)==3597
+ OnUpdate: _dt==0. clocks(msec)==3551
+ OnRender: clocks(msec)==4956
+ OnUpdate: _dt==15. clocks(msec)==5003
+ OnRender: clocks(msec)==3605
+ OnUpdate: _dt==0. clocks(msec)==3558
+ OnRender: clocks(msec)==4963
+ OnUpdate: _dt==16. clocks(msec)==5010
+ OnRender: clocks(msec)==3612
+ OnUpdate: _dt==0. clocks(msec)==3565
+ OnRender: clocks(msec)==4970
+ OnUpdate: _dt==15. clocks(msec)==5018
+ OnRender: clocks(msec)==3619
+ OnUpdate: _dt==0. clocks(msec)==3572
+ OnRender: clocks(msec)==4978
+ OnUpdate: _dt==16. clocks(msec)==5025
+ OnRender: clocks(msec)==3627
+ OnUpdate: _dt==0. clocks(msec)==3581
+ OnRender: clocks(msec)==4987
+ OnUpdate: _dt==16. clocks(msec)==5034
+ OnRender: clocks(msec)==3635
+ OnUpdate: _dt==0. clocks(msec)==3588
+ OnRender: clocks(msec)==4994
+ OnUpdate: _dt==15. clocks(msec)==5041
+ OnRender: clocks(msec)==3642
+ OnUpdate: _dt==0. clocks(msec)==3595
+ OnRender: clocks(msec)==5001
+ OnUpdate: _dt==16. clocks(msec)==5049
+ OnRender: clocks(msec)==3649
+ OnUpdate: _dt==0. clocks(msec)==3601
+ OnRender: clocks(msec)==5008
+ OnUpdate: _dt==0. clocks(msec)==5056
+ OnRender: clocks(msec)==3656
+ OnUpdate: _dt==15. clocks(msec)==3608
+ OnRender: clocks(msec)==5015
+ OnUpdate: _dt==0. clocks(msec)==5063
+ OnRender: clocks(msec)==3663
+ OnUpdate: _dt==16. clocks(msec)==3615
+ OnRender: clocks(msec)==5022
+ OnUpdate: _dt==0. clocks(msec)==5070
+ OnRender: clocks(msec)==3670
+ OnUpdate: _dt==16. clocks(msec)==3622
+ OnRender: clocks(msec)==5029
+ OnUpdate: _dt==0. clocks(msec)==5077
+ OnRender: clocks(msec)==3676
+ OnUpdate: _dt==15. clocks(msec)==3629
+ OnRender: clocks(msec)==5037
+ OnUpdate: _dt==0. clocks(msec)==5085
+ OnRender: clocks(msec)==3683
+ OnUpdate: _dt==16. clocks(msec)==3636
+ OnRender: clocks(msec)==5044
+ OnUpdate: _dt==0. clocks(msec)==5092
+ OnRender: clocks(msec)==3690
+ OnUpdate: _dt==0. clocks(msec)==3642
+ OnRender: clocks(msec)==5051
+ OnUpdate: _dt==15. clocks(msec)==5099
+ OnRender: clocks(msec)==3697
+ OnUpdate: _dt==0. clocks(msec)==3649
+ OnRender: clocks(msec)==5058
+ OnUpdate: _dt==16. clocks(msec)==5106
+ OnRender: clocks(msec)==3704
+ OnUpdate: _dt==0. clocks(msec)==3656
+ OnRender: clocks(msec)==5065
+ OnUpdate: _dt==16. clocks(msec)==5113
+ OnRender: clocks(msec)==3711
+ OnUpdate: _dt==0. clocks(msec)==3663
+ OnRender: clocks(msec)==5072
+ OnUpdate: _dt==15. clocks(msec)==5120
+ OnRender: clocks(msec)==3718
+ OnUpdate: _dt==0. clocks(msec)==3671
+ OnRender: clocks(msec)==5079
+ OnUpdate: _dt==16. clocks(msec)==5127
+ OnRender: clocks(msec)==3726
+ OnUpdate: _dt==0. clocks(msec)==3678
+ OnRender: clocks(msec)==5088
+ OnUpdate: _dt==15. clocks(msec)==5137
+ OnRender: clocks(msec)==3734
+ OnUpdate: _dt==0. clocks(msec)==3686
+ OnRender: clocks(msec)==5096
+ OnUpdate: _dt==16. clocks(msec)==5144
+ OnRender: clocks(msec)==3741
+ OnUpdate: _dt==0. clocks(msec)==3693
+ OnRender: clocks(msec)==5103
+ OnUpdate: _dt==16. clocks(msec)==5152
+ OnUpdate: _dt==0. clocks(msec)==3700
+ OnUpdate: _dt==0. clocks(msec)==5159
+ OnUpdate: _dt==15. clocks(msec)==3707
+ OnUpdate: _dt==0. clocks(msec)==5166
+ OnUpdate: _dt==16. clocks(msec)==3715
+ OnUpdate: _dt==0. clocks(msec)==5173
+ OnUpdate: _dt==15. clocks(msec)==3722
+ OnUpdate: _dt==0. clocks(msec)==5180
+ OnUpdate: _dt==16. clocks(msec)==3731
+ OnUpdate: _dt==0. clocks(msec)==5188
+ OnUpdate: _dt==16. clocks(msec)==3739
+ OnUpdate: _dt==0. clocks(msec)==5196
+ OnUpdate: _dt==15. clocks(msec)==3746
+ OnUpdate: _dt==0. clocks(msec)==5203
+ OnUpdate: _dt==16. clocks(msec)==3753
+ OnUpdate: _dt==0. clocks(msec)==5210
+ OnUpdate: _dt==16. clocks(msec)==3760
+ OnUpdate: _dt==0. clocks(msec)==5217
+ OnUpdate: _dt==0. clocks(msec)==3767
+ OnUpdate: _dt==0. clocks(msec)==5224
+ OnUpdate: _dt==0. clocks(msec)==3774
+ OnUpdate: _dt==16. clocks(msec)==5232
+ OnRender: clocks(msec)==3908
+ OnUpdate: _dt==0. clocks(msec)==3780
+ OnRender: clocks(msec)==5109
+ OnUpdate: _dt==15. clocks(msec)==5238
+ OnRender: clocks(msec)==3915
+ OnUpdate: _dt==0. clocks(msec)==3787
+ OnRender: clocks(msec)==5116
+ OnUpdate: _dt==16. clocks(msec)==5245
+ OnRender: clocks(msec)==3921
+ OnUpdate: _dt==0. clocks(msec)==3792
+ OnRender: clocks(msec)==5122
+ OnUpdate: _dt==0. clocks(msec)==5251
+ OnRender: clocks(msec)==3926
+ OnUpdate: _dt==16. clocks(msec)==3797
+ OnRender: clocks(msec)==5128
+ OnUpdate: _dt==0. clocks(msec)==5257
+ OnRender: clocks(msec)==3931
+ OnUpdate: _dt==0. clocks(msec)==3803
+ OnRender: clocks(msec)==5134
+ OnUpdate: _dt==15. clocks(msec)==5262
+ OnRender: clocks(msec)==3937
+ OnUpdate: _dt==0. clocks(msec)==3809
+ OnRender: clocks(msec)==5140
+ OnUpdate: _dt==0. clocks(msec)==5269
+ OnRender: clocks(msec)==3946
+ OnUpdate: _dt==16. clocks(msec)==3817
+ OnRender: clocks(msec)==5148
+ OnUpdate: _dt==15. clocks(msec)==5277
+ OnRender: clocks(msec)==3956
+ OnUpdate: _dt==0. clocks(msec)==3827
+ OnRender: clocks(msec)==5158
+ OnUpdate: _dt==16. clocks(msec)==5287
+ OnRender: clocks(msec)==3967
+ OnUpdate: _dt==0. clocks(msec)==3838
+ OnRender: clocks(msec)==5172
+ OnUpdate: _dt==16. clocks(msec)==5301
+ OnRender: clocks(msec)==3978
+ OnUpdate: _dt==15. clocks(msec)==3850
+ OnRender: clocks(msec)==5184
+ OnUpdate: _dt==16. clocks(msec)==5312
+ OnRender: clocks(msec)==3991
+ OnUpdate: _dt==15. clocks(msec)==3863
+ OnRender: clocks(msec)==5197
+ OnUpdate: _dt==16. clocks(msec)==5325
+ OnRender: clocks(msec)==4005
+ OnUpdate: _dt==0. clocks(msec)==3877
+ OnRender: clocks(msec)==5212
+ OnUpdate: _dt==0. clocks(msec)==5340
+ OnRender: clocks(msec)==4024
+ OnUpdate: _dt==31. clocks(msec)==3897
+ OnRender: clocks(msec)==5228
+ OnUpdate: _dt==15. clocks(msec)==5356
+ OnRender: clocks(msec)==4041
+ OnUpdate: _dt==16. clocks(msec)==3914
+ OnRender: clocks(msec)==5246
+ OnUpdate: _dt==16. clocks(msec)==5373
+ OnRender: clocks(msec)==4058
+ OnUpdate: _dt==15. clocks(msec)==3932
+ OnRender: clocks(msec)==5264
+ OnUpdate: _dt==16. clocks(msec)==5391
+ OnRender: clocks(msec)==4079
+ OnUpdate: _dt==31. clocks(msec)==3953
+ OnRender: clocks(msec)==5284
+ OnUpdate: _dt==16. clocks(msec)==5410
+ OnRender: clocks(msec)==4099
+ OnUpdate: _dt==15. clocks(msec)==3974
+ OnRender: clocks(msec)==5305
+ OnUpdate: _dt==16. clocks(msec)==5431
+ OnRender: clocks(msec)==4121
+ OnUpdate: _dt==31. clocks(msec)==3995
+ OnRender: clocks(msec)==5328
+ OnUpdate: _dt==16. clocks(msec)==5455
+ OnRender: clocks(msec)==4147
+ OnUpdate: _dt==31. clocks(msec)==4021
+ OnRender: clocks(msec)==5355
+ OnUpdate: _dt==31. clocks(msec)==5482
+ OnRender: clocks(msec)==4178
+ OnUpdate: _dt==31. clocks(msec)==4051
+ OnRender: clocks(msec)==5386
+ OnUpdate: _dt==31. clocks(msec)==5514
+ OnRender: clocks(msec)==4206
+ OnUpdate: _dt==16. clocks(msec)==4078
+ OnRender: clocks(msec)==5412
+ OnUpdate: _dt==31. clocks(msec)==5540
+ OnRender: clocks(msec)==4242
+ OnUpdate: _dt==31. clocks(msec)==4115
+ OnUpdate: _dt==47. clocks(msec)==5572
+ OnUpdate: _dt==16. clocks(msec)==4144
+ OnUpdate: _dt==31. clocks(msec)==5594
+ OnRender: clocks(msec)==5527
+ OnUpdate: _dt==31. clocks(msec)==4176
+ OnRender: clocks(msec)==4274
+ OnUpdate: _dt==31. clocks(msec)==5625
+ OnRender: clocks(msec)==5563
+ OnUpdate: _dt==32. clocks(msec)==4213
+ OnRender: clocks(msec)==4298
+ OnUpdate: _dt==31. clocks(msec)==5649
+ OnRender: clocks(msec)==5599
+ OnUpdate: _dt==31. clocks(msec)==4248
+ OnRender: clocks(msec)==4331
+ OnUpdate: _dt==31. clocks(msec)==5682
+ OnRender: clocks(msec)==5627
+ OnUpdate: _dt==31. clocks(msec)==4277
+ OnRender: clocks(msec)==4358
+ OnUpdate: _dt==32. clocks(msec)==5709
